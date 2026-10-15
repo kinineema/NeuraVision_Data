@@ -1,0 +1,8 @@
+NeuraVision MRI Dataset - IXI Frozen
+Date: 2026-10-15
+Selected subjects: 50
+T1 files: 50
+QC PASS: 50
+QC FAIL: 0
+Status: READY
+Role: Healthy/reference MRI subset

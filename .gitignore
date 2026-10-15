@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Cache and logs
+cache/
+logs/
+
+# Large/raw source datasets
+raw/literature/
+raw/mri/ixi/downloads/
+raw/mri/oasis/downloads/
+
+# Old/intermediate copies
+processed/literature/article_text_old/
+
+# Restricted OASIS data - NEVER commit
+processed/mri/oasis/
+raw/mri/oasis/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+processed/mri/ixi/t1/

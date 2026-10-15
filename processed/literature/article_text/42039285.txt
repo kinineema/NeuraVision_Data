@@ -1,0 +1,896 @@
+Pathology-directed drug delivery strategies: How to overcome blood–brain barrier for the treatment of brain diseases
+
+Despite the different degrees of blood–brain barrier (BBB) damage in diverse brain diseases, it remains a formidable barrier that restricts most drugs from penetrating the brain. A comprehensive understanding and elucidation of the disease-specific changes of BBB in various brain pathologies are essential for directing the customized brain-targeted drug delivery systems, potentially improving cerebral delivery efficiency and therapeutic efficacy. Hence, this review compared anatomical and physiological changes of BBB under healthy and pathological states and discussed the effects of these changes on cerebral delivery efficiency. Thereafter, a particular emphasis was placed on the pathology-directed drug delivery strategies tailored to different brain diseases, including Alzheimer's disease, Parkinson's disease, multiple sclerosis, stroke, and brain tumors. By combining insights from cutting-edge studies and emerging technologies, we proposed forward-looking suggestions on future directions to brain-targeted drug delivery, thereby improving the therapeutic efficacy and accelerating the translation from preclinical attempts into clinical practice.
+
+Graphical abstractThe article reviews the changes in structure and function of blood–brain barrier (BBB), summarized and discussed the unique pathological features and corresponding pathology-directed brain-targeted drug delivery systems in different brain diseases.Image 1
+
+Introduction
+In the late 19th century, Paul Ehrlich first observed a distinct staining disparity between the brain and other tissues, which was the genesis of the blood–brain barrier (BBB)1. As a dynamic regulatory interface that separates the vascular system from the brain, BBB maintains the homeostatic milieu of central nervous system (CNS). By blocking the entry of nearly 99% of small molecule drugs and almost all biotherapeutics, BBB has been regarded as the greatest challenge in the treatment of brain disease2.
+
+As the key component of BBB, the brain microvascular endothelial cells (BMECs) are distinguished by tightly sealed cell–cell contacts, extremely high transepithelial electrical resistance, and high expression of various receptors and transporters3. These receptors and transporters tightly regulate the flow of substances into and out of the brain, especially effectively barring neurotoxic substances and specific pathogens from brain entry while opening a way for essential energy and nutrients4. This physiologic transportation, especially receptor-mediated transcytosis (RMT) and carrier-mediated transport, offers significant guidance to brain-targeted drug delivery. In particular, nanotechnology has been extensively applied to develop brain-targeted drug delivery systems, endowing them with BBB permeability5.
+
+The compromise of BBB is recognized as a pivotal contributor to almost all brain diseases. For instance, the downregulation of low density lipoprotein receptor-related protein 1 (LRP1) coupled with the upregulation of receptor of advanced glycation end-products (RAGE) are observed in Alzheimer's disease (AD), which is initiated by amyloid-β (Aβ) accumulation and further accelerates cerebral Aβ deposition6. Additionally, the loss of tight junctions (TJs) with increased matrix metalloproteinases (MMP) leads to BBB breakdown. Similar damage to BBB was observed in Parkinson's disease (PD)7. As for stroke, the enhanced transcytosis across BBB goes through early and delayed phases8. The opened TJs and non-inhibited transcellular transport present inherent passages for drug to enter the brain. Some preclinical strategies have been developed to take advantage of these damages but yield modest fruits. Although drugs can more readily permeate the BBB under pathological conditions, this increased permeability is far from sufficient to achieve therapeutic efficacy. It indicates that an impaired BBB remains the primary bottleneck for drug entry into the brain.
+
+Elucidating the BBB alterations across diverse pathological states is crucial for developing active delivery strategies. It also provides guidance to tailor nanoparticles to the disease context and progression. Following the anatomical and physiological background of the BBB, this review summarized and highlighted the changes in the BBB function and structure under various brain diseases, exploring their potential effects on drug delivery into the brain. The related opportunities and challenges were subsequently evaluated. Furthermore, the development of pathology-directed brain-targeted delivery strategies for specific BBB breakdowns was discussed.
+
+Anatomical structure and physiological function of BBB
+A deep understanding of the complex anatomy and physiology of BBB is the prerequisite for designing, developing, and optimizing brain-targeted drug delivery systems. This section introduced the critical elements of BBB, including the neurovascular unit (NVU) representing the functional unit of BBB, the robust TJs sealing the intercellular channels, and specific influx/efflux transporters taking charge of the most exchange of substances between blood and brain. Additionally, the physiological functions, including waste removal, nutrient delivery, and establishment of an immune barrier, are discussed. Such insights were indispensable for brain therapies, ensuring that drugs reach intended sites, thereby improving treatment efficiency.
+
+Considered as the most important barrier to preventing drugs from the brain, BBB exists at every stratum of the CNS vascular tree (Fig. 1A and B)9. Despite the structural consistency between different vascular segments, each has distinct functional attributes. Among them, the capillaries close to neurons specialize in transporting nutrients and drug delivery10,11.Figure 1Schematic representation of BBB and NVU. (A) A coronal brain section of the localization of the cerebral blood vessels. (B) The cerebral vascular tree extends into the depths and branches into the capillary network of BBB. (C) The NVU of BBB is a cellular ensemble comprising BMECs, pericytes, astrocytes, microglia, and so on. (D) The TJs and AJs form strict physical barrier. Actin cytoskeletal filaments bind to junctional molecules to reinforce this network scaffold.Figure 1
+
+Schematic representation of BBB and NVU. (A) A coronal brain section of the localization of the cerebral blood vessels. (B) The cerebral vascular tree extends into the depths and branches into the capillary network of BBB. (C) The NVU of BBB is a cellular ensemble comprising BMECs, pericytes, astrocytes, microglia, and so on. (D) The TJs and AJs form strict physical barrier. Actin cytoskeletal filaments bind to junctional molecules to reinforce this network scaffold.
+
+Schematic representation of BBB and NVU. (A) A coronal brain section of the localization of the cerebral blood vessels. (B) The cerebral vascular tree extends into the depths and branches into the capillary network of BBB. (C) The NVU of BBB is a cellular ensemble comprising BMECs, pericytes, astrocytes, microglia, and so on. (D) The TJs and AJs form strict physical barrier. Actin cytoskeletal filaments bind to junctional molecules to reinforce this network scaffold.
+
+Composed of BMECs, pericytes, astrocytes, microglia, neurons, basement membrane, and extracellular matrix, NVU is the fundamental functional unit of BBB (Fig. 1C). As linchpins in NVU, flat BMECs form the primary physical barrier of BBB, inhibiting the non-selective paracellular diffusion of drugs into the brain12. And BMECs of capillary are covered with a basement membrane, forming a non-cellular structure to regulate BBB permeability13. In addition, pericytes cover BMECs and are embedded within the basement membrane. They have been demonstrated as the key factor in shaping the impermeability of BBB, suggesting its crucial influence on drug delivery14,15. Astrocytes are another cell type that directly encircles BMECs by polarized end-feet. Their functions cover the maintenance of BBB, the equilibrium of water exchange by aquaporin 4 on end-feet, and extracellular ion homeostasis16. Far from BBB spatially, microglia are the primary immune cells of the CNS17. They participate in immune surveillance and responses by regulating the peripheral immune cell permeability of BBB18. These components work in concert to maintain the functional integrity of BBB and regulate cerebral blood flow19. They are also actively involved in angiogenesis and neurogenesis processes.
+
+In addition, the selectively permeable BBB is characterized by the specialized TJs and adherens junctions (AJs) between BMECs (Fig. 1D)20,21. TJs comprise claudins, occludin, and junctional adhesion molecules (JAMs)22, serving as the principal regulators of selective BBB permeability23. Claudins with specific isoforms (especially claudin 3/5/12) establish the initial seal of BBB24, 25, 26. Occludin reinforces the barrier in conjunction with JAMs to preclude drugs from reaching the brain27. These TJ proteins interface with the cytoskeleton through zona occludens proteins (ZO-1, ZO-2, and ZO-3) and cingulate proteins, which allows the regulation of the TJs in response to various physiological stimuli28. AJs are predominantly constituted by transmembrane glycoproteins (e.g., vascular endothelial cadherin (VE-cadherin, also known as cadherin-5), platelet-endothelial cell adhesion molecule and catenins (α/β-catenin)). They are linked to the cytoskeleton, offering structural support and enhancing BBB integrity29. Emerging evidence has revealed that rapid adjustment and reorganization of junctional proteins would happen in response to physiological and pathological changes30. This dynamic junctional modulation introduces the potential for brain-targeted drug delivery, implying new avenues for brain disease intervention31.
+
+Moreover, the vascular endothelium of BBB is covered with a layer of villiform glycocalyx, which participates in the regulation of BBB permeability32. BBB is also equipped with an enzymatic system, which can neutralize a variety of toxic or neuroactive substances, including many therapeutic drugs33. It implies that the enzymatic defense must be considered when devising brain-targeted drug delivery strategies34.
+
+Only a few drugs can be selected to pass across BBB by five main methods, including (i) passive diffusion of lipid-soluble molecules, (ii) transport mediated by solute-like carriers (SLCs), (iii) selective transport via ATP-binding cassette transporters (ABC transporters), (iv) RMT, and (v) adsorptive-mediated transcytosis (AMT). Considering the harsh requirements of diffusion and passive transportation, only gases like oxygen and carbon dioxide, as well as lipophilic drugs with small molecular weights <400 Da, are granted free passage through BBB35.
+
+The cross-BBB traffic of most nutrients and ions depends on abundant SLC transporters36. Certain members of the SLC family (e.g., the glucose transporter 1 (GLUT1), large neutral amino acid transporter, and monocarboxylate transporter) utilize existing concentration gradients between the brain and blood, thus facilitating the transport of nutrients and ions across BBB37. Other ATP-dependent SLCs depend on ion gradients, such as proton-dependent organic cation transporters and excitatory amino acid transporter 138,39. Additionally, many SLC transporters are bidirectional, capable of bringing in the essentials and discharging waste products out of the brain40. ABC transporters are the main efflux transporters that eliminate noxious substances, including therapeutic drugs, from the brain41. Among them, P-glycoprotein (P-gp), breast cancer drug resistance proteins, and multidrug resistance-associated proteins are the three most important ones. However, the expression or functionality of ABC transporters has been observed to vary under different pathological conditions, such as AD and PD42, 43, 44. It also suggests that moderate modulation of these efflux transporters on BBB may achieve ideal intracerebral drug enrichment.
+
+For the traversal of macromolecules, RMT acts more pivotal than aforementioned ways45. For example, the insulin receptor (IR) is in charge of glucose regulation, while the transferrin receptor 1 (TfR1) is crucial for the transport of Fe ions46. Several receptors have been extensively studied for their potential to enhance drug delivery across BBB47,48. However, some substances are transported bidirectionally by different receptors. Hence, when employing RMT to deliver drugs to the brain, the potential for drug efflux must also be considered. For instance, Aβ, a key inducement of AD, outflows from the brain via the LRP1 but enters the brain by the RAGE49. Such insight hints that the differential expression and activity of receptors are critical for drug delivery, especially how to improve brain accumulation of drug. A summary of several receptors related to RMT is presented in Table 150, 51, 52, 53, 54, 55, 60.Table 1Examples of known transcytosis/transport of macromolecules across BBB via RMT.Table 1TransporterAbbreviationExample ligandsBBB directionRef.Insulin receptorIRInsulinBlood to brain50Insulin-like growth factor 1 receptorIGF1RIGF-1, IGF-2, IGF1R3-5Blood to brain51,52Transferrin receptorTfRFe-transferrin, apotransferrinBidirectional53,54Low-density lipoprotein receptorLDLRCholesterol, apolipoproteins (like APOE, APOB), gold nanoparticleBlood to brain55LDL-receptor-related protein 1 and 2LRP1LRP2Lipoproteins, Aβ, transforming growth factor β1, fibronectinBidirectional56LactoferrinLfLactoferrinBlood to brain57Receptor for advanced glycosylation end-productsRAGECalcium/grain, Aβ, high-mobility group protein 1, S100Blood to brain58Neonatal Fc receptorFcRnIgGBidirectional59Leptin receptorLEPRLeptinBlood to brain60
+
+Examples of known transcytosis/transport of macromolecules across BBB via RMT.
+
+Examples of known transcytosis/transport of macromolecules across BBB via RMT.
+
+TransporterAbbreviationExample ligandsBBB directionRef.Insulin receptorIRInsulinBlood to brain50Insulin-like growth factor 1 receptorIGF1RIGF-1, IGF-2, IGF1R3-5Blood to brain51,52Transferrin receptorTfRFe-transferrin, apotransferrinBidirectional53,54Low-density lipoprotein receptorLDLRCholesterol, apolipoproteins (like APOE, APOB), gold nanoparticleBlood to brain55LDL-receptor-related protein 1 and 2LRP1LRP2Lipoproteins, Aβ, transforming growth factor β1, fibronectinBidirectional56LactoferrinLfLactoferrinBlood to brain57Receptor for advanced glycosylation end-productsRAGECalcium/grain, Aβ, high-mobility group protein 1, S100Blood to brain58Neonatal Fc receptorFcRnIgGBidirectional59Leptin receptorLEPRLeptinBlood to brain60
+
+Beyond RMT, AMT also emerges as a promising non-specific transport of brain-targeted drugs61. AMT is based on electrostatic interactions between cationic agents and anionic membranes of BMEC, thereby eliciting endocytic processes. Hence, AMT is particularly in charge of delivering bioactive molecules such as growth factors, enzymes, and plasma proteins. Moreover, the use of cationic polymers, cationic liposomes, and select cell penetrating peptides (CPPs) in brain drug delivery has demonstrated the potential of the AMT method62.
+
+BBB changes in various brain diseases
+A unifying pathological hallmark of almost all brain diseases is BBB disruption63. Under pathological conditions, NVU is attacked by pro-inflammatory cytokines, chemokines, and reactive oxygen species (ROS). The disordered NVU triggers BBB damage including the physical, immune, and transport barriers (Fig. 2)64.Figure 2Changes of the BBB and NVU under pathological states. BBB comprises BMECs and is supported by a cast of crucial cellular constituents, including pericytes and astrocytes. In pathological conditions, BBB compromises its structural and functional integrity at multiple levels.Figure 2
+
+Changes of the BBB and NVU under pathological states. BBB comprises BMECs and is supported by a cast of crucial cellular constituents, including pericytes and astrocytes. In pathological conditions, BBB compromises its structural and functional integrity at multiple levels.
+
+Changes of the BBB and NVU under pathological states. BBB comprises BMECs and is supported by a cast of crucial cellular constituents, including pericytes and astrocytes. In pathological conditions, BBB compromises its structural and functional integrity at multiple levels.
+
+Initially, the loss of pericytes and the down-regulation of TJs significantly compromise BBB's capacity to exchange substances between blood and brain. Then, astrocyte-derived endogenous stimuli further induce the BBB opening65. The consequent inflammation causes the upregulation of adhesion molecules on BMECs, facilitating the transmigration of immune cells into the brain66. However, pathogens can exploit the cell migration into the brain, thereby initiating/exacerbating disease processes. The duality of the immune cell trafficking process shows that it can be both a pathological entry gate for pathogens and a potential therapeutic avenue for drug delivery across BBB67.
+
+The transport functions exhibit distinct pathological alterations across different brain diseases. For instance, the efflux transporter P-gp is selectively upregulated in epilepsy but down-expressed in AD and PD. While reduced P-gp activity may contribute to drug accumulation in the brain, it also impedes the clearance of potentially harmful agents like Aβ peptides68. Moreover, alterations in the expression of specific receptors (e.g., LRP1, RAGE) are often restricted to lesion areas in brain diseases69. Current therapy can modulate the expression or activity of these receptors, counteracting some of the pathological changes. However, these treatments have yet to demonstrate an ability to reverse the underlying disease conditions fully.
+
+The heterogeneity of BBB disruption in brain diseases necessitates tailored drug delivery system. In the subsequent sections, we will highlight the unique pathological characteristics of BBB in various brain diseases. Consequently, drug delivery systems can be designed to enhance the brain-targeted efficacy.
+
+As a chronic and progressive brain disorder, AD is characterized by extracellular deposition of Aβ plaques and intracellular neurofibrillary tangles of hyperphosphorylated tau protein70. Moreover, vascular pathology and various degrees of BBB breakdown are observed in AD pathology71. BBB dysfunction in AD patients can be characterized as extravasation of plasma proteins, alteration of vascular structure, aberrant expression of TJ proteins, and abnormal expression of BBB transporters72, 73, 74. These alterations especially the abnormal expression of BBB transporters disrupt the balance of Aβ transport between the brain and peripheral compartments, leading to Aβ accumulation and a vicious cycle of Aβ deposition and BBB impairment75. Under healthy conditions, bidirectional transport of Aβ between the brain and the periphery is fulfilled by transporters located on the BBB76. Aβ enters into peripheral blood through LRP1 and P-gp on BBB. Meanwhile, RAGE participates in the influx of Aβ into the brain, maintaining the intracerebral homeostasis of Aβ level. However, these transport mechanisms are gradually impaired during the progression of AD due to altered transporter expression, contributing to increased Aβ deposition and plaque formation.
+
+Under pathological conditions, the expression of the Aβ efflux transporters capillary LRP1and P-gp is decreased, while expression of the Aβ influx transporter RAGE is upregulated with a shift in the localization from neurons to microvascular endothelium, thus causing dysregulated transportation and brain Aβ accumulation77. In addition, reduced intra-mural periarterial drainage, diminished cerebrospinal fluid and inhibited Aβ-degrading enzyme may all contribute to Aβ deposition78. RAGE–Aβ interaction and the neurotoxicity of Aβ lead to overactivation of microglia, oxidative stress, constriction of pericytes and vascular smooth muscle cells, which could exacerbate inflammatory microenvironment, reduction in cerebral blood flow (CBF) and vascular dysfunction79. Therefore, Aβ accumulation aggravates BBB disruption and NVU dysfunction80. Moreover, decreased GLUT1 was observed in AD patients, which led to impaired glucose uptake and chronic energy deficiency to amplify vascular dysfunction81.
+
+This altered transporter expression provides a targeted strategy to facilitate drug delivery across the AD-associated BBB. The upregulation of RAGE enhances the potential for RAGE-specific ligand-modified nanocarriers to mediate BBB penetration. The downregulation of P-gp, a key drug efflux pump, offers increased potential for drug retention in the brain by reducing active efflux. Moreover, reversing GLUT1 and LRP1 deficits may enhance the BBB-crossing efficiency of glucose-modified or LRP1 ligand-functionalized nanocarriers, optimizing therapeutic delivery and efficacy in AD treatment. Based on the complex interactions between AD pathology and BBB evolution, the drug delivery strategies across BBB can be designed accordingly for BBB alterations with AD characteristics. Multiple strategies have been developed to bypass or cross the diseased BBB to boost the efficiency of brain-targeted drug delivery82.
+
+PD is characterized by the presence of cytoplasmic inclusion called Lewy bodies that contain abnormal aggregates of α-synuclein (α-Syn) and progressive loss of dopaminergic neurons in the substantia nigra pars compacta83. The resulting dopamine deficiency in the basal ganglia leads to motor impairments and various nonmotor features84. However, there is currently no disease-modifying therapy for PD, the clinical treatment of motor symptoms is primarily achieved through dopaminergic medications or deep brain stimulation85.
+
+In line with previous animal experiments, degenerative morphology of the cerebral vasculature, extravasation of extravascular erythrocytes, hemoglobin, and fibrinogen, as well as significantly reduced levels of TJ proteins (ZO-1 and occludin) in the striatum have been detected in PD patients86, 87, 88. Mounting evidence has implied that BBB breakdown is mainly a result of vascular dysfunction, which may be triggered by the release of pro-inflammatory cytokines and vascular endothelial growth factor (VEGF)89,90. One of the major critical participants of PD-initiated BBB dysfunction is the oligomeric α-Syn, which can lead to oxidative stress and aberrant activation of glial cells91. Specifically, α-Syn oligomers alter membrane permeability and elevate intracellular calcium ion levels, leading to mitochondrial disorder and oxidative stress92. The downstream manifestation of ROS accumulation leads to apoptosis of dopaminergic neurons and aberrant activation of glial cells93. The astrocyte-derived VEGFA and nitric oxide (NO) along with pro-inflammatory cytokines released by microglia, downregulate the expression of TJs, thereby affecting BBB integrity94. Moreover, the altered activity and expression of P-gp are believed to induce BBB damage, likely attributed to the prevention of the efflux of various neurotoxin95. Consistent with other CNS diseases, BBB alterations of structure and function have been acknowledged in PD, which is involved in the progression of PD and impacts the exposure of therapeutic agents in the brain96. The PD-specific inflammatory environment offers a rationale for utilizing immune cell homing to enhance brain drug delivery. With a comprehensive understanding of BBB pathology in PD, various therapeutic strategies have been developed to bypass or cross the compromised BBB.
+
+Multiple sclerosis (MS) is the most common cause of permanent disability in young adults, affecting around 2.8 million people worldwide97. About 80%–85% of MS patients are classified as relapse-remitting disease (RRMS) in the early stages of the disease, which is characterized by neurological dysfunction followed by a distinct degree of remission98. Across the progression of MS, approximately two-thirds of RRMS cases evolve into secondary progressive MS and show progressive aggravation without remission99. Around 15% of people newly diagnosed with MS exhibit primary progressive disease, which produces continuously worsening symptoms100. Although the etiology of MS is still not expounded, BBB breakdown is well recognized as a critical pathological event in MS101. Histopathological studies have revealed the presence of BBB abnormalities in regions with normal white matter, suggesting that BBB damage in MS extends beyond the lesion areas102.
+
+MS is characterized by multiple demyelination of neurons with axonal injury resulting from CNS infiltration of immune cells across pathological BBB103. In MS, the BMECs are activated in a pro-inflammatory manner and secrete a plethora of chemokines C–C motif ligand 19 and C–X–C motif ligand 12, recruiting peripheral leukocytes. The interaction of adhesion receptors (integrins) expressed on leukocytes and adhesion molecules (E-selectins and P-selectins) on the surface of BMECs reduces the flow rate of leukocytes. The autoreactive leukocytes infiltrate the CNS after peripheral activation and arrest the brain endothelium by intercellular adhesion molecule (ICAM) and vascular cell adhesion molecule-1 (VCAM-1) on the inflamed endothelium binding with their ligands on leukocytes. Leukocytes migrate along the vascular wall by interacting with adhesion molecules on BMECs, a process initiated by activated platelets. After reaching the inflammatory areas, the leukocytes will overcome BBB by a transcellular or paracellular pathway through modeling the caveolin-1 or remodeling TJs104. After invading CNS, T lymphocytes trigger a central immune response, especially CD4+ T-helper cells secrete neurotoxic substances such as cytokines, chemokines, ROS, and NO that can further impair the integrity of BBB, actively participating in promoting the neuroinflammatory process105. Interleukin-17 (IL-17) secreted by T helper 17 (Th17) cells can downregulate the expression of TJ protein (occludin and ZO-1), while IFN-γ and TNF-α reversibly induce the loss of VE-cadherin106. Inflammatory cytokines released by activated lymphocytes upregulate adhesion molecules on BMECs, promoting further lymphocyte recruitment. This cascade reaction expands inflammation and abnormal conduction of action potential, ultimately leading to irreversible axonal injury107. The MS-specific upregulation of adhesion molecules offers an opportunity for nanoparticles to exploit the Trojan horse strategy involving immune cells, enhancing therapeutic targeting of inflammatory lesions. Various MS-directed BBB crossing strategies have been developed to harness immune cells as efficient vehicles.
+
+Cerebrovascular diseases include various disorders caused by vascular lesions or blood rheological abnormalities, such as ischemic/hemorrhagic strokes, aneurysms, and vascular malformations108. Among them, ischemic stroke stands out because of its mortality and permanent disability worldwide109. Within the ischemic lesion, hypoperfusion disrupts the cerebral energy supply and ATP-dependent ion transport, triggering cerebral edema. Patients with sudden strokes may experience alterations in consciousness, language, behavior, visual impairment, and movement disorders110. The clinical treatment of acute ischemic stroke still relies on recombinant tissue plasminogen activator (rtPA) thrombolysis, which can rescue the surviving nerves in the ischemic penumbra area. However, the narrow therapeutic window (≤4.5 h) and potential cerebral hemorrhage limit its clinical application111,112. Furthermore, the BBB selectivity impedes the brain-targeted efficacy of rtPA, underscoring that overcoming BBB is crucial for enhancing treatment efficacy and improving clinical outcomes of ischemic stroke113.
+
+Elucidating BBB dysfunction in ischemic stroke is critical to developing effective brain-targeted nanomedicines. A biphasic pattern of BBB disruption has been manifested in stroke pathology: an early phase characterized by heightened BBB permeability seen 4‒6 h post-ischemia, followed by a delayed 2‒3-day BBB opening after onset114. In the early phase, the upregulation of chemokines and endothelial adhesion molecules (e.g., VCAM-1, ICAM-1) enhances peripheral leukocytes’ infiltration into the ischemic brain, leading to an inflammatory cascade115. The MMP-2 and pro-inflammatory cytokines secreted by activated microglia and astrocytes exacerbate TJ disruption. Concurrently, caveolin-1-mediated transcellular transport is upregulated, compromising the integrity of BBB. As for the late phase of stroke, persistent neuroinflammation and MMP-9 with enhanced activity further accelerate the breakdown of TJ proteins and BBB116. Additionally, the ROS, reactive nitrogen species, and upregulation of endogenous VEGF collectively support MMP to aggravate BBB leakage117. However, not all these mediators are neurotoxic. The upregulated integrin αvβ3 on BMECs contributes to endogenous angiogenesis following ischemic events118. Clarifying the temporal dynamics of biphasic BBB permeability is essential for determining the optimal timing for drug delivery and enhancing intracerebral drug distribution by modulating BBB permeability.
+
+Brain tumors can be classified into two categories: primary tumors originating from brain tissue and metastatic tumors formed by the metastasis of malignant tumors from other parts of the body to the brain119. Gliomas are the most common primary brain tumors, which are divided into circumscribed and diffuse gliomas, accounting for the most common malignancy cases. Circumscribed gliomas can usually be cured through surgical resection, presenting a positive prognosis. However, treatment for diffuse gliomas includes a combination of surgery, chemotherapy, and radiation with poor efficacy120. World Health Organization has classified gliomas into grades 1 to 4 based on malignancy level121. The progression of brain tumors prompts BBB alterations; high-grade (3–4) gliomas impair NVU integrity, which gives rise to the blood–brain tumor barrier (BTB) at or near the core of tumors. In contrast, lower-grade (1–2) gliomas possess almost intact BBB122. BTB contains compromised BBB, neovascularization, and tumor tissue, exhibiting different structural and functional characteristics from BBB. However, the BTB retains pivotal elements of the BBB, including efflux transporters (P-gp, breast cancer resistance protein, multidrug resistance protein, etc.) in BMECs and tumor cells. Due to the presence of BBB and BTB, the inadequate accumulation of therapeutic agents in the brain tumor poses a great challenge for glioma treatment123.
+
+Although BTB is more permeable than BBB, it exhibits highly heterogeneous permeation, leading to uneven distribution of drugs124. The heterogeneity of BTB results from loss of astrocytic end-feet connection, altered pericyte subpopulations, and disrupted TJs125. The overexpression of MMPs exacerbates TJ degradation, and the high expressions of MMP-2/-9 indicate a poor prognosis for glioma recurrence126. Multiple lines of evidence have revealed that reduced claudin-1, claudin-5, and occludin in gliomas contribute to subsequent BBB disruption and endothelial dysfunction127. Moreover, VEGF is a key contributor to pathological BBB breakdown in gliomas, promoting angiogenesis to meet the needs of tumor proliferation and invasion128. Despite VEGF demonstrating proangiogenic properties, overexpression of VEGF seems to downregulate the expression of claudin-5 and occludin, thereby increasing the permeability of ECs129. The tumor microenvironment often exhibits chronic inflammation, characterized by the release of cytokines, chemokines, and immune cell infiltration, offering an opportunity to exploit Trojan horse strategies to overcome the BTB for the delivery of anti-tumor drugs. Moreover, these immune-inflammatory responses trigger the overexpression of specific receptors on the BTB, such as the αvβ3 integrin receptor and VEGF receptor 2, all of which can serve as active targeting ligands for the construction of targeted anti-tumor drug delivery system130. Chemotherapy and prolonged single-drug treatments often induce overexpression of P-gp on both the BBB and tumor surfaces, contributing to multidrug resistance in brain tumors. Hence, the application of P-gp inhibitors could mitigate drug efflux, enhancing drug accumulation within tumors and potentially improving therapeutic efficacy. In summary, the aforementioned characteristic pathological features of BBB were systematically listed and presented in Table 2.Table 2Pathological features of BBB changes in different brain diseases; ↑ upregulation, ↓ downregulation.Table 2Brain diseasePathological features of BBB changeADLRP1 ↓, P-gp ↓, RAGE ↑, GLUT1 ↓, adhesion molecules ↑PDTJ (ZO-1 and occludin) ↓, P-gp ↓MSAdhesion molecules (ICAM, VCAM-1) ↑, caveolin-1 ↑, TJ ↓StrokeAdhesion molecules (ICAM-1, VCAM-1) ↑, MMP-2/9 ↑, TJ ↓, integrinαvβ3 ↑Brain tumorsBTB, MMP-2/9 ↑, TJ (claudin-1/5 and occludin) ↓, VEGFR2 ↑, integrinαvβ3 ↑, P-gp ↑
+
+Pathological features of BBB changes in different brain diseases; ↑ upregulation, ↓ downregulation.
+
+Pathological features of BBB changes in different brain diseases; ↑ upregulation, ↓ downregulation.
+
+Brain diseasePathological features of BBB changeADLRP1 ↓, P-gp ↓, RAGE ↑, GLUT1 ↓, adhesion molecules ↑PDTJ (ZO-1 and occludin) ↓, P-gp ↓MSAdhesion molecules (ICAM, VCAM-1) ↑, caveolin-1 ↑, TJ ↓StrokeAdhesion molecules (ICAM-1, VCAM-1) ↑, MMP-2/9 ↑, TJ ↓, integrinαvβ3 ↑Brain tumorsBTB, MMP-2/9 ↑, TJ (claudin-1/5 and occludin) ↓, VEGFR2 ↑, integrinαvβ3 ↑, P-gp ↑
+
+Pathology-directed drug delivery strategies for various brain diseases
+The extent of BBB permeability increase varies with disease progression and individual variations, imposing strict size constraints on drug delivery even under severe pathological conditions. Hence, physical strategies such as focused ultrasound (FUS), photothermal effect, and external magnetic field have been developed to reversibly open TJs, offering potential applications in treating neurodegenerative diseases, brain tumors, and other brain diseases131.
+
+Based on the paracellular drug delivery, FUS together with microbubbles (MBs)-induced BBB opening has emerged as an attractive strategy and yielded satisfactory preclinical outcomes132. FUS in combination with intravenous administration of MBs can transiently increase the permeability of the BBB owing to acoustic cavitation effect, in which MBs sharply collapse and closure under the action of an ultrasonic field133. As a result, stable cavitation induces displacement of the vascular wall, leading to the disassembly of TJs and transient opening of the BBB. Several clinical trials have demonstrated that the features of FUS-mediated BBB opening are safe, instantaneous, reproducible, and reversible134, 135, 136. For therapeutic purposes, FUS-mediated drug delivery to the brain is primarily achieved through (i) injection of MBs and free drugs, (ii) MBs loaded with free drugs, or (iii) MBs conjugated with nanoparticles/drug carriers. Notably, this non-invasive approach extends beyond TJ alterations, as it also engages in disease treatment such as Aβ clearance in AD137. The aforementioned evidence highlights the clinical translational potential of therapeutic ultrasound in improving brain delivery of therapeutic agents for brain diseases. However, FUS faces the challenge of determining the optimal acoustic dose to balance the risk of tissue damage from excessive mechanical interference and reduced brain penetration due to insufficient dosing. These factors are influenced by individual differences, equipment, and parameter settings, which must be optimized to ensure reproducibility and consistent clinical outcomes. Furthermore, the nature of the disease (focal or diffuse) and the potential for eliciting brain inflammation need to be thoroughly evaluated during application.
+
+Magnetic nanoparticles, directed by an external magnetic field, have been utilized in the treatment of various diseases, offering the advantage of enabling real-time delivery monitoring via magnetic resonance imaging. Recently, iron oxide-based magnetic nanoparticles have been employed as therapeutic carriers for both the treatment and diagnosis of various brain disorders138. However, the impact of non-specific magnetic fields, lack of case-specific instruments, and exacerbation of disease progression all constrain the clinical application of magnetically targeted delivery. Furthermore, the surface design of magnetic nanoparticles needs to be meticulously optimized to improve delivery efficiency by mitigating protein corona formation139.
+
+Photothermal effect-mediated enhancement in BBB permeability has shown great therapeutic potential due to its high specificity and reproducibility. Photosensitizers exhibit a favorable light-to-heat conversion effect to reversibly open BBB and concentrate on the target tissue under near-infrared (NIR) light irradiation of specific wavelengths140. The delivery systems developed based on this strategy, which enable both controlled drug release and intelligent penetration of the BBB upon NIR, offer a promising platform for drug delivery in brain disease treatment. NIR-II fluorescence imaging-guided photodynamic therapy is a clinically approved anti-tumor treatment141. It involves intravenous administration of a photosensitizer, which, upon exposure to specific wavelengths of light, generates ROS to induce localized cell death142. Compared to other physical strategies, this method can transiently modulate TJs and sustain continuous BBB permeability under light exposure. However, further research is needed to elucidate the mechanisms underlying the therapeutic window for controlled activation, ensuring precise synchronization of photothermal-mediated BBB opening with drug delivery to minimize off-target effects and potential tissue damage. To avoid irreversible BBB impairment and thrombosis, greater emphasis should be placed on determining optimal NIR illumination parameters.
+
+Neurodegenerative diseases have constituted a formidable challenge to the clinic and society for years due to their irreversible nature143. One of the challenges in treating neurodegenerative diseases is the poor BBB permeability of therapeutics, highlighting the intense need for efficient drug delivery strategies that can traverse the BBB144. During the progression of neurodegenerative diseases, BBB dysfunction is a common hallmark, while the nature and degree of these pathological changes vary depending on the neurological conditions. For instance, BBB dysfunction is involved in the pathogenesis of AD and accelerates disease progression through interaction with accumulation of pathogenic proteins. PD presents increased leakiness of the BBB caused by accumulation of α-Syn. In addition, increased leukocyte extravasation into the brain parenchyma due to BBB disruption exhibits pathogenic properties for MS145. In this section, intrinsic link and mechanisms between neurodegenerative diseases and BBB damage, as well as the existing disease-specific strategies for BBB crossing, are presented and discussed.
+
+Changes in BBB transporters can improve or impede drug penetration, while BBB dysfunction and impaired CBF collectively impact drug accumulation and distribution within the brain. To design pathology-directed drug delivery strategies in the treatment of AD, the transport-related BBB evolutions present distinctive avenues to enhance the permeability of therapeutic agents into the brain (see Table 3 for summary146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158). Based on partial TJ loss in AD, exploiting the leakiness of the compromised barrier to improve paracellular drug delivery is the simplest approach159. A stealth liposome encapsulated with acetyl-coenzyme A acetyltransferase 1 (ACAT1) inhibitor F12511 (nanoparticle F) was designed to extravasate into the brain through the compromised BBB146. For a 2-week treatment of nanoparticle F to aging triple-transgenic (3xTg) AD mice, the results showed a decrease in the accumulation of cholesteryl esters, ameliorating amyloidosis, and tau pathology. However, the ability to traverse the damaged BBB is strictly constrained by particle size. Even under extreme pathological conditions, only particles smaller than 20 nm in size could possibly navigate into the brain160. Even if the nanoparticles are sufficiently small insize, the leaky gap at the compromised BBB still restricted their entry into the brain due to the limited TJ loss.Table 3A summary of pathology-directed delivery strategies for crossing the BBB in AD; ↑ upregulation, ↓ downregulation.Table 3BBB change in ADStrategiesExample/mechanismAdvantageDisadvantageRef.TJ ↓Passive infiltrationDSPE-PEG2000/phosphatidylcholine (PC) liposome•Rapid brian penetration•No accumulative toxicity•Limited brain entry•High-cost•Possible immunogenicity issues146RAGE ↑RAGE ligand modificationAβ peptide-modified micelles binding to RAGE•Selective accumulation in AD lesion•Improved efficiency of brain penetration•Potential immune response•Unknown long-term security•Adaptive expression of receptors147Aβ peptide-modified peptide delivery nanoconjugate binding to RAGE•Selective accumulation in AD lesion•Improved efficiency of brain penetration•Potential immune response•Complex preparation process and high-cost•Adaptive expression of receptors148Aβ binding element modificationAβ peptide-decorated polydopamine nanoparticles hitching a ride on Aβ•Effective BBB penetration•Superior brain accumulation•Excellent blood stability•Unknown durability of therapeutic effect•Potential cumulative toxicity•Possible distribution of non-pathological regions149GLUT1 ↓Glycemia-controlled GLUT1 recyclingGlycosylated-modified polymer mixture•Superior physiological stability•Superior brain accumulation•Suitable for siRNA delivery•Glucose excursion•Unstable BBB penetration effect•Uneven brain distribution150Glucosylated polymeric nanomicelles•Superior BBB penetration•Suitable for peptide delivery•Complex preparation process•Glucose excursion•Unstable BBB penetration151Mannose-integrated PLGA-PEG (oral administration)•Good patient compliance•Clinical translational potential•Simple preparation process•Glucose excursion•Liver accumulation•Differential reduction of GLUT1 in AD152TfRTfR ligand modificationTfR1-targeted antibody fused Aβ mAb•Antibody-fusible•Clinical translational potential•Relatively stable receptor expression•Potential immune response•Complex preparation techniques•Reduced plasma exposure in chronic treatment153T7 peptide-decorated poly-l-lysines•Effective BBB transcytosis•Relatively stable receptor expression•Complex preparation process•Possible immunogenicity issues•Solubility problem154Joint strategyTfR + RAGEHierarchial forms of phage-derived peptide•High target binding avidity•Metabolic stability•Difficult techniques•Potential immune response155RMT + AMTLf-modified PEI•Effective BBB transcytosis•Relatively stable receptor expression•Suitable for gene delivery•Possible distribution of non-pathological regions•Possible immunogenicity issues156RMT + AMTMan and TAT-modified nanoliposomes•Clinical translational potential•Biodegradability•Enhanced BBB penetration than single strategy•Complex preparation process•Potential immune response•Possible off-target risk157RMT + biomimetic strategy(Biomimetic strategy)Angiopep-2 modified biomimetic exosome-liposome hybrid nanovesicles•Enhanced BBB penetration than single strategy•Good biocompatibility•Suitable for gene delivery•Complex preparation process and high-cost•Unclear mechanism158
+
+A summary of pathology-directed delivery strategies for crossing the BBB in AD; ↑ upregulation, ↓ downregulation.
+
+A summary of pathology-directed delivery strategies for crossing the BBB in AD; ↑ upregulation, ↓ downregulation.
+
+BBB change in ADStrategiesExample/mechanismAdvantageDisadvantageRef.TJ ↓Passive infiltrationDSPE-PEG2000/phosphatidylcholine (PC) liposome•Rapid brian penetration•No accumulative toxicity•Limited brain entry•High-cost•Possible immunogenicity issues146RAGE ↑RAGE ligand modificationAβ peptide-modified micelles binding to RAGE•Selective accumulation in AD lesion•Improved efficiency of brain penetration•Potential immune response•Unknown long-term security•Adaptive expression of receptors147Aβ peptide-modified peptide delivery nanoconjugate binding to RAGE•Selective accumulation in AD lesion•Improved efficiency of brain penetration•Potential immune response•Complex preparation process and high-cost•Adaptive expression of receptors148Aβ binding element modificationAβ peptide-decorated polydopamine nanoparticles hitching a ride on Aβ•Effective BBB penetration•Superior brain accumulation•Excellent blood stability•Unknown durability of therapeutic effect•Potential cumulative toxicity•Possible distribution of non-pathological regions149GLUT1 ↓Glycemia-controlled GLUT1 recyclingGlycosylated-modified polymer mixture•Superior physiological stability•Superior brain accumulation•Suitable for siRNA delivery•Glucose excursion•Unstable BBB penetration effect•Uneven brain distribution150Glucosylated polymeric nanomicelles•Superior BBB penetration•Suitable for peptide delivery•Complex preparation process•Glucose excursion•Unstable BBB penetration151Mannose-integrated PLGA-PEG (oral administration)•Good patient compliance•Clinical translational potential•Simple preparation process•Glucose excursion•Liver accumulation•Differential reduction of GLUT1 in AD152TfRTfR ligand modificationTfR1-targeted antibody fused Aβ mAb•Antibody-fusible•Clinical translational potential•Relatively stable receptor expression•Potential immune response•Complex preparation techniques•Reduced plasma exposure in chronic treatment153T7 peptide-decorated poly-l-lysines•Effective BBB transcytosis•Relatively stable receptor expression•Complex preparation process•Possible immunogenicity issues•Solubility problem154Joint strategyTfR + RAGEHierarchial forms of phage-derived peptide•High target binding avidity•Metabolic stability•Difficult techniques•Potential immune response155RMT + AMTLf-modified PEI•Effective BBB transcytosis•Relatively stable receptor expression•Suitable for gene delivery•Possible distribution of non-pathological regions•Possible immunogenicity issues156RMT + AMTMan and TAT-modified nanoliposomes•Clinical translational potential•Biodegradability•Enhanced BBB penetration than single strategy•Complex preparation process•Potential immune response•Possible off-target risk157RMT + biomimetic strategy(Biomimetic strategy)Angiopep-2 modified biomimetic exosome-liposome hybrid nanovesicles•Enhanced BBB penetration than single strategy•Good biocompatibility•Suitable for gene delivery•Complex preparation process and high-cost•Unclear mechanism158
+
+Rapid brian penetration
+
+No accumulative toxicity
+
+Limited brain entry
+
+High-cost
+
+Possible immunogenicity issues
+
+Selective accumulation in AD lesion
+
+Improved efficiency of brain penetration
+
+Potential immune response
+
+Unknown long-term security
+
+Adaptive expression of receptors
+
+Selective accumulation in AD lesion
+
+Improved efficiency of brain penetration
+
+Potential immune response
+
+Complex preparation process and high-cost
+
+Adaptive expression of receptors
+
+Effective BBB penetration
+
+Superior brain accumulation
+
+Excellent blood stability
+
+Unknown durability of therapeutic effect
+
+Potential cumulative toxicity
+
+Possible distribution of non-pathological regions
+
+Superior physiological stability
+
+Superior brain accumulation
+
+Suitable for siRNA delivery
+
+Glucose excursion
+
+Unstable BBB penetration effect
+
+Uneven brain distribution
+
+Superior BBB penetration
+
+Suitable for peptide delivery
+
+Complex preparation process
+
+Glucose excursion
+
+Unstable BBB penetration
+
+Good patient compliance
+
+Clinical translational potential
+
+Simple preparation process
+
+Glucose excursion
+
+Liver accumulation
+
+Differential reduction of GLUT1 in AD
+
+Antibody-fusible
+
+Clinical translational potential
+
+Relatively stable receptor expression
+
+Potential immune response
+
+Complex preparation techniques
+
+Reduced plasma exposure in chronic treatment
+
+Effective BBB transcytosis
+
+Relatively stable receptor expression
+
+Complex preparation process
+
+Possible immunogenicity issues
+
+Solubility problem
+
+High target binding avidity
+
+Metabolic stability
+
+Difficult techniques
+
+Potential immune response
+
+Effective BBB transcytosis
+
+Relatively stable receptor expression
+
+Suitable for gene delivery
+
+Possible distribution of non-pathological regions
+
+Possible immunogenicity issues
+
+Clinical translational potential
+
+Biodegradability
+
+Enhanced BBB penetration than single strategy
+
+Complex preparation process
+
+Potential immune response
+
+Possible off-target risk
+
+Enhanced BBB penetration than single strategy
+
+Good biocompatibility
+
+Suitable for gene delivery
+
+Complex preparation process and high-cost
+
+Unclear mechanism
+
+Inspired by the alterations in receptor distribution and activity on BBB, RMT has emerged as a promising drug delivery strategy across the BBB in AD therapy due to its specificity and relatively high transport rate161. For instance, RAGE is a pivotal transporter for Aβ influx and RAGE level in microvasculature increases linearly with the pathological severity of AD162, serving as a potential target for brain drug delivery. For mimicking the transportation of Aβ into the brain, a brain-targeted mimicking peptide derived from the Aβ sequence has been used for modification to enhance the pathological BBB crossing and the accumulation in lesion sites by binding with RAGE163. Hence, an Aβ peptide-modified polymeric micelle drug delivery system (Ab-PEG-LysB/CUR) was reported for brain-targeted codelivery of ROS scavenger polymer and inflammatory modulator curcumin147. Due to upregulated RAGE, more Aβ peptide-modified micelle was observed in the brain. In addition, Liu et al.148 designed a RAGE-targeting dendrimer-peptide conjugate (APBP) via click reaction that was composed of Aβ peptide, ROS-responsive polymer, and a therapeutic peptide. With the modification of Aβ peptide, the nanoconjugate exhibited efficient brain-targeted ability towards the diseased regions (Fig. 3A). Through binding with RAGE, the nanoconjugate could cross BBB and effectively accumulate in the brain (Fig. 3B and C), subsequently delivering therapeutic peptide to AD lesion to restore the antioxidant capacity of neurons. However, Aβ–RAGE interaction may induce the disruption of ZO-1 and increase MMP secretion in ECs. Therefore, further validation should be verified to evaluate the long-term efficacy and safety164.Figure 3Illustration of pathology-directed drug delivery strategies in AD treatment. (A) Ab peptide modification increased PBP-BODIPY accumulation in the brain of APP/PS1 mice. (B) Quantitative analysis of BODIPY fluorescence intensity and (C) injection dose percentage (ID%) of BODIPY in major organs and brain. Data are presented as mean ± SD (n = 3). ∗P < 0.05, ∗∗P < 0.01, ∗∗∗P < 0.001. Reprinted with the permission from Ref. 148. Copyright © 2021 John Wiley and Sons. (D) Schematic illustration of GLUT1 over-expression on the luminal membrane of the BBB after fasting. (E) Galactose modification significantly enhanced brain accumulation of NP@Cy5-siRNA. Data are presented as mean ± SD (n = 3). ∗P < 0.05. (F) Representative images of cy5 signal in the brain of AD mice after treatment with NP@siRNA and Gal-NP@siRNA. Reprinted with the permission from Ref. 150. Copyright © 2020 Amer Assoc Advancement Science. (G) Schematic of the BBB transwell model. (H) 50% mannose grafted-NP displayed superior BBB penetration. Data are presented as mean ± SD (n = 3). ∗∗∗P < 0.001. Reprinted with the permission from Ref. 152. Copyright © 2024 American Chemical Society. (I) Overview of NLC assembly and its brain-targeting performance. Scale bar = 50 nm or 10 μm. Reprinted with the permission from Ref. 155. Copyright © 2019 Springer Nature. (J) Scheme of DPMT@PEI/miR-195 preparation and BBB crossing mechanism. Reprinted with the permission from Ref. 157. Copyright © 2024 Elsevier.Figure 3
+
+Illustration of pathology-directed drug delivery strategies in AD treatment. (A) Ab peptide modification increased PBP-BODIPY accumulation in the brain of APP/PS1 mice. (B) Quantitative analysis of BODIPY fluorescence intensity and (C) injection dose percentage (ID%) of BODIPY in major organs and brain. Data are presented as mean ± SD (n = 3). ∗P < 0.05, ∗∗P < 0.01, ∗∗∗P < 0.001. Reprinted with the permission from Ref. 148. Copyright © 2021 John Wiley and Sons. (D) Schematic illustration of GLUT1 over-expression on the luminal membrane of the BBB after fasting. (E) Galactose modification significantly enhanced brain accumulation of NP@Cy5-siRNA. Data are presented as mean ± SD (n = 3). ∗P < 0.05. (F) Representative images of cy5 signal in the brain of AD mice after treatment with NP@siRNA and Gal-NP@siRNA. Reprinted with the permission from Ref. 150. Copyright © 2020 Amer Assoc Advancement Science. (G) Schematic of the BBB transwell model. (H) 50% mannose grafted-NP displayed superior BBB penetration. Data are presented as mean ± SD (n = 3). ∗∗∗P < 0.001. Reprinted with the permission from Ref. 152. Copyright © 2024 American Chemical Society. (I) Overview of NLC assembly and its brain-targeting performance. Scale bar = 50 nm or 10 μm. Reprinted with the permission from Ref. 155. Copyright © 2019 Springer Nature. (J) Scheme of DPMT@PEI/miR-195 preparation and BBB crossing mechanism. Reprinted with the permission from Ref. 157. Copyright © 2024 Elsevier.
+
+Illustration of pathology-directed drug delivery strategies in AD treatment. (A) Ab peptide modification increased PBP-BODIPY accumulation in the brain of APP/PS1 mice. (B) Quantitative analysis of BODIPY fluorescence intensity and (C) injection dose percentage (ID%) of BODIPY in major organs and brain. Data are presented as mean ± SD (n = 3). ∗P < 0.05, ∗∗P < 0.01, ∗∗∗P < 0.001. Reprinted with the permission from Ref. 148. Copyright © 2021 John Wiley and Sons. (D) Schematic illustration of GLUT1 over-expression on the luminal membrane of the BBB after fasting. (E) Galactose modification significantly enhanced brain accumulation of NP@Cy5-siRNA. Data are presented as mean ± SD (n = 3). ∗P < 0.05. (F) Representative images of cy5 signal in the brain of AD mice after treatment with NP@siRNA and Gal-NP@siRNA. Reprinted with the permission from Ref. 150. Copyright © 2020 Amer Assoc Advancement Science. (G) Schematic of the BBB transwell model. (H) 50% mannose grafted-NP displayed superior BBB penetration. Data are presented as mean ± SD (n = 3). ∗∗∗P < 0.001. Reprinted with the permission from Ref. 152. Copyright © 2024 American Chemical Society. (I) Overview of NLC assembly and its brain-targeting performance. Scale bar = 50 nm or 10 μm. Reprinted with the permission from Ref. 155. Copyright © 2019 Springer Nature. (J) Scheme of DPMT@PEI/miR-195 preparation and BBB crossing mechanism. Reprinted with the permission from Ref. 157. Copyright © 2024 Elsevier.
+
+In addition to binding to RAGE and initiating endocytosis, the Aβ peptide has been used as a peripheral Aβ-targeting ligand to enhance lesion accumulation via Aβ hitchhiking. A recent study has revealed that Aβ peptide decorated polydopamine nanoparticles (PDA@K) could specifically penetrate pathological BBB via Aβ hitchhiking149. For BBB crossing, PDA@K selectively targeted peripheral Aβ circulation and bound with Aβ, subsequently hitching a ride on Aβ to transfer into the brain via RAGE. In this study, KLVFF was also proven to possess Aβ capture capacity and promote microglia uptake toward Aβ oligomers. Hence, Aβ peptide modification could not only endow nanoparticles with BBB permeability by directly binding with RAGE on BBB or hitchhiking Aβ in blood for further binding with RAGE on BBB but also provide nanoparticles with Aβ capture capability for enhanced Aβ clearance.
+
+In the treatment of AD, the decreased expression of LRP1 on BBB could potentially impair the delivery efficacy of angiopep-2-modified nanocarriers across the BBB, which could be reversed by strategies aimed at enhancing LRP1 expression165. For instance, statin drugs have been reported to upregulate LRP1 at BBB and liver but have not proven effective in clinical trials166. Currently, the strategy of upregulating LRP1 via statin drugs to overcome low BBB permeability has been employed for the treatment of brain metastases, but it has not yet been utilized in AD treatment167. Nonetheless, researches in other fields highlight the potential of statins-loaded nanoparticles to increase transcytosis of brain endothelial cells (ECs). Therefore, a brain drug delivery strategy that can regulate LRP1 expression holds promise in AD therapy. Besides Aβ efflux, LRP1 is also involved in Aβ production via interaction with amyloid precursor protein (APP)168. Thus, targeting LRP1 requires the consideration of its dualistic nature to avoid blindly upregulating the expression.
+
+Similar to LRP1, the expression and activity of P-gp are decreased in AD, resulting in Aβ accumulation and disease deterioration. However, AD-induced downregulation of P-gp provides an opportunity for anti-AD drugs to effectively accumulate in the brain. Currently, most strategies targeting P-gp focus on its upregulation to promote Aβ clearance. Therefore, balancing Aβ clearance with drug accumulation is crucial in the regulation of P-gp169.
+
+Considering AD is characterized by the GLUT1 reduction, upregulating GLUT1 to improve delivery efficiency via transcytosis across BBB is also a potential drug delivery strategy170. GLUT1, accounting for over 90% of BBB glucose transporters located on the abluminal side of cerebrovascular ECs, binds and transports glucose from blood to brain to participate in energy supply171. Hypoglycemia induced by fasting stimulates GLUT1 overexpression on the luminal side of vascular ECs, while rapid replenishment with glucose or galactose triggers a shift in the localization to the abluminal side172. Hence, inducing hypoglycemia to elevate GLUT1 expression on the luminal compartment of BBB, followed by glucose replenishment to induce receptor recirculation to the abluminal membrane, leading to upregulation of GLUT1 on the luminal side. This strategy has been used to improve BBB penetration efficiency of glucose/galactose-modified nanoparticles for AD therapy173. For example, Zhou et al.150 constructed a galactose-incorporated “triple-interaction” stabilized polymeric siRNA nanomedicine (Gal-NP@siRNA) to bind to GLUT1 for effective brain delivery. After fasting for 24 h, glucose was administered to elevate GLUT1 expression on the luminal membrane of BBB. Thereafter, Gal-NP@siRNA was administered intravenously and effectively penetrated BBB via glycemic GLUT1 recirculation (Fig. 3D), resulting in a 5.8-fold higher brain accumulation than that of non-galactose-modified nanoparticles (Fig. 3E and F). Then, effective siRNA delivery could significantly knock down the expression of BACE1 protein and improve cognitive performance of APP/PS1 mice.
+
+Most clinical trials involving anti-Aβ antibodies have thus far failed to achieve successful outcomes, partly due to low BBB permeability that hinders the effective therapeutic concentration of antibodies in the brain174. To address insufficient brain delivery of anti-Aβ oligomer antibody 6H4, 6H4 was encapsulated in glucosylated polymeric nanomicelles, which bound to GLUT1 through surface decorated glucose as chaperones to enhance BBB permeability151. After fasting, 6H4 antibody fragments were delivered into brain upon elevated blood glucose levels via GLUT1 transport, and ultimately the amounts of various toxic Aβ species were reduced and memory deficits were restored in APP/PS1 mice.
+
+In addition to upregulating GLUT1 expression on the abluminal side of the BBB after fasting and subsequent glucose replenishment, which facilitated the BBB crossing of glucose-modified nanoparticles, direct glucose supplementation could also enhance nanoparticle transport across the BBB via GLUT1 circulation. As blood glucose levels rise, GLUT1 reduces glucose uptake and shifts from the abluminal to the luminal side, a process that promotes glucose-modified nanoparticle translocation into the brain. Hence, GLUT1 hitchhiking represents another hopeful alternative strategy for AD therapy. For instance, Lei et al.152 developed an oral brain-targeted nanoparticle (FTY@Man NP) using this strategy. For preparation, fingolimod (FTY) was loaded into a mannose-modified poly(lactic-co-glycolic acid) (PLGA)-polyethylene glycol (PEG) skeleton. The mannose ligand endowed FTY@Man NP with intestinal epithelial barrier (IEB) and BBB co-targeting ability due to high expression of GLUT1 in both intestinal epithelial cells and brain ECs. Oral administration of 20% glucose prior to drug delivery further enhanced the transport of FTY@Man NP across BBB through GLUT1 translocation. In the BBB transwell model, 50% of mannose-modified NP exhibited 1.93-fold higher efficiency of BBB crossing than free PEG NP (Fig. 3G and H), while maintaining the integrity of cellular barrier. However, individual differences pose challenges to long-term blood glucose control strategies. Moreover, it's quite necessary to balance the safety and efficacy of extensive metabolic perturbation and glucose excursion, thus minimizing the side effects to patients from glycemic control of GLUT1-targeting therapeutics.
+
+In addition to regulating receptors that mediate BBB crossing based on complex pathology, more therapies can be designed to enhance delivery across BBB by targeting physiologically highly expressed receptors175. Among the various known receptors, TfR has been shown to be over-expressed on BBB and widely used for BBB-targeting in AD therapy176. As a well-explored TfR-targeting ligand, an iron-transporting serum protein of transferrin (Tf) is used for BBB permeability and cerebral accumulation177. An example of this approach was RmAb158-scFv8D3, a bispecific monoclonal Aβ antibody (mAb) formed by linking RmAb158 (recombinant murine version of BAN2401) to an antibody against mouse TfR153. Fusion of therapeutics with TfR-targeted antibodies displayed higher BBB permeability and wider brain distribution than unmodified RmAb158. Although long-term treatment with RmAb158-scFv8D3 had shown positive effects, its benefits in chronic treatment were limited by reduced plasma exposure, potentially due to interactions with blood cells. Phage display peptides exhibit high specificity for cell targets but show weak target engagement. To enhance target binding, nanoligand carriers (NLCs) formed by self-assembly of brain-specific phage-derived peptides were developed, which could actively target two distinct receptors on ECs155. Through TfR and RAGE-mediated transport, NLCs crossed BBB and delivered siRNA to neurons for BACE1 silencing (Fig. 3I). Tf-decorated nanoparticles delivered only 1% of the intravenously injected dose to the brain at 8 h post-injection, whereas NLCs delivered 5.7% of the injected dose within 4 h. This strategy provided a new nano-based delivery platform, which depended on two receptors expressed on BBB to achieve higher target binding avidity and cell specificity. Despite this, the application of this strategy requires consideration of endogenous competition of transferrin and the heterogeneous distribution of RAGE in target cells, as both factors may impair targeting efficiency.
+
+The BBB stands as the primary but not the only obstacle to drug delivery in the treatment of brain disease. Even if the therapeutics successfully cross BBB and enter the brain, lack of selective distribution can lead to insufficient drug concentrations at the lesion region178. Thus, bispecific targeting therapeutics have been widely applied for drug delivery to targeted cells in the brain. For instance, the delivery of siRNA and therapeutic peptides to neurons holds promise in synergistically downregulating APP and inhibiting tau phosphorylation to ameliorate AD-related neuropathology. To address dual challenges of BBB crossing and neuron-specific targeting, a stepwise-targeting strategy has been developed using TfR ligand (T7) modification to enhance BBB transcytosis, followed by incorporating Tet1 to increase selective distribution at diseased neurons154. T7 was linked by acid-cleavable long PEG to escape from the endo/lysosomes and achieve effective BBB transcytosis. Nanoparticles effectively entered the brain parenchyma via T7 peptide binding to TfR and detaching from TfR, then delivered therapeutic agents to neurons by targeting sphingolipids and gangliosides that are highly expressed on neurons through Tet1. As a result, double-targeted nanoparticles exhibited higher transcytosis efficiency and penetration than other nanoparticles in the BBB transwell model, significantly improving AD treatment efficacy.
+
+In addition to receptor regulation and targeting, AMT can also facilitate nanoparticle transport across BBB via electrostatic interactions between the positively charged particle surface and the negatively charged cell membrane179,180. The CPPs and cationic carriers are the two main elements for achieving AMT. However, cationic nanoparticles often adsorb negatively charged plasma proteins, forming protein corona that can activate the immune system and trigger inflammatory responses, thereby limiting the potential of cationic polymers for drug delivery applications. Hence, the integration of a dual uptake system, encompassing both receptor-mediated pathway and AMT, presents a feasible avenue to augment the permeation across the BBB181. Pereira et al.156 proposed a dual conjugation strategy to deliver recombinant precursor microRNA (pre-miR-29b) involving the combination of sialic acid (SA) and lactoferrin (Lf) with polyethyleneimine (PEI) to form polyplexes (PEI-SA-Lf). The BBB internalization of the polyplexes was attributed to Lf receptor (LfR)-mediated transport and electrostatic interactions between cationic polymers and cerebral vascular EC membranes. In the in vitro BBB model, PEI modified with Lf demonstrated a 3.5-fold increase in transport efficiency compared to unmodified one. This integrative approach leveraged RMT and AMT to facilitate efficient and safe brain-targeted delivery. Recently, nanoliposomes (DPMT@PEI/miR-195), encapsulating PEI/miR-195 and dually modified with P-aminophenyl-alpha-d-mannopyranoside (MAN) and cationic CPP (TAT transduction peptide), have been reported for AD therapy157. TAT peptide-facilitated adsorptive pathway and the binding of MAN to GLUT1 substantially enhanced the capability of DPMT@PEI/miR-195 to traverse BBB and infiltrate targeted cells (Fig. 3J). The dual ligand-modified nanoliposomes exhibited brain fluorescence intensity 1.8-fold and 5-fold higher than that modified with Man or TAT peptide alone, demonstrating the synergistic effect of combined RMT and AMT in enhancing BBB permeability.
+
+Along with nano-drug delivery systems, targeted biomimetic carriers are garnering increasing attention due to their excellent circulation stability, low immunogenicity, multifunctionality, and homotypic targeting properties182. Among these, exosome-like liposomes, which combine the BBB-crossing ability and endogenous targeting of exosomes with the drug delivery capabilities of liposomes, present substantial prospects for brain-targeted drug delivery in AD therapy183. Combining biomimetic strategies and RMT, an Ang-2-conjugated exosome-liposome hybrid nanovesicle (TSEL) has been developed for dual nucleic acids delivery158. Ex vivo imaging 24 h postinjection revealed that the fluorescence intensity of TSEL in the brain was 3-fold higher than that of liposomes alone, indicating enhanced BBB penetration and brain targeting through Ang-2 and exosome modification. However, the application of exosome-like liposomes may be constrained by factors such as drug loading efficiency, exosome extraction and purification processes, and limited targeting precision, which need to be further investigated in future studies.
+
+BBB evolutions of PD that include TJ loss and increased expression of adhesion molecules present a window of opportunity to passively target the brain184 (see Table 4 for summary185, 186, 187, 188, 189, 190). Provided that the obstacle of impaired drug diffusion in the brain is disregarded, PD-induced BBB breakdown can potentially enhance the delivery of therapeutic agents, particularly nanoparticles with diminutive size. However, quantitative assessments regarding the degree of BBB permeability at various stages of PD are currently scarce. In this context, Liu et al.185 designed that oligomer-specific antibody ScFv-conjugated superparamagnetic iron oxide nanoparticles with a size of around 11.8 nm could penetrate BBB and reach the amyloid oligomer area in the brain. Despite recognizing weakened barriers and increased cell adhesion properties as diseased BBB characteristics, very few approaches have been developed to exploit these changes for effective brain-targeted drug delivery, which may be due to limited TJ loss and strict restrictions on drug size.Table 4A summary of pathology-directed delivery strategies for crossing the BBB in PD. ↑ upregulation, ↓ downregulation.Table 4BBB change in PDStrategiesExample/MechanismAdvantageDisadvantageRef.TJ ↓Passive infiltrationSuperparamagnetic iron oxide nanoparticles•Diagnostic potential•Simple preparation process•Limited brain entry•Individual differences185nAChRnAChR ligand modification(Biomimetic strategy)RVG29-modified red blood cell membrane•Prolonged blood retention•Good biocompatibility•Relatively stable receptor expression•Complex preparation process•Limited drug loading efficiency•Receptor subtype selectivity186Nanomotor-based H2S donor formed by PEG-Cys and MPC (acetylcholine analogues)•Selective lesion targeting•Selective H2S release in the brain•Relatively stable receptor expression•Complex preparation process•Possible immunogenicity issues•Receptor subtype selectivity187VCAM-1 ↑Inflammation homing(Biomimetic strategy)Autologous macrophages•Selective accumulation in inflammatory site•Long-term sustained therapeutic effect•Complex preparation process•Possible immunogenicity issues•Differentiated delivery efficiency188Joint strategyFUS + biomimetic strategy(Biomimetic strategy)Macrophage membrane-wrapped nanoparticles•Specific accumulation in inflammatory site•Prolonged blood retention•Good biocompatibility•Complex preparation process and high-cost•Cellular injury•Limited therapy time189RMT + biomimetic strategy(Biomimetic strategy)RVG-29-modified HL-60 cell membranes•Superior BBB penetration•Targeted mitochondrial autophagy•Improved biocompatibility•Complex preparation process and high cost•Biological safety concerns•Unclear treatment window190
+
+A summary of pathology-directed delivery strategies for crossing the BBB in PD. ↑ upregulation, ↓ downregulation.
+
+A summary of pathology-directed delivery strategies for crossing the BBB in PD. ↑ upregulation, ↓ downregulation.
+
+BBB change in PDStrategiesExample/MechanismAdvantageDisadvantageRef.TJ ↓Passive infiltrationSuperparamagnetic iron oxide nanoparticles•Diagnostic potential•Simple preparation process•Limited brain entry•Individual differences185nAChRnAChR ligand modification(Biomimetic strategy)RVG29-modified red blood cell membrane•Prolonged blood retention•Good biocompatibility•Relatively stable receptor expression•Complex preparation process•Limited drug loading efficiency•Receptor subtype selectivity186Nanomotor-based H2S donor formed by PEG-Cys and MPC (acetylcholine analogues)•Selective lesion targeting•Selective H2S release in the brain•Relatively stable receptor expression•Complex preparation process•Possible immunogenicity issues•Receptor subtype selectivity187VCAM-1 ↑Inflammation homing(Biomimetic strategy)Autologous macrophages•Selective accumulation in inflammatory site•Long-term sustained therapeutic effect•Complex preparation process•Possible immunogenicity issues•Differentiated delivery efficiency188Joint strategyFUS + biomimetic strategy(Biomimetic strategy)Macrophage membrane-wrapped nanoparticles•Specific accumulation in inflammatory site•Prolonged blood retention•Good biocompatibility•Complex preparation process and high-cost•Cellular injury•Limited therapy time189RMT + biomimetic strategy(Biomimetic strategy)RVG-29-modified HL-60 cell membranes•Superior BBB penetration•Targeted mitochondrial autophagy•Improved biocompatibility•Complex preparation process and high cost•Biological safety concerns•Unclear treatment window190
+
+Diagnostic potential
+
+Simple preparation process
+
+Limited brain entry
+
+Individual differences
+
+Prolonged blood retention
+
+Good biocompatibility
+
+Relatively stable receptor expression
+
+Complex preparation process
+
+Limited drug loading efficiency
+
+Receptor subtype selectivity
+
+Selective lesion targeting
+
+Selective H2S release in the brain
+
+Relatively stable receptor expression
+
+Complex preparation process
+
+Possible immunogenicity issues
+
+Receptor subtype selectivity
+
+Selective accumulation in inflammatory site
+
+Long-term sustained therapeutic effect
+
+Complex preparation process
+
+Possible immunogenicity issues
+
+Differentiated delivery efficiency
+
+Specific accumulation in inflammatory site
+
+Prolonged blood retention
+
+Good biocompatibility
+
+Complex preparation process and high-cost
+
+Cellular injury
+
+Limited therapy time
+
+Superior BBB penetration
+
+Targeted mitochondrial autophagy
+
+Improved biocompatibility
+
+Complex preparation process and high cost
+
+Biological safety concerns
+
+Unclear treatment window
+
+Considering the tough challenge posed by BBB, it is wise to employ multiple active targeting strategies, including targeting various receptors that play dominant roles in the influx of macromolecules to improve BBB permeability191. Due to its specificity and concentration independence, RMT has been widely explored to circumvent weaknesses of toxic molecule invasion induced by the direct opening of BBB, which significantly bolsters the therapeutic benefit. The brain-targeted peptide RVG29, a 29-amino-acid segment derived from the rabies virus, specifically binds to nicotinic acetylcholine receptors (nAChR) expressed on both ECs and dopaminergic neurons192. To enable specific targeting of curcumin nanocrystals (CurNCs) to PD-affected areas following BBB penetration, nanodecoys were engineered by integrating RVG29 into the red blood cell membrane186. RVG modification prolonged the blood circulation and improved BBB crossing efficiency of CurNCs, with a 1.25-fold increase in blood circulation half-life and a 1.74-fold increase in peak curcumin levels compared to the unmodified group (Fig. 4A and B), which contributed to satisfactory neuroprotective effects in PD-model mice. Structural analogues of choline and acetylcholine have also been extensively employed in targeting nAChR. Zhao et al.187 demonstrated that choline and acetylcholine analogs could serve as a brain delivery vehicle in mice and non-human primates, providing novel insights into treating CNS diseases. For PD therapy, 2-methacryloyloxyethyl phosphorylcholine (MPC) and l-cysteine derivative-modified polyethylene glycol (PEG-Cys) were assembled into hydrogen sulfide (H2S) donors through a free radical polymerization reaction. The design of this H2S donor specifically incorporated MPC to facilitate its effective traversal across BBB to damaged neurons by binding with nAChR. However, this mechanism may be governed by BBB integrity and pathological conditions, which can impair drug delivery efficiency.Figure 4Illustration of pathology-directed drug delivery strategies in PD. (A) RVG29-RBCm/CurNCs showed superior in vivo circulation and (B) retention behavior in the brain. Reprinted with the permission from Ref. 186. Copyright 2022 © American Chemical Society. (C) Systemically-administered macrophages effectively reached the brain in PD mice due to inflammatory homing characteristics. (D) Brain fluorescence intensity-time plot of PD and WT mice. Data are presented as mean ± SD (n = 3). ∗P < 0.05. Reprinted with the permission from Ref. 188. Copyright 2019 © Elsevier. (E) RVG@AHM@Pt/CeO2 effectively accumulated at the lesion site. (F) RVG@AHM@Pt/CeO2 precisely targeted the nigrostriatal sites in PD mice. Scale bar = 100 nm or 1 μm. Reprinted with the permission from Ref. 190. Copyright 2023 © American Chemical Society. (G) Biodistribution of DIL-labeled exosomes in mouse brain after intranasal (a, b), or intravenous (c) routs. Compared with PBS group (d). Reprinted with the permission from Ref. 200. Copyright 2015 © Elsevier.Figure 4
+
+Illustration of pathology-directed drug delivery strategies in PD. (A) RVG29-RBCm/CurNCs showed superior in vivo circulation and (B) retention behavior in the brain. Reprinted with the permission from Ref. 186. Copyright 2022 © American Chemical Society. (C) Systemically-administered macrophages effectively reached the brain in PD mice due to inflammatory homing characteristics. (D) Brain fluorescence intensity-time plot of PD and WT mice. Data are presented as mean ± SD (n = 3). ∗P < 0.05. Reprinted with the permission from Ref. 188. Copyright 2019 © Elsevier. (E) RVG@AHM@Pt/CeO2 effectively accumulated at the lesion site. (F) RVG@AHM@Pt/CeO2 precisely targeted the nigrostriatal sites in PD mice. Scale bar = 100 nm or 1 μm. Reprinted with the permission from Ref. 190. Copyright 2023 © American Chemical Society. (G) Biodistribution of DIL-labeled exosomes in mouse brain after intranasal (a, b), or intravenous (c) routs. Compared with PBS group (d). Reprinted with the permission from Ref. 200. Copyright 2015 © Elsevier.
+
+Illustration of pathology-directed drug delivery strategies in PD. (A) RVG29-RBCm/CurNCs showed superior in vivo circulation and (B) retention behavior in the brain. Reprinted with the permission from Ref. 186. Copyright 2022 © American Chemical Society. (C) Systemically-administered macrophages effectively reached the brain in PD mice due to inflammatory homing characteristics. (D) Brain fluorescence intensity-time plot of PD and WT mice. Data are presented as mean ± SD (n = 3). ∗P < 0.05. Reprinted with the permission from Ref. 188. Copyright 2019 © Elsevier. (E) RVG@AHM@Pt/CeO2 effectively accumulated at the lesion site. (F) RVG@AHM@Pt/CeO2 precisely targeted the nigrostriatal sites in PD mice. Scale bar = 100 nm or 1 μm. Reprinted with the permission from Ref. 190. Copyright 2023 © American Chemical Society. (G) Biodistribution of DIL-labeled exosomes in mouse brain after intranasal (a, b), or intravenous (c) routs. Compared with PBS group (d). Reprinted with the permission from Ref. 200. Copyright 2015 © Elsevier.
+
+Neuroinflammation is a key pathological feature in PD, which induces upregulation of inflammatory receptors and pro-inflammatory pathways193. In addition, the localized inflammation stimulates high expression of VCAM-1 in BMECs194. Targeted brain delivery strategies involving the modification of mAbs to actively adhere to vascular endothelium such as VCAM-1 and ICAM-1 have found application in stroke management, but they remain unexplored in the context of PD195. Nonetheless, this approach holds promise and merits further exploration. In addition, upregulation of cytokines due to neuroinflammation recruits immune cells into the brain parenchyma, providing a rationale for targeted drug delivery using immune cells to act as drug carriers196. For example, Zhao et al.188 reported autologous macrophages that expressed glial cell line-derived neurotrophic factor (GDNF) could produce potent therapeutic effects at both late and early stages of PD. Due to the intrinsic homing capability of macrophages to regions of inflammation and neurodegeneration, macrophages were found to considerably aggregate at the injury location of PD mice 4 h after intravenous injection (Fig. 4C and D). Moreover, significant fluorescence was observed in inflamed brain regions of transgenic PD mice, whereas no fluorescence was detected in the brains of healthy WT animals. The results revealed that systemically administered macrophages migrated to inflamed sites and accumulated specifically in the brains of PD mice, resulting in almost complete recovery of motor function.
+
+Inspired by biomimetics, neuroinflammation recruits immune cells such as macrophages and neutrophils into the brain, indicating that the cell membranes of these cells can be used as camouflage to help anti-PD drugs target inflammatory sites197. Immune cell membranes combined with RMT or physical strategies offer a solution for targeted delivery of anti-PD drugs to inflamed regions after crossing BBB. For instance, Zheng et al.189 employed 1,2-distearoyl-sn-glycero-3-phosphoethanolamine (DSPE)-PEG2000-triphenylphosphine (TPP)-modified macrophage membrane to encapsulate nanoparticles and utilized FUS to open BBB thereby targeting compromised neurons in an inflammatory environment. In a similar study, Pt/CeO2 was wrapped by RVG29-modified neutrophil-like (HL-60) cell membranes to prepare RVG29@AHM@Pt/CeO2 for effective BBB crossing, dopaminergic neurons, and neuroinflammatory region targetability190. Through the binding of RVG29 to nAChR on the BBB and the inflammatory homing properties of the HL-60 membrane, RVG29@AHM@Pt/CeO2 achieved excellent BBB penetration and accurately reached the nigrostriatal sites in PD mice lesion for effective ROS elimination (Fig. 4E and F).
+
+Similar to biomimetic strategies for wrapping cell membranes, exosomes have been served as biomimetic nanoplatforms for PD treatment. Leveraging their distinctive protein content from parent cells and nanometer-scale size, exosomes possess an intrinsic ability to cross biological barriers198. Intranasal administration further enhances the efficiency of drug delivery to the brain, providing a highly compliant and efficient method for PD therapy199. In this regard, Haney et al.200 loaded catalase into exosomes ex vivo to produce antioxidant and anti-inflammation effects. Compared with PLGA nanoparticles and liposomes, exosomes provided considerably higher accumulation in neurons (Fig. 4G). However, a study conducted in vitro, in vivo, and in human demonstrated microglial exosomes facilitated α-Syn transmission from microglia to neurons. Because exosomes can carry cargos such as mRNA and proteins that influence gene expression and protein activity in recipient cells, they may contribute to the spread of misfolded proteins such as α-Syn201. Hence, when utilizing exosomes, it is essential to consider the potential unknown risks posed by the transmission of misfolded proteins.
+
+The management of MS is typically categorized into two phases: the acute phase and the remitting phase. During the acute phase, the primary therapeutic approach recognized by medical consensus involves oral or intravenous methylprednisolone202. This intervention is widely utilized to mitigate acute inflammation due to its efficacy in downregulating pro-inflammatory cytokines and reducing infiltration of immune cells203. Disease-modifying therapies (DMTs) have emerged as the cornerstone of remission treatment for their potential to alter the course of MS and improve long-term outcomes. An optimal DMT would ideally possess the capability to cross BBB, allowing the medication to effectively target and modulate inflammatory processes101. However, most clinical DMTs involve the systemic use of immune-modulating agents, which may inevitably induce peripheral immunosuppression, highlighting the need for CNS-specific treatment204. Various pathology-driven strategies have been employed to optimize drug delivery to the brain for MS treatment (Table 5205, 206, 207).Table 5A summary of pathology-directed delivery strategies for crossing the BBB in MS; ↑ upregulation.Table 5BBB change in MSStrategiesExample/MechanismAdvantageDisadvantageRef.Lymphocyte antigen 6 family member A receptorAAV variantsBBB-crossing viral vectors AAV-PHP.B•Specific lesion targeting•Minimal off-target risk•Long-term safety•Complex preparation process•Pathology-dependent efficacy205Adhesion molecular ↑Platelets and related modification(Biomimetic strategy)Platelet-based nanoparticle and platelet membrane-coated chitosan nanogel•Targeted delivery to inflammatory site•Long-circulating properties•Limited inflammatory process progression•Complex preparation process and high-cost•Possible immunogenicity issues•Limited drug loading efficiency206Th17 cellular vehicle(Biomimetic strategy)Nanocapsule-coupled Th17 cells•Specific accumulation in MS lesion•Immunomodulatory effect•Complex preparation process and high-cost•Individual differences207
+
+A summary of pathology-directed delivery strategies for crossing the BBB in MS; ↑ upregulation.
+
+A summary of pathology-directed delivery strategies for crossing the BBB in MS; ↑ upregulation.
+
+BBB change in MSStrategiesExample/MechanismAdvantageDisadvantageRef.Lymphocyte antigen 6 family member A receptorAAV variantsBBB-crossing viral vectors AAV-PHP.B•Specific lesion targeting•Minimal off-target risk•Long-term safety•Complex preparation process•Pathology-dependent efficacy205Adhesion molecular ↑Platelets and related modification(Biomimetic strategy)Platelet-based nanoparticle and platelet membrane-coated chitosan nanogel•Targeted delivery to inflammatory site•Long-circulating properties•Limited inflammatory process progression•Complex preparation process and high-cost•Possible immunogenicity issues•Limited drug loading efficiency206Th17 cellular vehicle(Biomimetic strategy)Nanocapsule-coupled Th17 cells•Specific accumulation in MS lesion•Immunomodulatory effect•Complex preparation process and high-cost•Individual differences207
+
+Specific lesion targeting
+
+Minimal off-target risk
+
+Long-term safety
+
+Complex preparation process
+
+Pathology-dependent efficacy
+
+Targeted delivery to inflammatory site
+
+Long-circulating properties
+
+Limited inflammatory process progression
+
+Complex preparation process and high-cost
+
+Possible immunogenicity issues
+
+Limited drug loading efficiency
+
+Specific accumulation in MS lesion
+
+Immunomodulatory effect
+
+Complex preparation process and high-cost
+
+Individual differences
+
+Drawn from the remarkable ability of adeno-associated virus (AAV)-based delivery systems to offer precise regulation over the time and location of biologic production, an IL-2 gene-delivery system for astrocytes has been developed205. By harnessing BBB-crossing viral vectors AAV-PHP.B that combined with the astrocyte-specific promoter glial fibrillary acidic protein (GFAP), this ‘dual-lock’ system (PHP.GFAP-IL-2) intensified delivery precision in CNS and drove robust expression in astrocytes, thus optimizing therapeutic outcomes. These AAV-based vectors potentially avoid immunogenicity and off-target toxicity, showcasing the high potential for translation as a versatile nanoplatform. However, AAV-based brain-targeted delivery still encounters obstacles due to potential neurological safety concerns and hepatotoxicity caused by high therapeutic dose208.
+
+In addition to viral vectors, the Trojan horse strategy of utilizing rather than merely blocking inflammatory cell infiltration has also been proposed for specific delivery of drugs to the inflamed area of CNS209. For instance, activated platelets, which enhance interactions with BMECs through surface proteins upregulated during inflammation, have emerged as promising carriers for drug delivery across BBB in MS therapy. Given the immunomodulation functions and superior BBB penetration of inflammation-activated platelets, Mehdi-alamdarlou et al.206 developed dimethyl fumarate (DMF)-loaded platelet nanoparticles (PN) and platelet membrane-coated chitosan nanogel (PCCN) for MS management (Fig. 5A). The in vivo result revealed a notable enhancement in the brain accumulation of nanoparticles compared to that of free drug (FD), with PCCN showing the highest levels (Fig. 5B). Specifically, PCCN and PN exhibited superior brain uptake clearance and displayed larger brain concentration (Cb)/plasma concentration (Cp) relative to chitosan nanogels of DMF (CN) and FD (Fig. 5C). Thus, platelet-based nanoparticles stood out as a remarkable biomimetic platform for the delivery of therapeutic agents aimed at treating MS.Figure 5Illustration of pathology-directed drug delivery strategies in MS. (A) Schematic illustration of the preparation of DMF-loaded platelet-based nanoparticles (PN, CN, and PCCN). (B) The platelet membranes augment the beneficial effects of CN and increase their passage and durability in brain tissues. a Significant difference with FD, b Significant difference with PN, and c Significant difference with CN. (C) Increased brain uptake clearance with platelet membranes. The slope represents the brain uptake clearance. Reprinted with the permission from Ref. 206. Copyright 2022 © Elsevier. (D) The scheme of ROS-responsive nanocapsule-coupled Th17 cells for transmigrated BBB and enrichment in MS lesion for in situ therapy. (E) The biodistributions of DiR-nCs and Th17-DiR-nCs in CNS of EAE mice ex vivo 12 h after intravenous administration and (F) quantification of the chemiluminescence efficiency in the different groups. Data are presented as mean ± SD (n = 3). P < 0.0001. Reprinted with the permission from Ref. 207. Copyright 2023 © John Wiley and Sons.Figure 5
+
+Illustration of pathology-directed drug delivery strategies in MS. (A) Schematic illustration of the preparation of DMF-loaded platelet-based nanoparticles (PN, CN, and PCCN). (B) The platelet membranes augment the beneficial effects of CN and increase their passage and durability in brain tissues. a Significant difference with FD, b Significant difference with PN, and c Significant difference with CN. (C) Increased brain uptake clearance with platelet membranes. The slope represents the brain uptake clearance. Reprinted with the permission from Ref. 206. Copyright 2022 © Elsevier. (D) The scheme of ROS-responsive nanocapsule-coupled Th17 cells for transmigrated BBB and enrichment in MS lesion for in situ therapy. (E) The biodistributions of DiR-nCs and Th17-DiR-nCs in CNS of EAE mice ex vivo 12 h after intravenous administration and (F) quantification of the chemiluminescence efficiency in the different groups. Data are presented as mean ± SD (n = 3). P < 0.0001. Reprinted with the permission from Ref. 207. Copyright 2023 © John Wiley and Sons.
+
+Illustration of pathology-directed drug delivery strategies in MS. (A) Schematic illustration of the preparation of DMF-loaded platelet-based nanoparticles (PN, CN, and PCCN). (B) The platelet membranes augment the beneficial effects of CN and increase their passage and durability in brain tissues. a Significant difference with FD, b Significant difference with PN, and c Significant difference with CN. (C) Increased brain uptake clearance with platelet membranes. The slope represents the brain uptake clearance. Reprinted with the permission from Ref. 206. Copyright 2022 © Elsevier. (D) The scheme of ROS-responsive nanocapsule-coupled Th17 cells for transmigrated BBB and enrichment in MS lesion for in situ therapy. (E) The biodistributions of DiR-nCs and Th17-DiR-nCs in CNS of EAE mice ex vivo 12 h after intravenous administration and (F) quantification of the chemiluminescence efficiency in the different groups. Data are presented as mean ± SD (n = 3). P < 0.0001. Reprinted with the permission from Ref. 207. Copyright 2023 © John Wiley and Sons.
+
+The imbalance between Th17 and Treg cells is closely associated with the onset and progression of MS. Promoting the transdifferentiation of Th17 cells into Treg cells may mitigate inflammation210. Leveraging a Trojan horse strategy, nanoparticles conjugated with Th17 cells can exploit MS-induced BBB disruption and the inflammation-homing properties of Th17 cells to invade the brain and reside within the MS lesions. After reaching the inflammatory foci, these nanoparticles induce Th17-to-Treg transdifferentiation, offering a promising approach for MS therapy211. In a study by Shi et al.207, nanocapsules (nCs) were anchored to the surface of donor Th17 cells through maleimide-thiol conjugation. After intravenous administration, the hybrid system efficiently navigated across BBB and accurately targeted the inflammatory site. Thereafter, the Trojan horse hybrid system facilitated the in-situ transformation of Th17 cells into anti-inflammatory Treg cells (Fig. 5D). Moreover, this study demonstrated that the propensity of Th17-DiR-nCs (Th17 cells bound to DiR-labeled nCs) penetrating BBB was decreased in normal animals, underscoring the system's selectivity and potential for targeted therapy in MS (Fig. 5E and F). Inflammation-involved immune cells like macrophages and T cells held promise as delivery vehicles for therapeutics targeted at different stages of inflammation212. This strategy presented novel opportunities for combating inflammatory diseases with enhanced precision and effectiveness. Nevertheless, the majority of mechanisms underlying immune cell recruitment and phenotypic changes in inflamed tissues remain unclear.
+
+The disruption of TJs in the stroke might offer a unique opportunity for brain permeability of drugs213. The compromised BBB has been applied to the delivery of some liposomal formulations. In a middle cerebral artery occlusion (MCAo) rodent model, intravenous administration of optimized liposomes composing of hydrogenated soybean phosphatidylcholine, cholesterol, and DSPE-PEG2000 resulted in a specific accumulation at the cerebral ischemic area (Fig. 6A)114. Notably, the accumulation of liposomes in brains of MACo mice was 4.6 times higher than healthy counterparts at 0.5 and 48 h time points, which was attributed to the enhanced transcellular transport in the biphasic stroke pattern. Furthermore, increased brain entry efficiency of liposomes was observed throughout different phases of stroke-related BBB injury. Though the BBB disruption can be strategically used to enhance brain accumulation of drugs, the leakage via the compromised BBB alone often fails to achieve therapeutic drug concentrations214. The varying BBB disruption levels among individuals and stroke phases also reduce drug delivery efficiency. Hence, strategic modification and encapsulation to enhance cerebral drug delivery is crucial for stroke treatment.Figure 6Illustration of pathology-directed drug delivery strategies in stroke. (A) A selective accumulation of DiI-LP occurred in the ischemic area. Reprinted with the permission from Ref. 114. Copyright © 2019 American Chemical Society. (B) Schematic illustration of the preparation of PP@PCL. Quantitative analysis of (C) real-time fluorescence images of the heads of MCAo rats and (D) brain sections. Data are presented as mean ± SD (n = 3). ∗∗P < 0.01, ∗∗∗P < 0.001, ∗∗∗∗P < 0.0001. Reprinted with the permission from Ref. 216. Copyright © 2024 John Wiley and Sons. (E) The αvβ3-positive U87 cells showed higher uptake efficiency of cRGD-Exo than αvβ3-negative HeLa cells. (F) The cRGD-Exo selectively accumulated in the ischemic brain. (G) The colocalization of cRGD-Exo with intracerebral microglia (Iba1), neuron (NeuN), and astrocyte (GFAP). Reprinted with the permission from Ref. 221. Copyright © 2018 Elsvier. (H, I) The levels of miR-210 and VEGF in the lesion region were upregulated by the administration of cRGD-exo:miR-210. (J) The integrin β3 and CD34 up-regulated in the lesion area on Day 7 or 14 safter reperfusion. Reprinted with the permission from Ref. 222. Copyright © 2019 Springer Nature.Figure 6
+
+Illustration of pathology-directed drug delivery strategies in stroke. (A) A selective accumulation of DiI-LP occurred in the ischemic area. Reprinted with the permission from Ref. 114. Copyright © 2019 American Chemical Society. (B) Schematic illustration of the preparation of PP@PCL. Quantitative analysis of (C) real-time fluorescence images of the heads of MCAo rats and (D) brain sections. Data are presented as mean ± SD (n = 3). ∗∗P < 0.01, ∗∗∗P < 0.001, ∗∗∗∗P < 0.0001. Reprinted with the permission from Ref. 216. Copyright © 2024 John Wiley and Sons. (E) The αvβ3-positive U87 cells showed higher uptake efficiency of cRGD-Exo than αvβ3-negative HeLa cells. (F) The cRGD-Exo selectively accumulated in the ischemic brain. (G) The colocalization of cRGD-Exo with intracerebral microglia (Iba1), neuron (NeuN), and astrocyte (GFAP). Reprinted with the permission from Ref. 221. Copyright © 2018 Elsvier. (H, I) The levels of miR-210 and VEGF in the lesion region were upregulated by the administration of cRGD-exo:miR-210. (J) The integrin β3 and CD34 up-regulated in the lesion area on Day 7 or 14 safter reperfusion. Reprinted with the permission from Ref. 222. Copyright © 2019 Springer Nature.
+
+Illustration of pathology-directed drug delivery strategies in stroke. (A) A selective accumulation of DiI-LP occurred in the ischemic area. Reprinted with the permission from Ref. 114. Copyright © 2019 American Chemical Society. (B) Schematic illustration of the preparation of PP@PCL. Quantitative analysis of (C) real-time fluorescence images of the heads of MCAo rats and (D) brain sections. Data are presented as mean ± SD (n = 3). ∗∗P < 0.01, ∗∗∗P < 0.001, ∗∗∗∗P < 0.0001. Reprinted with the permission from Ref. 216. Copyright © 2024 John Wiley and Sons. (E) The αvβ3-positive U87 cells showed higher uptake efficiency of cRGD-Exo than αvβ3-negative HeLa cells. (F) The cRGD-Exo selectively accumulated in the ischemic brain. (G) The colocalization of cRGD-Exo with intracerebral microglia (Iba1), neuron (NeuN), and astrocyte (GFAP). Reprinted with the permission from Ref. 221. Copyright © 2018 Elsvier. (H, I) The levels of miR-210 and VEGF in the lesion region were upregulated by the administration of cRGD-exo:miR-210. (J) The integrin β3 and CD34 up-regulated in the lesion area on Day 7 or 14 safter reperfusion. Reprinted with the permission from Ref. 222. Copyright © 2019 Springer Nature.
+
+Platelets are important in physiological and pathological processes from vascular repair to thrombosis. They can target occlusion areas with the help of vascular adhesion components on the membranes, such as integrin αIIbβ3 and glycoprotein GPIb-IX-V. Inspired by this, a novel platelet membrane-derived biomimetic nanobubble (PNB) has been prepared through sonication-assisted recombination with freeze–thaw cycling215. Combining treatment and diagnosis, PNBs exhibited a dual functionality, including perfusion intervention and real-time contrast-enhanced ultrasound imaging. After intravenous administration, PNBs showed rapid accumulation in the stroke lesion within 0.5 h, suggesting efficient brain targetability with certain therapeutic efficacy. The innovative use of platelet-derived nanoformulations, with their exceptional biocompatibility and inherent targeting mechanisms, presented a new avenue for BBB overcoming in stroke. Building upon the promising brain-targeted efficacy of platelets, researchers have expanded its application from only therapeutic agents to a platelet-based drug delivery system. For example, Tang et al.216 designed a bioengineered nanojacket that combined the ischemic area targetability of platelets and the BBB penetrating ability of 4T1 cells. Initially, polymetformin, which can foster the polarization of microglia towards the anti-inflammatory M2 phenotype, was complexed with hyaluronic acid (HA) via electrostatic interactions to form a hydrophilic PH core, which was subsequently incorporated into the hydrophilic lumen of a liposome. Meanwhile, the hydrophobic anti-inflammatory agent paeonol (PAE) was embedded within the liposome's phospholipid bilayer, yielding a dual-drug-loaded lipid core PP@lip. Ultimately, a nanojacket encapsulating PP@PCL was fabricated through a co-extrusion technique (Fig. 6B). In vivo quantitative fluorescence assays utilizing DiR demonstrated that the hybrid cell membrane modification extended fluorescence decay in the brains of MCAo rats by 4 h, thereby augmenting drug retention (Fig. 6C). Notably, the fluorescence intensity of DiR@PCL in the ischemic hemispheres was 0.8-fold greater than nanoparticles encapsulated with the 4T1 cell membrane alone at 24 h (Fig. 6D). This expected distribution assured the therapeutic agents of potent anti-inflammatory effects in subsequent experiments. Although cell membrane hybridization is an attractive strategy to integrate multiple cell functions, stability and safety concerns arising from cell membrane hybridization must be meticulously addressed in the future.
+
+Beyond the strategies above, different platelet modifications have been developed to enhance the BBB permeability. Adipose-derived stem cell-derived fat extract (FE) contains a variety of angiogenic factors (e.g., VEGF, GDNF) with low immunogenicity217. To solve its poor bioavailability and modest brain targetability, an Arg-Gly-Asp (RGD)-functionalized platelet membrane (RGD-PLT) was designed218. Briefly, a porous PLGA nanocore loading with therapeutic FE was encapsulated with RGD-PLT. Results showed that the final RGD-PLT@PLGA-FE held a more vital ability to target the cerebral ischemic region, facilitating angiogenesis and neurogenesis. A cyclic RGD (cRGD)-conjugated pH-sensitive polymer vesicle was also used to deliver ROS scavenger resveratrol219. The triblock copolymer of this nano-vehicle was based on polycaprolactone (PCL) as the core, one end was modified with TPP for mitochondrial targeting, and the other end was decorated with brain-targeted peptide cRGD via a pH-responsive acetal linkage. The acetal bond could be cleaved in the acidic milieu of lysosome upon endocytosis by microglia. The subsequent exposed TPP facilitated the following mitochondria targeting, thus improving the release of resveratrol within mitochondria and effectively scavenging free radicals. As shown in the results, the brain entry efficiency of resveratrol delivered via brain-targeted micelle cRGD/TPP was 4.7-fold higher than free resveratrol, demonstrating enhanced mitochondrial colocalization. The targeted approaches facilitated the selective and efficient delivery of therapeutic agents to the CNS, particularly at sites of injury or inflammation. This has also achieved significant results in the restoration of CBF, the reduction of infarct size and the recovery of neurological function.
+
+In stroke, the local inflammation triggers the upregulation of some molecules in BMECs, including integrin αvβ3, VCAM-1, ICAM-1, and MMP220. These pathophysiological features also inspired the optimization of brain-targeted drug delivery systems. Exosomes have emerged as promising biological drugs or carriers in stroke therapy due to their abundant therapeutic contents and inherent BBB penetration ability. However, they are prone to be trapped in organs of reticuloendothelial system rather than brain. Given a high affinity to αvβ3 integrins of c(RGDyK) peptide, researchers conjugated c(RGDyK) to the surface of MSC-derived exosomes, aiming at guiding the exosomes to the pathological area221. Flow cytometry analysis revealed that αvβ3-positive U87 cells exhibited a 3-fold increase in cRGD-Exo uptake compared to unmodified exosomes. Conversely, free c(RGDyK) peptides dose-dependently inhibited cRGD-Exo internalization by U87 cells. These findings suggested the high affinity of c(RGDyK) to αvβ3-positive sites, thus promoting internalization (Fig. 6E). In MCAo mice, a substantial accumulation of cRGD-Exo in the lesion was observed, correlating with the heightened expression of αvβ3 (Fig. 6F). Notably, post-BBB penetration, these nanoparticles further targeted microglia expressing αvβ3 in the parenchyma, demonstrating the dual targeting capacity of cRGD-Exo (Fig. 6G).
+
+In light of this, c(RGDyK)-modified exosomes were also used to deliver miR-210 (named cRGD-exo:miR-210), which was a principal hypoxia-induced miRNA and could enhance angiogenesis by promoting the VEGF signaling pathway222. Following intravenous administration, miR-210 levels in the injured brain region were significantly elevated (Fig. 6H). The mRNA expression of VEGF rose 24 h post-injection, thereby promoting microangiogenesis and vascular repair in stroke (Fig. 6I), which re-confirmed the successful brain targetability of c(RGDyK) peptides to the ischemic region, thus enhancing therapeutic efficacy. Intriguingly, the therapeutic intervention with miR-210 upregulated the expression of integrin β3 in blood vessels (Fig. 6J). The data implied a positive feedback loop in which cRGD-exo:miR-210 not only targeted integrin β3 but also upregulated the expression of the target itself. Despite improved brain targeting, exosomes still accumulate in off-target organs like the liver and lungs, limiting therapeutic efficacy. Future research must optimize targeting strategies to enhance brain specificity and minimize off-target effects.
+
+In addition, the overexpression of MMPs, specifically MMP-2 and MMP-9, serves as diagnostic hallmarks of ischemic stroke pathology. Notably, the MMP-2 is observed to escalate during the initial phases of stroke, whereas MMP-9 exhibits heightened activity later. As reported by Han et al.223, the PLGA was modified with chlorotoxin (CTX), which held a high affinity to MMP-2. The BBB modulator Lexiscan (LEX) and the therapeutic Nogo-66 receptor antagonist peptide (NEP1-40) were co-encapsulated within PLGA-CTX nanoparticles, aiming at brain-targeted delivery and enhanced therapeutic action. Upon intravenous injection, PLGA-CTX/LEX nanoparticles selectively staying in the ischemic hemisphere were 12.8 times higher than healthy ones. The localized release of LEX, in turn, improved BBB opening and subsequent BBB penetration. VCAM-1 also serves as a pivotal marker of neuroinflammation. This molecular signature presents a strategy by decorating carriers with VCAM antibodies (anti-VCAM) to realize ischemic brain targeting and BBB permeation of drugs. Marcos-Contreras et al.224 reported that BMECs’ uptake of anti-VCAM liposomes exceeded that of anti-TfR and anti-ICAM liposomes by 27-fold and 8-fold respectively. Based on this, they encapsulated mRNA encoding the endothelial glycoprotein thrombomodulin into anti-VCAM-modified liposomes as a model drug, effectively normalizing structural and functional integrity of BBB.
+
+In summary, BBB in stroke shows a unique biphasic pattern: an initial increase in permeability within 4‒6 h post-ischemia, succeeded by a delayed phase (2‒3 days later) characterized by further BBB opening (Table 6114-216,218,219,221-224). This change offers a dynamic therapeutic window for drug delivery. Moreover, drug carrier modifications targeting BBB-specific markers can enhance both brain targeting and BBB penetration, thereby improving therapeutic efficacy.Table 6A summary of pathology-directed delivery strategies for crossing the BBB in stroke; ↑ upregulation, ↓ downregulation.Table 6BBB change in strokeStrategiesExample/MechanismAdvantageDisadvantageRef.TJ ↓Passive infiltrationLiposomal formulation composed of hydrogenated soybean phosphatidylcholine, cholesterol, and DSPE-PEG2000•Easy preparation method•Inexpensive•Nontoxic•Insufficient BBB permeability•Unknown drug loading efficacy•Hard to achieve therapeutic drug concentrations114Adhesion molecules ↑Platelets and related modifications(Biomimetic strategy)Platelet membrane-derived nanobubble•Accurate brain targeting•Microvascular remodeling ability•Combining diagnosis and treatment•Possible immunogenicity issues•Limited ultrasound imaging depth•Complex preparation process and high-cost215(Biomimetic strategy)Cellular hybrid membrane combined platelets and 4T1 cells•Accurate brain targeting•Desirable BBB permeability•Possible immunogenicity issues•Complex preparation process and high-cost216(Biomimetic strategy)RGD-functionalized platelet membrane•Accurate brain targeting•Extended half-life•Possible immunogenicity issues•Complex preparation process and high-cost218Brain-targeted peptide modificationcRGD-conjugated pH-sensitive polymer (PEG-acetal-PCL-PEG)•Accurate brain targeting•Environmental responsiveness ensured drug release in the target organelles•Possible immunogenicity issues•Residues of organic solvents during preparation•Complex preparation process and high-cost219(Biomimetic strategy) c(RGDyK) modified MSC-derived exosomes•Accurate brain targeting•Natural stability and low immunogenicity•Rapid and large-scale production of exosome•Unknown drug release profile•Interception of the liver and lungs221,222MMP ↑MMP ligand modificationMMP-2 ligand (CTX) modified PLGA nanoparticles loading BBB modulator LEX•High brain targeting•Autocatalytic mechanisms promoted drug cerebral accumulation•Enhanced BBB permeability•Exploring better ligands or BBB modulators for further brain targetability223VCAM-1 ↑VCAM ligand modificationVCAM antibodies•Accurate brain targeting•Better BBB permeability than transportation via TfR•Complex preparation process•Unknown long-term safety and efficacy224
+
+A summary of pathology-directed delivery strategies for crossing the BBB in stroke; ↑ upregulation, ↓ downregulation.
+
+A summary of pathology-directed delivery strategies for crossing the BBB in stroke; ↑ upregulation, ↓ downregulation.
+
+BBB change in strokeStrategiesExample/MechanismAdvantageDisadvantageRef.TJ ↓Passive infiltrationLiposomal formulation composed of hydrogenated soybean phosphatidylcholine, cholesterol, and DSPE-PEG2000•Easy preparation method•Inexpensive•Nontoxic•Insufficient BBB permeability•Unknown drug loading efficacy•Hard to achieve therapeutic drug concentrations114Adhesion molecules ↑Platelets and related modifications(Biomimetic strategy)Platelet membrane-derived nanobubble•Accurate brain targeting•Microvascular remodeling ability•Combining diagnosis and treatment•Possible immunogenicity issues•Limited ultrasound imaging depth•Complex preparation process and high-cost215(Biomimetic strategy)Cellular hybrid membrane combined platelets and 4T1 cells•Accurate brain targeting•Desirable BBB permeability•Possible immunogenicity issues•Complex preparation process and high-cost216(Biomimetic strategy)RGD-functionalized platelet membrane•Accurate brain targeting•Extended half-life•Possible immunogenicity issues•Complex preparation process and high-cost218Brain-targeted peptide modificationcRGD-conjugated pH-sensitive polymer (PEG-acetal-PCL-PEG)•Accurate brain targeting•Environmental responsiveness ensured drug release in the target organelles•Possible immunogenicity issues•Residues of organic solvents during preparation•Complex preparation process and high-cost219(Biomimetic strategy) c(RGDyK) modified MSC-derived exosomes•Accurate brain targeting•Natural stability and low immunogenicity•Rapid and large-scale production of exosome•Unknown drug release profile•Interception of the liver and lungs221,222MMP ↑MMP ligand modificationMMP-2 ligand (CTX) modified PLGA nanoparticles loading BBB modulator LEX•High brain targeting•Autocatalytic mechanisms promoted drug cerebral accumulation•Enhanced BBB permeability•Exploring better ligands or BBB modulators for further brain targetability223VCAM-1 ↑VCAM ligand modificationVCAM antibodies•Accurate brain targeting•Better BBB permeability than transportation via TfR•Complex preparation process•Unknown long-term safety and efficacy224
+
+Easy preparation method
+
+Inexpensive
+
+Nontoxic
+
+Insufficient BBB permeability
+
+Unknown drug loading efficacy
+
+Hard to achieve therapeutic drug concentrations
+
+Accurate brain targeting
+
+Microvascular remodeling ability
+
+Combining diagnosis and treatment
+
+Possible immunogenicity issues
+
+Limited ultrasound imaging depth
+
+Complex preparation process and high-cost
+
+Accurate brain targeting
+
+Desirable BBB permeability
+
+Possible immunogenicity issues
+
+Complex preparation process and high-cost
+
+Accurate brain targeting
+
+Extended half-life
+
+Possible immunogenicity issues
+
+Complex preparation process and high-cost
+
+Accurate brain targeting
+
+Environmental responsiveness ensured drug release in the target organelles
+
+Possible immunogenicity issues
+
+Residues of organic solvents during preparation
+
+Complex preparation process and high-cost
+
+Accurate brain targeting
+
+Natural stability and low immunogenicity
+
+Rapid and large-scale production of exosome
+
+Unknown drug release profile
+
+Interception of the liver and lungs
+
+High brain targeting
+
+Autocatalytic mechanisms promoted drug cerebral accumulation
+
+Enhanced BBB permeability
+
+Exploring better ligands or BBB modulators for further brain targetability
+
+Accurate brain targeting
+
+Better BBB permeability than transportation via TfR
+
+Complex preparation process
+
+Unknown long-term safety and efficacy
+
+The distinct tumor structure, characterized by an impaired lymphatic drainage system and the formation of leaky vessels, presents a unique avenue for delivering therapeutic agents to tumors225. The enhanced permeability and retention (EPR) effect has long been regarded as an attractive approach for passive tumor targeting of nanoparticles to achieve the accumulation within solid tumor mass. However, this method is highly dependent on the varying pore dimensions of different types and stages of tumors, exhibiting significant heterogeneity226. Owing to BBB/BTB, the manifestation of the EPR effect in brain tumors may diverge from that observed in peripheral tumors. In a study about passive targeting of glioblastoma multiforme (GBM), metallic magnetic nanoparticles (MMNPs) exceeding 50 nm were restricted by BTB, and only a tiny fraction of MMNPs around 30–50 nm was observed in the tumor interstitium227. Considering the boundedness of passive targeting via the EPR effect, active targeting may become a promising therapeutic strategy in anti-tumor drug development.
+
+Due to altered metabolism and malignant proliferation, the demand for energy and nutrients in glioma cells increases, contrasting significantly with healthy brain cells228. Nutrient transporters or receptors are highly expressed on the surface of gliomas and BMECs in response to this intense metabolic demand, thereby fueling the rapid growth of tumor cells. As a result, innovative strategies for active targeting therapy have been developed by designing ligands for nutrient transporters to mimic natural nutrient passage to the brain and gliomas229. Employing this methodology, some receptors have been extensively utilized as targets in glioma treatment due to their disease-oriented function in enhancing the delivery efficacy of macromolecules (Table 7230, 231, 241). However, the widespread presence of these receptors across multiple non-targeted tissues raises concerns about off-target effects. Additionally, the sluggish dissociation kinetics of the ligand-receptor binding can hinder the optimal drug release at the desired location. The competitive effect of endogenous ligands may also lead to subtherapeutic concentrations at the treatment site242. These factors need to be carefully considered and addressed in the design and optimization of targeted drug delivery systems to ensure both effectiveness and safety.Table 7A summary of RMT/AMT-based delivery strategies for crossing the BBB in gliomas; ↑ upregulation.Table 7BBB change in gliomasStrategiesExample/MechanismAdvantageDisadvantageRef.TfR ↑Modification with Tf, mAb, or fragments of TfRTf-decorated niosomes with integrated magnetic iron oxide nanoparticles and quantum dots•Efficient brain targetability•High tumor intracellular drug accumulation•Combining diagnosis and treatment•Unknown imaging signal stability•Complex preparation process•Possible immunogenicity issues230Transferrin moieties modified liposomes (Tf-RES-L)•Efficient brain targetability•Improved drug delivery•Prolonged drug-release in vitro•Complex preparation process•Unkonwn drug release profile in vivo•Differentiated delivery efficiency231(Biomimetic strategy)Decorating TfR on the surface of exosome-liposome hybridized nanovesicles to adsorb endogenous Tf in the blood•Efficient brain targetability•Improved drug delivery and anti-glioma efficacy•Low toxicity•Individual differences due to Tf adsorption variation•Unknown long-term safety•Possible immunogenicity issues232LRPModification with α-2-macroglobulin, apolipoprotein, angiopep 2Angiopep-2-modified cationic liposomes•Efficient brain targetability and BBB permeability•Improved tumor intracellular drug accumulation•Low toxicity•Complex preparation process•Possible non-specific accumulation in liver, spleen233A short peptide Aβ25-35-modified liposomes (SP-sLip) associated apolipoproteins in the blood after intravenous injection•Efficient brain targetability•Low toxicity•Simple preparation process•Prolonged blood circulation time•Individual differences in delivery efficiency due to apolipoprotein variation•Possible non-specific accumulation234nAChRModification with corresponding ligands (such as rabies virus glycoprotein (RVG), 2- MPC(Biomimetic strategy)Decorating RVG on chimeric antigen receptor (CAR)-T cells•Efficient brain targetability•High biocompatibility•Benefit to maintain T cell function•Complex preparation process and high-cost•Possible non-specific accumulation235Modifying Gd-based nanodisks with RVG29•Efficient brain and glioma targetability•Combined drug loading•Complex preparation process•Unknown long-term cumulative toxicity236Nanocapsules that contain MPC modified acetylcholine and choline analogues•Efficient brain targetability•Stable drug loading•High biocompatibility•Complex preparation process•Individual differences due to serum protein components•Possible immunogenicity issues237N/A (AMT strategies)Cationic or amphiphilic nanoparticles based on AMTUsing screened leading cationic lipid (BAMPA-O16B) to target glial tumor•Efficient BBB permeability•Initiating synergistic immunotherapy•Improved genetic loading•Complex preparation process and high-cost•Drug release to be optimized•Possible non-specific accumulation238CPPs and positively charged bovine serum albumin (CBSA) based on AMTPorous silicon nanoparticles modified with CPP (SIWV)•Efficient brain and glioma targetability•Improved tumor drug delivery•High efficiency of cell penetration and internalization•Complex preparation process•Possible immunogenicity issues•Non-specific accumulation in peripheral organs239By integrating T7 targeting TfR and CPP (DP7) to cationic liposomes•Accurate brain and glioma targetability•Enhanced immunotherapy effect•Complex preparation process•Possible immunogenicity issues•Unknown drug release profile240Tumor-specific and pH-responsive CPP (H7K(R2)2)-modified liposomes•Efficient brain and glioma targetability•Tumor microenvironment responsiveness•Efficient drug loading•Complex preparation process•Unknown drug release in vivo•Possible immunogenicity issues241
+
+A summary of RMT/AMT-based delivery strategies for crossing the BBB in gliomas; ↑ upregulation.
+
+A summary of RMT/AMT-based delivery strategies for crossing the BBB in gliomas; ↑ upregulation.
+
+BBB change in gliomasStrategiesExample/MechanismAdvantageDisadvantageRef.TfR ↑Modification with Tf, mAb, or fragments of TfRTf-decorated niosomes with integrated magnetic iron oxide nanoparticles and quantum dots•Efficient brain targetability•High tumor intracellular drug accumulation•Combining diagnosis and treatment•Unknown imaging signal stability•Complex preparation process•Possible immunogenicity issues230Transferrin moieties modified liposomes (Tf-RES-L)•Efficient brain targetability•Improved drug delivery•Prolonged drug-release in vitro•Complex preparation process•Unkonwn drug release profile in vivo•Differentiated delivery efficiency231(Biomimetic strategy)Decorating TfR on the surface of exosome-liposome hybridized nanovesicles to adsorb endogenous Tf in the blood•Efficient brain targetability•Improved drug delivery and anti-glioma efficacy•Low toxicity•Individual differences due to Tf adsorption variation•Unknown long-term safety•Possible immunogenicity issues232LRPModification with α-2-macroglobulin, apolipoprotein, angiopep 2Angiopep-2-modified cationic liposomes•Efficient brain targetability and BBB permeability•Improved tumor intracellular drug accumulation•Low toxicity•Complex preparation process•Possible non-specific accumulation in liver, spleen233A short peptide Aβ25-35-modified liposomes (SP-sLip) associated apolipoproteins in the blood after intravenous injection•Efficient brain targetability•Low toxicity•Simple preparation process•Prolonged blood circulation time•Individual differences in delivery efficiency due to apolipoprotein variation•Possible non-specific accumulation234nAChRModification with corresponding ligands (such as rabies virus glycoprotein (RVG), 2- MPC(Biomimetic strategy)Decorating RVG on chimeric antigen receptor (CAR)-T cells•Efficient brain targetability•High biocompatibility•Benefit to maintain T cell function•Complex preparation process and high-cost•Possible non-specific accumulation235Modifying Gd-based nanodisks with RVG29•Efficient brain and glioma targetability•Combined drug loading•Complex preparation process•Unknown long-term cumulative toxicity236Nanocapsules that contain MPC modified acetylcholine and choline analogues•Efficient brain targetability•Stable drug loading•High biocompatibility•Complex preparation process•Individual differences due to serum protein components•Possible immunogenicity issues237N/A (AMT strategies)Cationic or amphiphilic nanoparticles based on AMTUsing screened leading cationic lipid (BAMPA-O16B) to target glial tumor•Efficient BBB permeability•Initiating synergistic immunotherapy•Improved genetic loading•Complex preparation process and high-cost•Drug release to be optimized•Possible non-specific accumulation238CPPs and positively charged bovine serum albumin (CBSA) based on AMTPorous silicon nanoparticles modified with CPP (SIWV)•Efficient brain and glioma targetability•Improved tumor drug delivery•High efficiency of cell penetration and internalization•Complex preparation process•Possible immunogenicity issues•Non-specific accumulation in peripheral organs239By integrating T7 targeting TfR and CPP (DP7) to cationic liposomes•Accurate brain and glioma targetability•Enhanced immunotherapy effect•Complex preparation process•Possible immunogenicity issues•Unknown drug release profile240Tumor-specific and pH-responsive CPP (H7K(R2)2)-modified liposomes•Efficient brain and glioma targetability•Tumor microenvironment responsiveness•Efficient drug loading•Complex preparation process•Unknown drug release in vivo•Possible immunogenicity issues241
+
+Efficient brain targetability
+
+High tumor intracellular drug accumulation
+
+Combining diagnosis and treatment
+
+Unknown imaging signal stability
+
+Complex preparation process
+
+Possible immunogenicity issues
+
+Efficient brain targetability
+
+Improved drug delivery
+
+Prolonged drug-release in vitro
+
+Complex preparation process
+
+Unkonwn drug release profile in vivo
+
+Differentiated delivery efficiency
+
+Efficient brain targetability
+
+Improved drug delivery and anti-glioma efficacy
+
+Low toxicity
+
+Individual differences due to Tf adsorption variation
+
+Unknown long-term safety
+
+Possible immunogenicity issues
+
+Efficient brain targetability and BBB permeability
+
+Improved tumor intracellular drug accumulation
+
+Low toxicity
+
+Complex preparation process
+
+Possible non-specific accumulation in liver, spleen
+
+Efficient brain targetability
+
+Low toxicity
+
+Simple preparation process
+
+Prolonged blood circulation time
+
+Individual differences in delivery efficiency due to apolipoprotein variation
+
+Possible non-specific accumulation
+
+Efficient brain targetability
+
+High biocompatibility
+
+Benefit to maintain T cell function
+
+Complex preparation process and high-cost
+
+Possible non-specific accumulation
+
+Efficient brain and glioma targetability
+
+Combined drug loading
+
+Complex preparation process
+
+Unknown long-term cumulative toxicity
+
+Efficient brain targetability
+
+Stable drug loading
+
+High biocompatibility
+
+Complex preparation process
+
+Individual differences due to serum protein components
+
+Possible immunogenicity issues
+
+Efficient BBB permeability
+
+Initiating synergistic immunotherapy
+
+Improved genetic loading
+
+Complex preparation process and high-cost
+
+Drug release to be optimized
+
+Possible non-specific accumulation
+
+Efficient brain and glioma targetability
+
+Improved tumor drug delivery
+
+High efficiency of cell penetration and internalization
+
+Complex preparation process
+
+Possible immunogenicity issues
+
+Non-specific accumulation in peripheral organs
+
+Accurate brain and glioma targetability
+
+Enhanced immunotherapy effect
+
+Complex preparation process
+
+Possible immunogenicity issues
+
+Unknown drug release profile
+
+Efficient brain and glioma targetability
+
+Tumor microenvironment responsiveness
+
+Efficient drug loading
+
+Complex preparation process
+
+Unknown drug release in vivo
+
+Possible immunogenicity issues
+
+In comparison to unaffected brain regions, efflux pumps are frequently upregulated in tumor vasculature, generating cross-resistance to different types of cytotoxic drugs due to their broad substrate specificity. Except for BBB/BTB, efflux pumps are also expressed in tumor cells, which prevent drugs from accessing the cellular cytoplasm, contributing to treatment resistance243. Therefore, targeting efflux transporters has the potential to reduce substrate efflux and promote cerebral drug retention244. For instance, Hasan et al.245 demonstrated that pre-treatment of cells with P-gp inhibitor reversan (RV) before administering nanostructure hybrid lipid capsules (nHLCs) could significantly increase the retention of nHLCs in GBM cells. As reported, the treatment process was simplified by the co-delivery of transporter inhibitors and drugs to develop an actively targeted nanoprodrug delivery system (cRGD/PSDOX-Cur@NPs)246. This method enhanced delivery precision by surface modification with cRGD peptides to target the overexpressed αvβ3 integrin on the ECs of GBMs. Given the innate ability of curcumin (Cur) to inhibit P-gp, it was observed that cRGD/PSDOX-Cur@NPs effectively crossed BBB and aggregated at the tumor locations of GL261-Luc GBM-bearing mice to exert the synergistic antitumor effect. Beyond inhibiting ABC transporters, an encouraging strategy involving combined inhibition of multiple efflux mechanisms deserves further investigation247.
+
+Glioma undergoes intricate cellular interactions and adhesion processes during its aggressive invasion and infiltration. This phenomenon is driven by surface molecule interactions involving TF antigen, E-cadherin, galectin-3, and adhesion molecules such as CD44 and CD326248,249. The adhesion molecules on the surface of homologous tumor cell membranes can bind to the ligands on the tumor cell membrane, leading to homologous aggregation of tumor cells250. Inspired by this, constructing a homologous targeting drug delivery platform that acts like GBM cells can achieve remarkable BBB permeability and GBM targeting. The excessive expression of various immune checkpoints on GBM cells, notably CD47, CD276, and PD-L1, equips them with potent mechanisms to evade immune surveillance, enabling tumor cells to infiltrate, migrate, and spread251. However, the presence of BBB restricted the therapeutic effect of immunosuppressants that can block immune checkpoints on GBM. As a result, designing a bioinspired drug delivery platform that mirrors the immune-evasive strategies employed by GBM cells can significantly shield therapeutic agents from immune clearance. For instance, Sun et al.252 developed a biomimetic nanoplatform (AMNP@CLP@CCM) combining allomelanin nanoparticles (AMNPs) loaded with CLP002 and enveloped in GBM cell-derived membranes for synergistic treatment of photothermal therapy and immune checkpoint blockade. Utilizing the homing effect of cancer cell membranes, AMNP@CLP@CCM could effectively transverse BBB and aggregate at GBM locations. The brain ex vivo fluorescence of the AMNP@CLP@CCM group increased by 4.7 times compared to the unencapsulated control group.
+
+In addition to encapsulating the tumor cell membranes, utilizing targeted nanoparticles to cross BBB also offers a promising strategy for glioma-targeted delivery253. In this regard, Fan et al.254 reported recombinant anti-B7-H3 × CD3 bispecific antibodies (biAbs) that targeted B7-H3 (CD276) on the surface of GBM cells and recruited immune cells to activate T cells and kill tumor cells. To overcome the BBB, targeted carriers (HA-PLGLAG-dEGCG) were prepared by conjugating a dimer of epigallocatechin-3-gallate (dEGCG) with hyaluronic acid (HA) through an MMP cleavable linker. HA was a targeted ligand for CD44 receptor overexpressed in GBM cells255. Given the GBM targeted delivery and tumor microenvironment with high expression of MMP-2, S-biAb/dEGCG@NPs specifically released the anti-B7-H3 × CD3 biAbs at the tumor site. The S-biAb/dEGCG@NPs displayed enhanced intracranial accumulation, 9.5-fold higher than that of biAb/dEGCG complexes, which might be a promising candidate for antibody-based nanocarrier systems.
+
+Beyond the optimization of nanoparticles, exploiting the inherent chemotactic effects of tumors have attracted great attention. The core of this approach involves the utilization of the inflammatory microenvironment characteristic of early-stage tumors, which recruits immune cells to the tumor site256,257. This pathological phenomenon not only presents a promising 'hitchhiking' pathway for tumor-targeted delivery but also opens up opportunities for utilizing elements of immune cells, notably their cellular membranes and extracellular vesicles, as carriers (Table 8203,258, 286). As the tumor matures, it develops mechanisms to evade immune surveillance, creating an environment that inhibits immune cell infiltration and function, thus undermining the chemotactic attraction that characterized earlier stages287. Therefore, when using this strategy for tumor-targeted delivery, it is essential to consider enhancing this biological chemotactic effect.Table 8Biomimetic approaches for enhancing drug delivery across the BBB and precise targeting of gliomas; ↑ upregulation.Table 8BTB change in gliomaStrategiesExample/MechanismAdvantageDisadvantageRef.Chemokine ↑CAR-T cellsRecruitment of CAR-T cells in GBM infected with C–X–C motif chemokine 11-armed oncolytic adenovirus•Enhanced migration and intratumoral infiltration Cooperative effect•Intratumoral injection safety•Tumor heterogeneity•Possible immunogenicity issues258IL-13- receptor-α2 (IL13Rα2)CAR targeting IL13Rα2Interleukin-13-targeted CAR-T cells-mediated nanoparticle delivery system•Combining diagnosis and treatment•High bioavailability at the target site•Reduced systemic side effects•Complex preparation process and high-cost•Tumor heterogeneity•Possible immunogenicity issues259Epidermal growth factor receptor variant III (EGFRvIII)CAR targeting EGFRvIIICombination of CAR-T cells with local delivery of IL-12•Enhance CAR-T cell efficacy•Endogenous T cell balance•Reduced systemic side effects•Complex preparation process and high-cost•Tumor heterogeneity•Antigen loss and tumor escape260Epidermal growth factor receptor and IL13Rα2Bispecific T cell engagers (BiTE)BiTE-secreting T cells•High sensitivity and specificity•High anti-tumor activity•Reduced systemic side effects•Complex preparation process and high-cost•Limited scope of application•Possible immunogenicity issues261B7-H3 ↑CAR targeting B7-H3B7-H3-targeted CAR-T cells•A new target for immunotherapy•Significant anti-tumor effect•Complex preparation process and high-cost•Antigenic heterogeneity•Possible treatment-resistant262Cell surfaces glucose-regulated protein 78 (csGPR78) ↑csGPR78 binding peptidecsGPR78-targeted CAR-T cells•Increased tumor infiltration•Selective targeting capacity•No obvious tissue injuries•Complex preparation process and high-cost•Antigenic heterogeneity•Possible treatment-resistant263Heat shock protein 70 (HSP70) ↑Activated natural killer (NK) cellsHSP70/IL-2 treated NK cells•Effective BBB penetration•Specific tumor targeting•Multiple administration routes•Unclear mechanism•Unknown long-term security and efficacy264Adhesion molecules & chemokines ↑TJ modulationNK cell membranes-coated nanorobots•Superior BBB penetration•Combining diagnosis and treatment•Good biocompatibility•Complex preparation process and high-cost•Possible immunogenicity issues•Limited tissue penetration depth265Nanoparticles packaged in cyclo(Arg–Gly–Asp–D-Tyr–Lys) peptide (cRGD)-modified NK cells membrane•Superior BBB penetration•Specific tumor targeting•Multimodal treatment therapy•Complex preparation process and high cost•Possible immunogenicity issues•DNA damage266Macrophage membrane coatingMacrophage membrane-coated nanoparticles•Low immunogenicity•Effective BBB permeability•Prolonged blood circulation half-live•Good biocompatibility•Complex preparation process and high-cost•Possible immunogenicity issues•Limited tissue penetration depth267,268,269,270,271,272,273Macrophage membrane-derived vesiclesMacrophage plasma membrane-derived vesicles•Superior BBB penetration•Rapid glioma accumulation•Flexible and precise preparation control274Hybrid membrane coatingFolate-modified erythrocyte–cancer cell–macrophage hybrid membrane-coated nanostructures•Higher BBB crossing capability and target ability to tumor tissue than the single cell membrane•Efficient drug loading•Good bioavailability•Complex preparation process and high-cost•Possible immunogenicity issues•Limited tissue penetration depth•Drug release control challenges203Macrophage–GBM cell hybrid membrane-coated nanoparticles275,276GBM cell–macrophage cell–microglia cell hybrid membrane-coated supramolecular micelles277Macrophage–neutrophil dual membrane-coated nanoplatform278Adhesion molecules & inflammatory chemotaxisNeutrophil-mediated hitchhiking deliveryBacterial outer membrane vesicles binding to neutrophil•Superior BTB penetration•Enhanced tumor accumulation•Reversed drug resistance•Good bioavailability•Potential immune response•Tumor heterogeneity•Potential bacterial infection risk279Neutrophils used as transport vectorsNeutrophil-delivered hollow titania-covered nanosensitizer•Superior BTB penetration•Combining diagnosis and treatment•Good bioavailability•Complex preparation process•Potential immune response•Tumor heterogeneity280Engineering neutrophils exosomeExosomes-based drug delivery system•Rapid BTB penetration•Tumor site-specific delivery•Good bioavailability•Complex preparation process•Drug loading efficiency and stability issues281Adhesion molecules & Radiotherapy-induced monocyte chemokine-1/C-C basal chemokine ligand 2 ↑Monocyte-mediated hitchhiking deliveryLipoteichoic acid-modified nanoparticles binding to monocyte•Precise drug delivery to GBMs•High therapeutic efficiency•Few side effects•Complex preparation process•Possible immunogenicity issues•Uneven intratumoral distribution282Adhesion molecules & inflammatory chemotaxis (MCP-1, granulocyte/macrophage colony-stimulating factor, and CX3CL1)Microglia membranes coatingMicroglia membranes coated-nanoparticles•Effective BTB penetration•Specific tumor targeting•Good biocompatibility and low immunogenicity•Unknown long-term security•Tumor heterogeneity•Limited tissue penetration depth283Microglia membranes coated-Fe3O4 nanoparticles284Engineering microglia exosomeFunctional oligopeptide-modified exosome derived from microglia cells•Favorable brain targeting ability•Good bioavailability•Controllable drug release•Lack of standardized preparation methods•Limited tissue penetration depth•Unclear mechanism285Engineered microglia used as transport vectorsLiposomes phagocytosed by microglia through co-incubation•Great brain targetability•Effective drug delivery•Long-circulation time•Low dosage issues•Limited tissue penetration depth•Drug release control challenges286
+
+Biomimetic approaches for enhancing drug delivery across the BBB and precise targeting of gliomas; ↑ upregulation.
+
+Biomimetic approaches for enhancing drug delivery across the BBB and precise targeting of gliomas; ↑ upregulation.
+
+BTB change in gliomaStrategiesExample/MechanismAdvantageDisadvantageRef.Chemokine ↑CAR-T cellsRecruitment of CAR-T cells in GBM infected with C–X–C motif chemokine 11-armed oncolytic adenovirus•Enhanced migration and intratumoral infiltration Cooperative effect•Intratumoral injection safety•Tumor heterogeneity•Possible immunogenicity issues258IL-13- receptor-α2 (IL13Rα2)CAR targeting IL13Rα2Interleukin-13-targeted CAR-T cells-mediated nanoparticle delivery system•Combining diagnosis and treatment•High bioavailability at the target site•Reduced systemic side effects•Complex preparation process and high-cost•Tumor heterogeneity•Possible immunogenicity issues259Epidermal growth factor receptor variant III (EGFRvIII)CAR targeting EGFRvIIICombination of CAR-T cells with local delivery of IL-12•Enhance CAR-T cell efficacy•Endogenous T cell balance•Reduced systemic side effects•Complex preparation process and high-cost•Tumor heterogeneity•Antigen loss and tumor escape260Epidermal growth factor receptor and IL13Rα2Bispecific T cell engagers (BiTE)BiTE-secreting T cells•High sensitivity and specificity•High anti-tumor activity•Reduced systemic side effects•Complex preparation process and high-cost•Limited scope of application•Possible immunogenicity issues261B7-H3 ↑CAR targeting B7-H3B7-H3-targeted CAR-T cells•A new target for immunotherapy•Significant anti-tumor effect•Complex preparation process and high-cost•Antigenic heterogeneity•Possible treatment-resistant262Cell surfaces glucose-regulated protein 78 (csGPR78) ↑csGPR78 binding peptidecsGPR78-targeted CAR-T cells•Increased tumor infiltration•Selective targeting capacity•No obvious tissue injuries•Complex preparation process and high-cost•Antigenic heterogeneity•Possible treatment-resistant263Heat shock protein 70 (HSP70) ↑Activated natural killer (NK) cellsHSP70/IL-2 treated NK cells•Effective BBB penetration•Specific tumor targeting•Multiple administration routes•Unclear mechanism•Unknown long-term security and efficacy264Adhesion molecules & chemokines ↑TJ modulationNK cell membranes-coated nanorobots•Superior BBB penetration•Combining diagnosis and treatment•Good biocompatibility•Complex preparation process and high-cost•Possible immunogenicity issues•Limited tissue penetration depth265Nanoparticles packaged in cyclo(Arg–Gly–Asp–D-Tyr–Lys) peptide (cRGD)-modified NK cells membrane•Superior BBB penetration•Specific tumor targeting•Multimodal treatment therapy•Complex preparation process and high cost•Possible immunogenicity issues•DNA damage266Macrophage membrane coatingMacrophage membrane-coated nanoparticles•Low immunogenicity•Effective BBB permeability•Prolonged blood circulation half-live•Good biocompatibility•Complex preparation process and high-cost•Possible immunogenicity issues•Limited tissue penetration depth267,268,269,270,271,272,273Macrophage membrane-derived vesiclesMacrophage plasma membrane-derived vesicles•Superior BBB penetration•Rapid glioma accumulation•Flexible and precise preparation control274Hybrid membrane coatingFolate-modified erythrocyte–cancer cell–macrophage hybrid membrane-coated nanostructures•Higher BBB crossing capability and target ability to tumor tissue than the single cell membrane•Efficient drug loading•Good bioavailability•Complex preparation process and high-cost•Possible immunogenicity issues•Limited tissue penetration depth•Drug release control challenges203Macrophage–GBM cell hybrid membrane-coated nanoparticles275,276GBM cell–macrophage cell–microglia cell hybrid membrane-coated supramolecular micelles277Macrophage–neutrophil dual membrane-coated nanoplatform278Adhesion molecules & inflammatory chemotaxisNeutrophil-mediated hitchhiking deliveryBacterial outer membrane vesicles binding to neutrophil•Superior BTB penetration•Enhanced tumor accumulation•Reversed drug resistance•Good bioavailability•Potential immune response•Tumor heterogeneity•Potential bacterial infection risk279Neutrophils used as transport vectorsNeutrophil-delivered hollow titania-covered nanosensitizer•Superior BTB penetration•Combining diagnosis and treatment•Good bioavailability•Complex preparation process•Potential immune response•Tumor heterogeneity280Engineering neutrophils exosomeExosomes-based drug delivery system•Rapid BTB penetration•Tumor site-specific delivery•Good bioavailability•Complex preparation process•Drug loading efficiency and stability issues281Adhesion molecules & Radiotherapy-induced monocyte chemokine-1/C-C basal chemokine ligand 2 ↑Monocyte-mediated hitchhiking deliveryLipoteichoic acid-modified nanoparticles binding to monocyte•Precise drug delivery to GBMs•High therapeutic efficiency•Few side effects•Complex preparation process•Possible immunogenicity issues•Uneven intratumoral distribution282Adhesion molecules & inflammatory chemotaxis (MCP-1, granulocyte/macrophage colony-stimulating factor, and CX3CL1)Microglia membranes coatingMicroglia membranes coated-nanoparticles•Effective BTB penetration•Specific tumor targeting•Good biocompatibility and low immunogenicity•Unknown long-term security•Tumor heterogeneity•Limited tissue penetration depth283Microglia membranes coated-Fe3O4 nanoparticles284Engineering microglia exosomeFunctional oligopeptide-modified exosome derived from microglia cells•Favorable brain targeting ability•Good bioavailability•Controllable drug release•Lack of standardized preparation methods•Limited tissue penetration depth•Unclear mechanism285Engineered microglia used as transport vectorsLiposomes phagocytosed by microglia through co-incubation•Great brain targetability•Effective drug delivery•Long-circulation time•Low dosage issues•Limited tissue penetration depth•Drug release control challenges286
+
+Enhanced migration and intratumoral infiltration Cooperative effect
+
+Intratumoral injection safety
+
+Tumor heterogeneity
+
+Possible immunogenicity issues
+
+Combining diagnosis and treatment
+
+High bioavailability at the target site
+
+Reduced systemic side effects
+
+Complex preparation process and high-cost
+
+Tumor heterogeneity
+
+Possible immunogenicity issues
+
+Enhance CAR-T cell efficacy
+
+Endogenous T cell balance
+
+Reduced systemic side effects
+
+Complex preparation process and high-cost
+
+Tumor heterogeneity
+
+Antigen loss and tumor escape
+
+High sensitivity and specificity
+
+High anti-tumor activity
+
+Reduced systemic side effects
+
+Complex preparation process and high-cost
+
+Limited scope of application
+
+Possible immunogenicity issues
+
+A new target for immunotherapy
+
+Significant anti-tumor effect
+
+Complex preparation process and high-cost
+
+Antigenic heterogeneity
+
+Possible treatment-resistant
+
+Increased tumor infiltration
+
+Selective targeting capacity
+
+No obvious tissue injuries
+
+Complex preparation process and high-cost
+
+Antigenic heterogeneity
+
+Possible treatment-resistant
+
+Effective BBB penetration
+
+Specific tumor targeting
+
+Multiple administration routes
+
+Unclear mechanism
+
+Unknown long-term security and efficacy
+
+Superior BBB penetration
+
+Combining diagnosis and treatment
+
+Good biocompatibility
+
+Complex preparation process and high-cost
+
+Possible immunogenicity issues
+
+Limited tissue penetration depth
+
+Superior BBB penetration
+
+Specific tumor targeting
+
+Multimodal treatment therapy
+
+Complex preparation process and high cost
+
+Possible immunogenicity issues
+
+DNA damage
+
+Low immunogenicity
+
+Effective BBB permeability
+
+Prolonged blood circulation half-live
+
+Good biocompatibility
+
+Complex preparation process and high-cost
+
+Possible immunogenicity issues
+
+Limited tissue penetration depth
+
+Superior BBB penetration
+
+Rapid glioma accumulation
+
+Flexible and precise preparation control
+
+Higher BBB crossing capability and target ability to tumor tissue than the single cell membrane
+
+Efficient drug loading
+
+Good bioavailability
+
+Complex preparation process and high-cost
+
+Possible immunogenicity issues
+
+Limited tissue penetration depth
+
+Drug release control challenges
+
+Superior BTB penetration
+
+Enhanced tumor accumulation
+
+Reversed drug resistance
+
+Good bioavailability
+
+Potential immune response
+
+Tumor heterogeneity
+
+Potential bacterial infection risk
+
+Superior BTB penetration
+
+Combining diagnosis and treatment
+
+Good bioavailability
+
+Complex preparation process
+
+Potential immune response
+
+Tumor heterogeneity
+
+Rapid BTB penetration
+
+Tumor site-specific delivery
+
+Good bioavailability
+
+Complex preparation process
+
+Drug loading efficiency and stability issues
+
+Precise drug delivery to GBMs
+
+High therapeutic efficiency
+
+Few side effects
+
+Complex preparation process
+
+Possible immunogenicity issues
+
+Uneven intratumoral distribution
+
+Effective BTB penetration
+
+Specific tumor targeting
+
+Good biocompatibility and low immunogenicity
+
+Unknown long-term security
+
+Tumor heterogeneity
+
+Limited tissue penetration depth
+
+Favorable brain targeting ability
+
+Good bioavailability
+
+Controllable drug release
+
+Lack of standardized preparation methods
+
+Limited tissue penetration depth
+
+Unclear mechanism
+
+Great brain targetability
+
+Effective drug delivery
+
+Long-circulation time
+
+Low dosage issues
+
+Limited tissue penetration depth
+
+Drug release control challenges
+
+BBB leakage is a crucial factor in the pathophysiology of epilepsy, with hypoxic microenvironments in epileptic brain tissue upregulating P-gp288,289, leading to increased drug efflux. This process could be reversed by TAT-modified calcium phosphate nanoparticles, which enhanced BBB penetration while inhibiting P-gp upregulation for improving drug delivery into the brain290. Moreover, neuroinflammation is another hallmark of epileptic regions291, and leveraging immune cell responses to inflammatory signals. Hence, immune cell membrane coating strategies can be employed to enhance the BBB permeability of nanoparticles292.
+
+Encephalitis is an inflammatory condition of the brain parenchyma caused by pathogenic invasion, accompanied by central immune cell infiltration and a reduction in TJs293,294. Recent studies have explored a Trojan horse strategy using macrophages loaded with nanoparticles to facilitate BBB crossing for acute encephalitis treatment295. Inflammatory chemotaxis of immune cells is also leveraged in diseases such as stroke and brain tumors to enhance drug delivery to the brain. These strategies include biomimetic vesicles, immune cell membrane coating, and immune cell-based carriers or hitchhiking transport296. However, great challenges remain for clinical translation, such as unknown long-term safety, low drug loading capacity, and limited delivery efficiency.
+
+Analogously, BBB disruption also contributes to the pathogenesis and progression of depression, which is characterized by endothelial cell alterations, reduced TJ expression (occludin, ZO-1, and claudin-5), and neuroinflammation induced by glial cell activation297,298. Current strategies for enhancing BBB penetration in depression primarily involve photothermal-mediated BBB opening or RMT-/AMT-based nanoparticle transport across the BBB. Moreover, the future direction of BBB crossing strategies for depression may focus on immune cell-inspired therapeutics based on neuroinflammation.
+
+Conclusions
+The BBB is the predominant obstacle to drug entry into the brain, blocking approximately 99% of small-molecule drugs and almost all macromolecular drugs from penetrating the brain. Although BBB damage offers enhanced permeability, this limited alteration is insufficient to achieve adequate drug concentrations within the brain to treat disease. Notably, the BBB exhibits highly disease-specific features in different brain pathologies, suggesting that the unreasonable drug delivery system design may lead to unchanged or even reduced drug penetration. In this review, the structural and functional alterations of the BBB in both healthy states and various disease contexts were described and contrasted, which presented opportunities for improving the efficacy of the brain target drug delivery. Based on the changes of BBB under disease, various customized drug delivery systems were discussed. For instance, the upregulation of RAGE on BBB in AD pathology can provide the opportunity for improving drug delivery into the brain for AD therapy. In contrast, the decreased expression of LRP1 on BBB of AD reveals that LRP1-targeting might not be the optimal choice for intracerebral delivery strategy in AD therapy. In the case of brain tumors, the BBTB obstacle must also be considered due to its role in the tumor microenvironment. However, several disease-specific features remain unexplored. For example, the upregulation of integrin and adhesion molecules, along with the process of leukocyte diapedesis, have been observed in PD but have not yet been investigated.
+
+Currently, the brain-targeted delivery strategies applied in clinical practice predominantly rely on external physical assistance (e.g., FUS, NIR), the intrinsic BBB penetration capabilities of certain small-molecule drugs (e.g., rtPA for stroke therapy), and localized administration techniques (e.g., intrathecal injection). As for the strategies in clinical trials (e.g., Nano-Curcumin for AD in Phase II, Lipo-ARM for glioma in Phase I/II), improving brain targetability through nanocarriers is also a mainstream trend. These strategies have demonstrated significant potential in overcoming the BBB, thereby offering promising therapeutic avenues for the treatment of various brain diseases.
+
+However, challenges such as limited targeting specificity, potential off-target effects, and unresolved safety concerns regarding long-term effects and potential disruption of BBB integrity remain to be addressed. Additionally, appropriate model choice and trial design further complicate the clinical translation of brain-targeted drugs. In the future, brain-targeted drug delivery system optimization is supposed to focus on brain-targeted precision, interdisciplinary integrations, and novel carrier materials (e.g., biomimetic nanoparticles). Improved clinical trial designs and the development of multifunctional theranostic platforms, and imaging capabilities will also be crucial. By addressing these challenges through innovation and collaboration, we believe that the field can advance towards more effective and safer treatments for brain diseases, driving CNS therapies from the lab to the bedside.
+
+Author contributions
+Yun Chen: writing – original draft, investigation, conceptualization. Xinzhu Sun: writing – original draft, investigation. Yilong Xi: writing – review & editing, investigation. Zhenyu Luo: writing – review & editing, investigation. Huarong Lai: writing – review & editing. Dongxin Zhu: writing – review & editing. Yifan Zhang: writing – review & editing. Fenglin Xu: writing – review & editing. Jian Li: writing – review & editing. Jianping Zhou: funding acquisition, conceptualization. Yang Ding: writing – review & editing, funding acquisition, conceptualization. Huaqing Zhang: writing – review & editing, supervision, funding acquisition, conceptualization.
+
+Conflicts of interest
+The authors declare no conflict of interest.

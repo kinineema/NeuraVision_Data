@@ -1,0 +1,227 @@
+Potential Mechanisms of Age Acceleration Caused by Estrogen Deprivation: Do Endocrine Therapies Carry the Same Risks?
+
+AbstractLonger duration of endocrine therapy decreases breast cancer recurrence and mortality, but these benefits need to be weighed against potential risks to overall health. Notable side effects of endocrine therapy include cataracts, uterine cancer, thromboembolic events, osteoporosis and fracture risk, chronic musculoskeletal complaints, as well as vaginal dryness and discharge, and vasomotor symptoms. Estrogen deprivation in healthy women younger than 50 years undergoing bilateral oophorectomy has been shown to accelerate the development of diseases related to aging, including coronary artery disease, cardiac arrhythmias, stroke, dementia, and osteoporosis, raising concern that even less dramatic modulation of estrogen homeostasis may adversely affect health outcomes. Diminished available estrogen at the cellular and molecular level may facilitate mechanisms that underlie the aging process, often termed the hallmarks of aging. In this review, we describe estrogen’s role in normal physiology across tissues, review the effects of estrogen deprivation on health outcomes in the setting of both surgical and natural menopause, and examine the hallmarks of aging with attention to the effects of estrogen and estrogen blockade on each molecular mechanism underlying the aging process.
+
+Normal Physiology and Effects of Estrogen
+Estrogen is synthesized in all vertebrates as well as some invertebrates, such as insects, suggesting an ancient evolutionary history (24). Estrogen is an important hormone throughout the life span of both women and men across organ systems. Many of the physiologic effects of estrogen are beneficial. Estrogen is a master regulator, with its actions occurring on varying time scales. Rapid events occur in seconds to minutes, intermediate events occur on the order of minutes to hours, and long events occur on the order of hours to days. In addition to its key roles in the female reproductive system, where it regulates ovarian, uterine, and mammary development and function, estrogen has beneficial physiologic effects across several organ systems. There are three major forms of estrogen: estrone (E1), estradiol (E2), and estriol (E3). Many of the effects of estrogen are synergistic with other hormones and pathways, such as insulin signaling pathways. The actions of estrogen are mediated by receptors on the cell membrane or in the nucleus. As a steroid hormone, estrogen readily diffuses across the cell membrane. Once inside the cell, estrogen binds to receptors that in turn modulate the expression of key genes. The ligand-associated nuclear factors ERα and ERβ were first identified in rat uterus in the 1960s (ERα) and in rat prostate in 1996 (ERβ). These soluble receptors shuttle between cytoplasm (5%) and the nucleus (95%) and bind cis-acting estrogen response elements in gene promoter and enhancer regions. ERβ is a dominant negative regulator of ERα and modulates transcription responses to estrogens (25). These receptors promote glucose transport and suppress inflammation. Estradiol is also active in mitochondria, regulating mitochondrial function and inducing mitochondrial genes. In addition to these effects, there are nongenomic effects of estrogen, via rapid cellular signaling cascades, mediated by membrane-associated forms of these receptors. The G-protein-coupled estrogen receptor (GPER, or GPR30), originally cloned in the late 1990s, is associated with most of the 17β estradiol-mediated rapid signaling events (11).
+
+GPER is predominantly intracellular, with seven transmembrane domains (11,26). Its stimulation activates metalloproteinases, inducing the release of heparin-binding epidermal growth factor, which stimulates cAMP production, intracellular calcium mobilization, and activation of downstream molecules such as ERK1/2 (11,27) and PI3K/Akt/MAPK (11). GPER is also involved in expression of Bcl2, cyclin D2, and nerve growth factor, and mediates expression of c-Fos. Ligands of GPER include 17β-estradiol, estriol, estrone, phytoestrogens, xenoestrogens, and bisphenols, as well as contraceptives such as 17α-ethynyl estradiol, selective estrogen receptor modulators (SERMs) including tamoxifen and raloxifene, and selective estrogen receptor downregulators such as fulvestrant.
+
+Physiologic Effects of Estrogen by Organ System
+We briefly review the receptor distribution and function of estrogen in each human organ system in Table 1 to describe the physiological effects of a low estrogen environment. In each organ system, estrogen plays an important role in normal physiology as well as prevention of certain disease states. For example, given the key role of estrogen in hippocampal function and neuronal connectivity, it is not surprising that Alzheimer’s dementia is more common in postmenopausal women than in men (15). It should be noted that men maintain higher levels of estrogen than women throughout the postmenopausal years due to the conversion of testosterone to estrogen, accounting for these gender differences with aging. Likewise, estrogen slows intestinal transit times, and premenopausal women have a ninefold higher rate of irritable bowel syndrome than men (25). As a third example, decreased levels of 17β-estradiol are associated with increased hip fracture risk after the menopausal transition. Finally, as estrogen regulates insulin secretion, it follows that obesity and insulin resistance are more common after the menopausal transition (75,76). Table 1.Physiologic effects of estradiol by organ system, with receptor distribution and effects at each site*Organ systemReceptorsReceptor distribution and functionReferenceCentral nervousERα, ERβ, GPERhypothalamic preoptic nucleus – thermoregulationsuprachiasmatic nucleus – sleep, circadian rhythmprefrontal cortex – executive functionthalamus – sensory integrationbasal forebrain – learning and memoryamygdala – emotion and motivationraphe nucleus – serotinergic system, affect, and moodlocus coeraleus – adrenergic systemhippocampus – information processing, short-term memory, working memory, cholinergic activityarterial vessels and pericytes – vascular tone, endothelial function, oxidative stress and inflammatory responsegeneral – regulates glucose metabolism, increases neuronal connectivity, regulates synaptic plasticity(11, 15, 28–30)Peripheral nervousGPERspinal cord}modulates pain sensation(11, 15)dorsal root gangliavisceral nervesCardiovascularERα, ERβ, GPERmyocardium}(11, 31–42)endothelial cellsincreases contractile functionsmooth muscleimproves perfusionmacrophagesGastrointenstinalERα, ERβenteric nerve cells}inhibits nitric oxide production(25, 43–50)smooth musclemediates smooth muscle contractionmacrophagesslows intestinal transit times increases ileal glucose uptakePancreasERα, ERβ, GPERpancreatic islets – stimulates insulin secretion anti-inflammatory effects(51–53)LiverERα, ERβ, GPERhepatocytes – regulates lipid biosynthesis and lipid transport anti-inflammatory effects(11, 25, 32, 54–57)KidneyGPERepithelial cells}regulates renin-angiotensin system(11, 58–62)renal tubulesregulates vascular functionBone and articular cartilageERα, ERβ, GPERosteoblasts – stimulates osteoblastogenesisosteoclasts – regulates bone resorption and remodelingchrondrocytes – regulates differentiation(11, 63–71)SkinERα, ERβkeratinocytes}increases skin thickness(72)basal cellsenhances vascularizationmelanocytesincreases melanin productionEyeERα, ERβRetina and retinal pigment epithelium – unclear role(73, 74)*ER = estrogen receptor; GPER = G-protein-coupled estrogen receptor.
+
+Physiologic effects of estradiol by organ system, with receptor distribution and effects at each site*
+
+Physiologic effects of estradiol by organ system, with receptor distribution and effects at each site*
+
+Organ systemReceptorsReceptor distribution and functionReferenceCentral nervousERα, ERβ, GPERhypothalamic preoptic nucleus – thermoregulationsuprachiasmatic nucleus – sleep, circadian rhythmprefrontal cortex – executive functionthalamus – sensory integrationbasal forebrain – learning and memoryamygdala – emotion and motivationraphe nucleus – serotinergic system, affect, and moodlocus coeraleus – adrenergic systemhippocampus – information processing, short-term memory, working memory, cholinergic activityarterial vessels and pericytes – vascular tone, endothelial function, oxidative stress and inflammatory responsegeneral – regulates glucose metabolism, increases neuronal connectivity, regulates synaptic plasticity(11, 15, 28–30)Peripheral nervousGPERspinal cord}modulates pain sensation(11, 15)dorsal root gangliavisceral nervesCardiovascularERα, ERβ, GPERmyocardium}(11, 31–42)endothelial cellsincreases contractile functionsmooth muscleimproves perfusionmacrophagesGastrointenstinalERα, ERβenteric nerve cells}inhibits nitric oxide production(25, 43–50)smooth musclemediates smooth muscle contractionmacrophagesslows intestinal transit times increases ileal glucose uptakePancreasERα, ERβ, GPERpancreatic islets – stimulates insulin secretion anti-inflammatory effects(51–53)LiverERα, ERβ, GPERhepatocytes – regulates lipid biosynthesis and lipid transport anti-inflammatory effects(11, 25, 32, 54–57)KidneyGPERepithelial cells}regulates renin-angiotensin system(11, 58–62)renal tubulesregulates vascular functionBone and articular cartilageERα, ERβ, GPERosteoblasts – stimulates osteoblastogenesisosteoclasts – regulates bone resorption and remodelingchrondrocytes – regulates differentiation(11, 63–71)SkinERα, ERβkeratinocytes}increases skin thickness(72)basal cellsenhances vascularizationmelanocytesincreases melanin productionEyeERα, ERβRetina and retinal pigment epithelium – unclear role(73, 74)
+
+hypothalamic preoptic nucleus – thermoregulation
+
+suprachiasmatic nucleus – sleep, circadian rhythm
+
+prefrontal cortex – executive function
+
+thalamus – sensory integration
+
+basal forebrain – learning and memory
+
+amygdala – emotion and motivation
+
+raphe nucleus – serotinergic system, affect, and mood
+
+locus coeraleus – adrenergic system
+
+hippocampus – information processing, short-term memory, working memory, cholinergic activity
+
+arterial vessels and pericytes – vascular tone, endothelial function, oxidative stress and inflammatory response
+
+general – regulates glucose metabolism, increases neuronal connectivity, regulates synaptic plasticity
+
+osteoblasts – stimulates osteoblastogenesis
+
+osteoclasts – regulates bone resorption and remodeling
+
+chrondrocytes – regulates differentiation
+
+*ER = estrogen receptor; GPER = G-protein-coupled estrogen receptor.
+
+ER = estrogen receptor; GPER = G-protein-coupled estrogen receptor.
+
+The role of estrogen on the immune system is complex, with anti-inflammatory and pro-inflammatory effects arising in different cells and tissues at varying levels of estrogen, and depending on the immune stimulus (77). T cells are inhibited by estrogen, including Th1 cell-mediated immunity active in autoimmune disease and Th2 antibody-mediated responses in allergic conditions (77). Estrogen activates B cells, stimulating B-cell antibody production, inhibiting CD8-mediated suppression of B cells, decreasing B-cell precursors, and enhancing mitogen stimulation of B cells leading to accumulation of IgM-secreting cells. The varying effects of estrogen on target organs and cell types depend on the concentration of estrogen, intracellular metabolism of estrogen, and variability of estrogen receptors in the microenvironment. For example, higher levels of ERβ relative to ERα are expressed in T cells in systemic lupus erythematosis and in macrophages in synovial tissue in rheumatoid arthritis. Oxidative stress has effects on estrogen expression, increasing ERβ expression in endothelial cells and in activated macrophages. By contrast, hypoxia decreases ERα expression (77).
+
+In addition to its roles in cellular proliferation in normal physiology, estrogen is a critical mediator of breast and lung carcinogenesis and tumor development (11,78–80). In normal breast tissue, 17β-estradiol stimulates proliferation during puberty, menstrual cycling, and pregnancy. GPER is expressed in 50% of breast cancers, regardless of ER status, and its expression is correlated with increased tumor size, rate of metastases, and poor outcome (81). MCF7 cells have increased expression of GPER (82). Treatment with tamoxifen in breast tumors with high GPER expression leads to decreased survival (11). Tamoxifen stimulates proliferation via transactivation of the epidermal growth factor receptor (EGFR) (83). GPER is also expressed in germ cell tumors, including intratubular seminomas, and embryonal carcinomas (11). Expression of GPER in uterine and ovarian cancer predicts poor survival. Likewise, ERα and ERβ are present in both normal and cancerous lung epithelium (84–86), and play important roles in lung development and lung function (87), and in the pathogenesis and progression of non-small cell lung cancer (80,88–90). The incidence of lung cancer is rising in nonsmokers, and a higher percentage of women with lung cancer are nonsmokers (53% vs 15% of men with lung cancer) (91). In a large study from 1973 evaluating men after myocardial infarction treated with estrogen, there was an increased incidence of, and mortality from, lung cancer among the treated group compared with placebo (92). More recent results from a post hoc analysis of data from the Women’s Health Initiative trial (93) and a retrospective chart review of 498 women with lung cancer (94) confirm an increase in lung cancer mortality among postmenopausal women who received hormone replacement therapy (HRT). By contrast, antiestrogens function to suppress signaling pathways for growth and tumor progression in lung cancer (80,95,96), and women treated with anti-estrogen therapy have reduced incidence of lung cancer and decreased mortality (89).
+
+Hallmarks of Aging: Potential Molecular Mechanisms of Accelerated Aging with Premature Menopause and Endocrine Therapy for Breast Cancer
+We briefly describe the biological features of mammalian aging (2) to facilitate a discussion of the potential effects of estrogen on these features. These include genomic instability, telomere attrition, epigenetic alterations, loss of proteostasis, deregulated nutrient sensing, mitochondrial dysfunction, cellular senescence, stem cell exhaustion, and altered intercellular communication (2). Cancer survivors who have been treated with chemotherapy and radiotherapy have been shown to have manifestations of several hallmarks of aging, including altered telomere length, senescent cells, epigenetic modifications, and microRNAs (97). We explore here the potential mechanisms of the effects of ET on the biologic aging process.
+
+Multiple animal studies have shown a role of estrogen in stimulating stem cell division, in hematopoietic stem cells, embryonal stem cells, and mesenchymal stem cells. Estrogen stimulates hematopoietic stem cell (HSC) division in female mice (12). Ovariectomy decreases HSC division and administration of estradiol increases HSC division in male and female mice (12). Estradiol enhances mouse embryonal stem cell proliferation, and this enhanced proliferation is associated with store-operated calcium entry (SOCE) (98). Estradiol decelerates telomere attrition in mesenchymal stem cells and chondrocytes, but does not prevent somatic cells from replicative exhaustion or senescence (99). Interestingly tamoxifen inhibits estradiol-stimulated reduction in telomere shortening (99), suggesting that it could impact capacity for self-renewal.
+
+Rodent cancer models demonstrate that estrogen signaling enhances genomic instability, promotes cell cycle entry, induces micronuclei, and increases DNA damage in cancer cells (100–104). Studies of ERα-negative breast cells reveal that estrogen and estrogen metabolites cause DNA double-strand breaks (DSB), and BRCA1 is required to repair these DSBs (105). BRCA1 also regulates estrogen metabolism and metabolite-mediated DNA damage by repressing the transcription of estrogen-metabolizing enzymes, such as CYP1A1 in breast cells (105).
+
+Animal and cellular studies have demonstrated a role for estrogen signaling in promoting intracellular communication, suggesting that reducing estrogen might lead to dysregulation of this communication and contribute to accelerated aging. Estrone increases intracellular cell-to-cell communication in prostate epithelial cells, inducing a twofold increase in connexin (14). Estrogen increases gap junctional intercellular communication (GJIC) and reduces proliferation in malignant human liver Huh7 cells (106). Furthermore, 17β-estradiol attenuates the inhibitory effect of metabolic inhibition of GJIC in rat cardiomyocytes via membrane-associated signaling (107). By contrast, estrogens have been shown to inhibit GJIC in mouse Leydig TM3 cells (108), suggesting that further study is needed to understand its role in different tissues.
+
+Estrogens exert direct and indirect effects on mitochondrial function in a variety of tissues. Estrogens have cell-specific effects on many physiologic endpoints, including regulation of mitochondrial biogenesis and activity (13). ERα and ERβ reside within mitochondria and estrogen has both rapid and longer-term effects on mitochondrial function. Nuclear effects of estrogen on gene expression directly control mitochondrial biogenesis, oxygen consumption, mitochondrial DNA transcription, and apoptosis (13). ERα and ERβ mediate distinct pathways of vascular gene expression, including genes involved in mitochondrial electron transport and generation of reactive oxygen species (109). NRF-1, a key transcription factor regulating mitochondrial function, is regulated by ERα and ERβ in mouse aorta (110). Estrogen stimulates transcription of NRF-1 leading to increased mitochondrial biogenesis (111). Based on these findings, we postulate that impaired mitochondrial function may represent a mechanism of accelerated aging in premature menopause. Letrozole therapy combined with Aβ1–42 treatment in transgenic mice experiments leads to mitochondrial function impairment in hippocampal cells, which may represent the mechanism underlying the neurological deficits that arise in this setting (112). Estrogen protects against mitochondrial dysfunction at the early phase of ischemic injury (112).
+
+In a study of hematopoietic cells, sex hormones acting on the TERT gene increase telomerase activity (113). Administration of tamoxifen was able to inhibit this effect, reducing telomerase activity (113), and raising the question whether limiting estrogen accelerates aging via telomere shortening. Tamoxifen is a mixed agonist and antagonist of ERα and ERβ, and displays different outcomes in different tissues. In the uterus, tamoxifen acts as an estrogen agonist and induces growth in endometrial cells, causing proliferation and carcinogenesis. Likewise, in bone, estrogen acts as an agonist, and provides protection against menopausal bone loss. In breast cells, tamoxifen acts as an antagonist, and it inhibits growth of breast cancer cell lines. Tamoxifen inhibits hTERT mRNA expression differently in these two tissues (114). In MCF-7 cells, tamoxifen inhibits hTERT mRNA expression in the presence of estrogen. In contrast, in Ishikawa endometrial cells, tamoxifen activates the MAPK pathway, and activation of hTERT mRNA expression is effectively blocked by MEK inhibitors. Tamoxifen-induced activation of hTERT may be a component of estrogen agonistic function that is involved in endometrial carcinogenesis.
+
+Estrogen may be an important regulator of DNA methylation in development, homeostasis, and carcinogenesis. Estrogen signaling regulates DNA methylation in spermatozoa in male adult rats, and also regulates methylating enzymes during adult rat spermatogenesis (115). Estrogen signaling is also associated with alterations in DNA methylation in breast cancer, where it mediates epigenetic repression of the metallothionein-1 gene cluster (116). Methylation of estrogen-related enhancers defines endocrine sensitivity in breast cancer (117). Estrogen is speculated to have a role in regulating epigenetic enzymes in the hypothalamus (118). DNA methyltransferase activity is significantly reduced in the hypothalamus of female rat pups treated with estradiol (119). Finally, estrogen enables inhibition of vascular soluble epoxide hydrolase expression via methylation (120), leading to an increase in vascular level of epoxyeicosatrienoic acids that possess cardioprotective properties, including vasodilation, resulting in lower blood pressure and improved blood supply to tissues (120).
+
+The epigenetic clock, an estimate of biologic aging based on methylation levels at 353 5′-cytosine-phosphate-guanine-3′ sites, strongly correlates with chronologic age, is accelerated in disease states, and is predictive of frailty and mortality. Recently, the epigenetic age of blood has been shown to be significantly associated with earlier age at menopause, bilateral oophorectomy, and a longer time since menopause (121). These results suggest that the menopausal transition (MT) accelerates biologic aging as measured by the epigenetic clock, but further studies are needed to elucidate the mechanisms by which this acceleration takes place.
+
+Estrogen receptors, including ERα, ERβ, and GPER, are expressed in the suprachiasmatic nucleus, which regulates circadian rhythms (11,15). Recent evidence suggests that nuclear hormone receptors and their ligands act as “nutrient sensors,” demonstrating crosstalk between circadian and metabolic pathways (122). Nuclear hormone receptors REV-ERBα and RAR-related orphan receptor alpha regulate transcription of BMAL1, which activates transcription of the Period and Cytochrome genes. BMAL1 also activates genes involved in the production and utilization of nutrient metabolites, including the NAD+ biosynthetic enzyme NAMPT, and NAD+ is an important cofactor for the metabolic regulators SIRT1 and PARP1, which mediate rhythms of oxidative metabolism. ERRα is an orphan nuclear receptor that acts as a nutrient sensor and also plays a role in the circadian rhythms of transcriptional activity. Although some SERMs (such as 4-hydroxytamoxifen) affect ERRβ and ERRγ, they have no effect on ERRα (122).
+
+When unfolded proteins accumulate within the endoplasmic reticulum (ER) of eukaryotic cells, an unfolded protein response occurs that either restores homeostasis or commits the cell to apoptosis. Recently, estrogen has been shown to mediate this stress response (123), suggesting that protein destabilization may mediate the effects of estrogen blockade on accelerated aging.
+
+Deleterious Effects of Estrogen Deprivation in Healthy Women
+There is compelling evidence suggesting that bilateral oophorectomy for a noncancerous condition before age 50 years leads to accelerated aging (3,4,124–132). A recent review (3) comparing ovarian conservation with removal at the time of benign hysterectomy lists deleterious effects of bilateral salpingo-oophorectomy (BSO), including increased risk of all-cause mortality in the Nurses’ Health Study (128,129), the Breast Cancer Demonstration Project (130), the Rochester Epidemiologic Project in the Mayo Clinic Study of Oophorectomy and Aging (125), and the English Healthcare Registries (131), with an even higher risk in women undergoing oophorectomy before age 50 years who never used estrogen therapy (125,128,129). The Dutch breast cancer screening cohort further revealed a 2% decrease in mortality per year of delayed menopause (132). In addition, the Mayo Clinic Study of Oophorectomy and Aging revealed higher rates of stroke (126) and multimorbidity in women undergoing oophorectomy for a noncancer indication (4), with an increased risk of depression, hyperlipidemia, cardiac arrhythmias, coronary artery disease, arthritis, asthma, chronic obstructive pulmonary disease, and osteoporosis in women undergoing oophorectomy prior to age 46 years (4). An important limitation of the Mayo Clinic Study is the retrospective chart review design and potential bias in selection of control subjects. Their findings are contradicted by two prospective studies that did not show an increase in all-cause mortality (133), and a large prospective cohort study suggesting that BSO might not have an adverse effect on cardiovascular health, hip fracture risk, cancer risk, or overall mortality compared with hysterectomy and ovarian conservation (134).
+
+Surgical menopause also leads to harmful effects on cognition. The Mayo Clinic study demonstrated a doubled long-term risk of cognitive impairment or dementia in women who underwent oophorectomy before menopause (124). The risk of cognitive impairment and dementia increased with younger age at the time of oophorectomy. This risk was eliminated in women who received HRT after surgery until 50 years of age, but those who received HRT and stopped before age 50 years had an elevated risk of cognitive impairment and dementia that increased with younger age of stopping this therapy. An extension of the Mayo Clinic study reported an association between surgical menopause and cognitive decline with Alzheimer’s disease pathology (135). In this cohort study, earlier age at surgical menopause was associated with faster decline in global cognition, episodic memory, and semantic memory, and increased plaque burden. HRT begun within five years of surgery and continued for 10 years was associated with diminished decline in global cognition.
+
+Although its effects are less dramatic, the natural MT has a great impact on health outcomes. Table 2 shows the deleterious effects of estrogen deprivation, comparing the dramatic acceleration of age-related conditions reported after surgical menopause with effects of the natural MT. Findings from the prospective Study of Women’s Health Across the Nation (SWAN) showed that longitudinal changes in reproductive hormones during the MT are related to vasomotor symptoms (138), increased bone turnover markers (139), decreased bone mineral density (5,140,141), changes in weight and waist circumference and increased body fat (6,142), and increased cardiovascular fat (136). The gradual loss of oocytes and approach toward a threshold number of oocytes with natural menopause depends on the initial number of oocytes and the rate of loss. Age at menopause is associated with an increased risk of cardiovascular disease, stroke, and mortality (7,143). The mechanistic role of estrogen on cardiovascular health remains poorly understood (144). Emerging data suggest that HRT may have positive effects if received near the time of the MT (144–148). Natural menopause was not associated with cognitive decline in contrast to the observations with surgical menopause (135). However, SWAN reported a cross-sectional association between self-reported forgetfulness and being perimenopausal (149), and further demonstrated that objective changes in cognition during the MT were not accounted for by self-reported hot flashes, anxiety, depression, and sleep disturbance (8). Anxiety and depressive symptoms were associated with slow psychomotor speed (8) consistent with findings that ERβ mediates these effects on serotonin and hypothalamic-pituitary-adrenal axis function (8,149,150). Table 2.Deleterious effects of a low estrogen environment: comparing the pervasive consequences of surgical menopause to the subtle outcomes of natural menopause*Organ systemOophorectomy before age 50 yearsNatural menopauseEffectReferenceEffectReferenceCentral nervousdepression HR = 1.43, 95% CI = 1.24 to 1.66anxiety HR = 1.25, 95% CI = 1.07 to 1.46cognitive impairment or dementia HR = 1.46, 95% CI = 1.13 to 1.90(4, 124)Cardiovascularhyperlipidemia HR = 1.35, 95% CI = 1.21 to 1.50arrhythmia HR = 1.16, 95% CI = 1.00 to 1.36(4)↑ cardiovascular fat 11.69% difference, 95% CI = 2.25 to 22(136)PulmonaryCOPD HR = 1.39, 95% CI = 1.15 to 1.68Asthma HR = 1.39, 95% CI = 1.11 to 1.74(4)PancreasDiabetes mellitus HR = 1.19, 95% CI = 1.04 to 1.38(4)BoneArthritis HR = 1.36, 95% CI = 1.21 to 1.52(4)↓ BMD LS: 1.8–2.3% per year, P<.001 hip: 1.0–1.4% per year hip, P=.002(137)*HR = hazard ratio; CI = confidence interval; COPD = chronic obstructive pulmonary disease; BMD = bone mineral density; LS = lumbar spine.
+
+Deleterious effects of a low estrogen environment: comparing the pervasive consequences of surgical menopause to the subtle outcomes of natural menopause*
+
+Deleterious effects of a low estrogen environment: comparing the pervasive consequences of surgical menopause to the subtle outcomes of natural menopause*
+
+Organ systemOophorectomy before age 50 yearsNatural menopauseEffectReferenceEffectReferenceCentral nervousdepression HR = 1.43, 95% CI = 1.24 to 1.66anxiety HR = 1.25, 95% CI = 1.07 to 1.46cognitive impairment or dementia HR = 1.46, 95% CI = 1.13 to 1.90(4, 124)Cardiovascularhyperlipidemia HR = 1.35, 95% CI = 1.21 to 1.50arrhythmia HR = 1.16, 95% CI = 1.00 to 1.36(4)↑ cardiovascular fat 11.69% difference, 95% CI = 2.25 to 22(136)PulmonaryCOPD HR = 1.39, 95% CI = 1.15 to 1.68Asthma HR = 1.39, 95% CI = 1.11 to 1.74(4)PancreasDiabetes mellitus HR = 1.19, 95% CI = 1.04 to 1.38(4)BoneArthritis HR = 1.36, 95% CI = 1.21 to 1.52(4)↓ BMD LS: 1.8–2.3% per year, P<.001 hip: 1.0–1.4% per year hip, P=.002(137)
+
+depression
+
+HR = 1.43, 95% CI = 1.24 to 1.66
+
+anxiety
+
+HR = 1.25, 95% CI = 1.07 to 1.46
+
+cognitive impairment or
+
+dementia
+
+HR = 1.46, 95% CI = 1.13 to 1.90
+
+hyperlipidemia
+
+HR = 1.35, 95% CI = 1.21 to 1.50
+
+arrhythmia
+
+HR = 1.16, 95% CI = 1.00 to 1.36
+
+↑ cardiovascular fat
+
+11.69% difference, 95% CI = 2.25 to 22
+
+COPD
+
+HR = 1.39, 95% CI = 1.15 to 1.68
+
+Asthma
+
+HR = 1.39, 95% CI = 1.11 to 1.74
+
+Diabetes mellitus
+
+HR = 1.19, 95% CI = 1.04 to 1.38
+
+Arthritis
+
+HR = 1.36, 95% CI = 1.21 to 1.52
+
+↓ BMD
+
+LS: 1.8–2.3% per year, P<.001
+
+hip: 1.0–1.4% per year hip, P=.002
+
+*HR = hazard ratio; CI = confidence interval; COPD = chronic obstructive pulmonary disease; BMD = bone mineral density; LS = lumbar spine.
+
+HR = hazard ratio; CI = confidence interval; COPD = chronic obstructive pulmonary disease; BMD = bone mineral density; LS = lumbar spine.
+
+Toxicity and Benefits of Breast Cancer Endocrine Therapies
+Table 3 shows the side effects of ET in pre- and postmenopausal women with breast cancer. Outcomes observed in randomized controlled trials (RCTs) in women undergoing adjuvant ET are helpful in weighing the risk of breast cancer recurrence with the risk of toxicity of ET. The risk of breast cancer recurrence and breast cancer death will decrease each year after early-stage breast cancer diagnosis for a given patient, whereas the risk of concurrent illness will increase, underlining the importance in paying close attention to observations of adverse outcomes. Concerning adverse events with long-term ET, including osteoporotic fractures and cardiovascular events with aromatase inhibitor (AI) therapy, as well as thromoembolic events, cataracts, and second cancers with tamoxifen, recapitulate age-related diseases, raising the question of common mechanisms and potentially increased vulnerability to these toxicities with advancing age. Here we describe outcomes of RCTs in the setting of adjuvant AI and tamoxifen therapy, and tamoxifen chemoprevention. Table 3.Side effects of endocrine therapy for pre- and postmenopausal women*Organ systemEndocrine therapy: SERMsEndocrine therapy: AIsEffectRefsEffectRefsCardiovascularthromboembolic events OR = 1.73, 95% CI = 1.47 to 2.05stroke ( age ≥50 years) RR = 1.47, 95% CI = 0.97 to 2.21pulmonary embolism RR = 2.15, 95% CI = 1.08 to 4.51(10, 151)cardiovascular events: MI, stroke, TIA, angina, thromboembolic events, arrhythmias, LV failure OR = 1.18, 95% CI = 1.0 to 1.4dyslipidemia (AIs compared with Tam) OR = 2.36, 95% CI = 2.15 to 2.60(9, 152)Bone↓ BMD (premenopausal) LS: ↓ 1.44% per year, P<.001hip: ↓ NS↑ BMD (postmenopausal) LS: ↑ 1.17% per year, P<.005 Hip: ↑1.71% per year, P<.001↓ fractures HR = 0.66, 95% CI = 0.59 to 0.73 RR = 0.68, 95% CI = 0.51 to 0.92(10, 151, 153)↑ fractures OR = 1.34, 95% CI = 1.16 to 1.55(9)Eyecataracts RR = 1.21, 95% CI = 1.10 to 1.34(151)Uterineendometrial cancer HR = 1.64, 95% CI = 1.14 to 2.36(10)*OR = odds ratio; CI = confidence interval; RR = risk ratio; HR = hazard ratio; MI = myocardial infarction; TIA = transient ischemic attack; LV = left ventricular; BMD = bone mineral density; LS = lumbar spine; Tam = tamoxifen.
+
+Side effects of endocrine therapy for pre- and postmenopausal women*
+
+Side effects of endocrine therapy for pre- and postmenopausal women*
+
+Organ systemEndocrine therapy: SERMsEndocrine therapy: AIsEffectRefsEffectRefsCardiovascularthromboembolic events OR = 1.73, 95% CI = 1.47 to 2.05stroke ( age ≥50 years) RR = 1.47, 95% CI = 0.97 to 2.21pulmonary embolism RR = 2.15, 95% CI = 1.08 to 4.51(10, 151)cardiovascular events: MI, stroke, TIA, angina, thromboembolic events, arrhythmias, LV failure OR = 1.18, 95% CI = 1.0 to 1.4dyslipidemia (AIs compared with Tam) OR = 2.36, 95% CI = 2.15 to 2.60(9, 152)Bone↓ BMD (premenopausal) LS: ↓ 1.44% per year, P<.001hip: ↓ NS↑ BMD (postmenopausal) LS: ↑ 1.17% per year, P<.005 Hip: ↑1.71% per year, P<.001↓ fractures HR = 0.66, 95% CI = 0.59 to 0.73 RR = 0.68, 95% CI = 0.51 to 0.92(10, 151, 153)↑ fractures OR = 1.34, 95% CI = 1.16 to 1.55(9)Eyecataracts RR = 1.21, 95% CI = 1.10 to 1.34(151)Uterineendometrial cancer HR = 1.64, 95% CI = 1.14 to 2.36(10)
+
+thromboembolic events
+
+OR = 1.73, 95% CI = 1.47 to 2.05
+
+stroke ( age ≥50 years)
+
+RR = 1.47, 95% CI = 0.97 to 2.21
+
+pulmonary embolism
+
+RR = 2.15, 95% CI = 1.08 to 4.51
+
+cardiovascular events: MI, stroke, TIA,
+
+angina, thromboembolic events,
+
+arrhythmias, LV failure
+
+OR = 1.18, 95% CI = 1.0 to 1.4
+
+dyslipidemia (AIs compared with Tam)
+
+OR = 2.36, 95% CI = 2.15 to 2.60
+
+↓ BMD (premenopausal)
+
+LS: ↓ 1.44% per year, P<.001
+
+hip: ↓ NS
+
+↑ BMD (postmenopausal)
+
+LS: ↑ 1.17% per year, P<.005
+
+Hip: ↑1.71% per year, P<.001
+
+↓ fractures
+
+HR = 0.66, 95% CI = 0.59 to 0.73
+
+RR = 0.68, 95% CI = 0.51 to 0.92
+
+↑ fractures
+
+OR = 1.34, 95% CI = 1.16 to 1.55
+
+cataracts
+
+RR = 1.21, 95% CI = 1.10 to 1.34
+
+endometrial cancer
+
+HR = 1.64, 95% CI = 1.14 to 2.36
+
+*OR = odds ratio; CI = confidence interval; RR = risk ratio; HR = hazard ratio; MI = myocardial infarction; TIA = transient ischemic attack; LV = left ventricular; BMD = bone mineral density; LS = lumbar spine; Tam = tamoxifen.
+
+*OR = odds ratio; CI = confidence interval; RR = risk ratio; HR = hazard ratio; MI = myocardial infarction; TIA = transient ischemic attack; LV = left ventricular; BMD = bone mineral density; LS = lumbar spine; Tam = tamoxifen.
+
+A recent meta-analysis examined 16 349 patients from seven RCTs who received initial adjuvant endocrine monotherapy, and compared outcomes in those receiving extended ET to those receiving placebo (9). Enrolled patients were randomly assigned to receive five additional years of adjuvant ET vs placebo in four of these trials, three years of anastrozole versus no treatment in one trial, and longer vs shorter duration of AI therapy in the remaining two trials. Prolonged therapy with AIs is associated with a marginally increased risk of cardiovascular events (see Table 3), with 7% of patients receiving prolonged AI therapy having cardiovascular events compared with 6% in the group that did not receive extended AI therapy (9). There was no association between relative odds and median age at random assignment (9). Cardiovascular events included myocardial infarction, stroke, transient ischemic attack, new or worsening angina, angina leading to percutaneous coronary intervention or coronary artery bypass graft, thromboembolic events, supraventricular and ventricular arrhythmias, and left ventricular failure (9). Hypertension was not associated with longer duration of AI therapy (9). In another meta-analysis of adjuvant ET, AI therapy was associated dyslipidemia and arterial hypertension (152). A recent pilot cross-sectional study of women with curative-intent breast cancer on an AI compared with healthy postmenopausal women revealed reductions in endothelial function in women on AIs, suggesting that these women are at increased risk of cardiovascular disease (154). However, the apparent increased risk of AIs compared with tamoxifen is due to a protective effect of tamoxifen for cardiovascular events, rather than an adverse effect of AIs (155).
+
+Extended AI therapy beyond five years is also associated with increased odds of bone fractures (see Table 3) with fractures occurring in 6.3% of patients receiving prolonged AI therapy compared with 4.8% of patients in the control group (9). Again, older age at random assignment was not associated with increased relative odds of bone fracture. In four of the seven RCTs, occurrence of second cancers was reported, and no difference was observed between patients treated with prolonged AI therapy (2.2% patients with second cancers) and those not receiving extended therapy (2.4% patients). The percentage of patients who discontinued therapy for adverse events was 17% among patients receiving extended AI therapy compared with 13.4% in the control group (OR = 1.45, 95% confidence interval = 1.23 to 1.68, P < .001). Death without recurrence occurred in 3.9% of patients receiving prolonged AIs compared with 2.9% of those receiving placebo or no treatment, and was not associated with prolonged use of AIs (OR = 1.11, 95% confidence interval = 0.9 to 1.36, P = .34). Although disease-free survival was higher in patients receiving prolonged AI therapy, an exploratory analysis revealed no effect on overall survival (9).
+
+SERM therapies exhibit mixed proestrogen and antiestrogen effects. The unopposed proestrogen effects of tamoxifen mediate the most serious risks of SERM therapies, such as venous thromboembolism (151) and uterine cancer (10). The risk of uterine cancer increases with advancing age and duration of tamoxifen therapy (2.30 per 1000 women per year of tamoxifen use) (156). Endometrial polyps are much more common, occurring in 8–50% of women on tamoxifen (157). In premenopausal patients, tamoxifen disrupts the menstrual cycle, causing functional ovarian cysts (158).
+
+A meta-analysis of four chemoprevention trials that reported on the effects of tamoxifen, including the NSABP P-1 (151), IBIS-1 (159), Royal Marsden Hospital Tamoxifen Prevention Trial (160), and the Italian Randomized Tamoxifen Prevention Trial (161), revealed a 38% reduction in invasive breast cancer, a significant reduction in vertebral fractures, and a significantly increased risk of thromboembolic events with all SERMs (10). None of these trials was individually powered to examine mortality outcomes, and the meta-analysis revealed no effect of any SERM on all-cause mortality (10). Adverse outcomes reported individually in these trials included increased incidence of cataracts (151), increased risk of invasive endometrial carcinoma in women aged 50 years or older receiving tamoxifen (151), increased vascular events and hypertriglyceridemia (161), and a nonstatistically significant increase in incidence rates of stroke (151). Increased side effects with tamoxifen include vasomotor symptoms (159,160), gynecological problems (160), including vaginal discharge, abnormal bleeding, endometrial polyps, and amenorrhea (159), thrush, ovarian cysts or lumps, nail changes and breast complaints (159), and bone loss in younger women (160).
+
+Identifying Host Factors That Modulate Risks of Accelerated Aging With Endocrine Therapy
+Making a recommendation for a prolonged course of ET in a breast cancer survivor requires a balanced discussion of risks, toxicities, and benefits. Weighing the risks of accelerated aging against the risks of breast cancer recurrence requires a careful assessment of the individual at risk. Factors that need to be considered include performance status, coexisting illnesses, cardiovascular and bone health, and tumor characteristics. The decision to direct or withhold ET may be clear in some patients with overt impairments, and less clear in others with preclinical frailty. For example, a postmenopausal patient with severe osteoporosis or debilitating arthritis may be directed toward tamoxifen. A perimenopausal woman with an inherited thrombophilia and history of life-threatening pulmonary embolism should not be given tamoxifen, with recommendations for ovarian suppression therapy and AI therapy following the MT. More concerning is a patient without known risk factors who develops ET toxicity that adversely affects health and contributes to comorbidity or competing causes of death. For example, a postmenopausal patient with stage 0 disease who has mild osteopenia, but is functional and independent, may experience accelerated bone loss on an AI, leading to hip fracture, causing the patient to become dependent and institutionalized. A premenopausal woman with hypertension and hypercholesterolemia exposed to 10 years of ET may potentially carry the risk of developing earlier age-related cardiovascular morbidity and mortality.
+
+Further research is needed to identify host factors that may predict a deleterious effect from prolonged ET. The ability to assess hallmarks of aging pre- and post-ET in a group of individuals of varying age and performance status could allow us to characterize the extent of accelerated aging that occurs with ET. If biological evidence for accelerated aging were found to occur, it would be important to investigate whether the degree of acceleration translates into functional decline and adverse outcomes. Given the large numbers of women who are receiving prolonged adjuvant ET for breast cancer, it will be critical to advance our understanding of the molecular mechanisms involved in accelerated aging with estrogen loss and the role of ET in the aging process. Through such research we may be able to better estimate the relative risks and benefits of prolonged ET in prevention and treatment of breast cancer in an aging population.
+
+Funding
+This work was supported by a Career Catalyst Award for Basic and Translational Research from the Susan G. Komen Foundation (MES and PAG), and by the Breast Cancer Research Foundation (PAG). Dr Patricia Ganz is a member of the Scientific Advisory Board for the Breast Cancer Research Foundation.
+
+Notes
+Affiliations of authors: Medicine, Hematology-Oncology, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, CA (MES, PAG); Biomathematics, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, CA (MES); Health Policy and Management, School of Public Health, University of California Los Angeles, Los Angeles, CA (PAG).
+
+The authors declare no conflicts of interest.

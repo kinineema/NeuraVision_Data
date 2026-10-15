@@ -1,0 +1,49 @@
+{
+  "dataset_name": "NeuraVision Literature Corpus",
+  "stage": 1,
+  "modality": "text",
+  "status": "ready",
+  "total_unique_articles": 385,
+  "date_range": {
+    "start": 2018,
+    "end": 2026
+  },
+  "diseases": [
+    {
+      "key": "alzheimers",
+      "label": "Alzheimer's disease",
+      "count": 119
+    },
+    {
+      "key": "parkinsons",
+      "label": "Parkinson's disease",
+      "count": 136
+    },
+    {
+      "key": "epilepsy",
+      "label": "Epilepsy",
+      "count": 118
+    },
+    {
+      "key": "multiple_sclerosis",
+      "label": "Multiple sclerosis",
+      "count": 117
+    },
+    {
+      "key": "stroke",
+      "label": "Stroke",
+      "count": 119
+    }
+  ],
+  "files": {
+    "jsonl": "processed/literature/articles.jsonl",
+    "csv": "processed/literature/articles.csv",
+    "catalog": "metadata/literature_catalog.csv",
+    "article_text_dir": "processed/literature/article_text"
+  },
+  "schema_version": "1.0",
+  "full_text_count": 190,
+  "abstract_only_count": 195,
+  "validation_passed": true,
+  "notes": "Literature data for the existing multimodal NeuraVision model; this repository does not contain or train that model."
+}

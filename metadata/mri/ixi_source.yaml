@@ -1,0 +1,18 @@
+dataset_name: IXI
+source: IXI - Information eXtraction from Images
+official_site: https://brain-development.org/ixi-dataset/
+subject_type: healthy_reference
+approx_subjects_available: 600
+selected_target_subjects: 50
+primary_modality: T1
+additional_modalities_available:
+  - T2
+  - PD
+  - MRA
+  - DTI
+format: NIfTI
+license: CC BY-SA 3.0
+usage_in_neuravision: MRI reference/control dataset
+stage: 2
+format: NIfTI
+usage_in_neuravision: MRI reference/control dataset

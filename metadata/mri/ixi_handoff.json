@@ -1,0 +1,25 @@
+{
+  "dataset_name": "IXI T1 MRI Subset",
+  "stage": 2,
+  "modality": "MRI-T1",
+  "subject_type": "healthy_reference",
+  "selected_subjects": 50,
+  "files_available": 50,
+  "qc_pass": 50,
+  "qc_fail": 0,
+  "sites": {
+    "Guys": 31,
+    "HH": 16,
+    "IOP": 3
+  },
+  "primary_orientation": "PSR",
+  "license": "CC BY-SA 3.0",
+  "status": "ready",
+  "files": {
+    "catalog": "metadata/mri/ixi_catalog.csv",
+    "qc": "metadata/mri/ixi_qc.csv",
+    "selection_manifest": "metadata/mri/ixi_selected_subjects.csv",
+    "image_dir": "processed/mri/ixi/t1"
+  },
+  "notes": "Data preparation only. No MRI model training or classification is performed in this repository."
+}

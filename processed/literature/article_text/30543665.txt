@@ -1,0 +1,143 @@
+Auditory stimulation improves motor function and caretaker burden in children with cerebral palsy- A randomized double blind study
+
+AimTo investigate the impact of auditory stimulation on motor function in children with cerebral palsy (CP) and disabling hypertonia.Method9 matched pairs (age: 7y5m, SD 4y1m; 13 boys; gross-motor-functional-classification-scale: median 4; manual-ability-classification-system: median 4) were randomized to receive either auditory stimulation embedded in music (study, n = 9) or music alone (sham, control, n = 9) for at least 10 minutes 4 times a week for 4 weeks. Goal-Attainment-Scale, Care-and-Comfort-Hypertonicity-Questionnaire, Gross-Motor-Function–Measure and Quality-of-Upper-Extremity-Skills-Test (QUEST) were assessed before and 5 months following intervention.ResultChildren receiving auditory stimulation attained more goals than children who listened to music alone (p = 0.002). Parents reported improved care and comfort in children in the study group compared to a slight deterioration in controls (p = 0.002). Upper extremity skills improved in the study group compared to controls (p = 0.006). Similar gross motor function changes were documented in both groups (p = 0.41).One participant reported increased seizure frequency; no other participants with epilepsy reported increased seizure frequency (n = 6/18) and no other adverse events were reported.InterpretationAuditory stimulation alleviated hypertonia and improved fine and gross motor functions.
+
+Introduction
+Cerebral palsy (CP), the most common cause of disability in children (~2:1000 live births), is characterized by motor dysfunction and hypertonia (abnormal elevated tone)[1]. Treatments for CP are directed at maximizing motor abilities and improving goal directed function.[2] Even a slight improvement in motor function may have a significant impact on the child and caregivers comfort and quality of life. Non-invasive therapies, medication and surgeries have been tried with variable effectiveness and efficacy.[3] Non invasive treatments are normally preferred due to the potential of having minimal adverse effect.
+
+Transcranial-Magnetic-Stimulation (TMS),[4] Transcranial Direct Current Stimulation (tDCS), [5] and Deep-Brain-Stimulation (DBS),[6] have been shown to improve motor function in children with CP, some with long term effects.[7] The effect of these interventions can, in part, be attributed to the facilitation of plasticity by both direct and indirect modulation of cortical activity. There is evidence that non-invasive low frequency acoustic signals, up to 30 Hz, have been shown to modulate cortical activity.[8]
+
+We hypothesized that the auditory stimulation facilitates cortical plasticity leading to improved motor function in children with CP. In a short term open label pilot study on 4 children with spastic cerebral palsy, we found that children were more relaxed after the intervention. Reports demonstrated improvements in caretaker burden and dissociated movement (QUEST, Elnatan and Gelkop—unpublished data). Following up on these findings, we conducted a randomized-controlled double blind study testing the impact of auditory stimulation on daily motor function and caretaker burden in children with CP.
+
+Method
+A matched pair double blind randomized control study (Fig 1). All children, parents and assessors were blind to group allocation.
+
+Flow diagram.
+
+We enrolled 11pairs of children with cerebral palsy in the study (n = 22, age range 2yr 5mo to 17 years, mean age 7yr11m, SD 3y11m; 16 boys, 6 girls; Table 1). We recruited participants from three special rehabilitation educational facilities in central Israel according to the following inclusion criteria: (1) age 2–18 years (2) hypertonia interfering with daily functions, (3) ability to use headphones for at least 10 minutes. Exclusion criteria were: 1- a discernible hearing deficit (n = 0); 2-no matched pair (n = 10); 3-potential/ history of non-compliance as assessed by the child's therapists (n = 4); 4- contaminant treatment with medications to reduce hypertonia (n = 0); 5- Orthopedic surgery the past year (n = 5); 6- Other interventions effecting motor abilities planned during the study period (Botulinum toxin interventions, casting, and surgery; n = 4). The Helsinki committee at Shaare Zedek Medical Center approved the study (clinicaltrials.gov ID # NCT00394641). We obtained a written informed consent from all parents of participants.
+
+Clinical characteristics.
+
+SchoolGroupage (Y)SexComm.Cog.levelAnatomic distributionMovement DisorderGMFCSMACSGFMFQUESTCare & Comfort1AStudy7.2MnonVSevere IDQuadD553.35-4.482.982ACont6.6MnonVBorderlineQuadS,D5519.292.013.223AStudy3.2MVNormalDiS2.5168.6389.722.584ACont3.3MVNormalDiS2186.7087.401.485ACont2.4FnonVNormalQuadS,D4314.2417.283.136AStudy2.9MVNormalQuadS,D4326.4743.914.507BStudy17MVBorderlineQuadS,D5428.5714.193.488BCont16MVBorderlineQuadS,D5425.5120.483.669BStudy7.5MVBorderlineDiS3369.2070.911.7110BCont8MVBorderlineQuadS3366.0072.543.6011CStudy5.3FnonVBellow avgQuadS,D5515.220.304.9912CCont6.3FnonVBellow avgQuadS,D5417.8021.182.8013CStudy5.7MnonVSevere IDQuadS,D5517.63-0.234.5914CCont4.7MnonVSevere IDQuadS,D5512.020.065.5015CStudy10MVNormalDiS4425.8214.414.0416CCont9.1FnonVNormalDiS,D4433.2227.662.7217CCont8FVLowHemiS,D3337.3247.233.1918CStudy11MVLowHemiS3356.8435.633.54
+
+CCHQ = Care and Comfort Hypertonicity Questionnaire; GMFCS = Gross motor functional classification scale; GMFM = Gross Motor Function Measure; MACS = Manual Ability Classification System; QUEST = Quest-Quality of upper extremity skills test; Cont = control; M = male, F = female, V = verbal, nonV = non-Verbal, |Quad = quadriplegia, Di = Diplegia, Hemi = hemiplegia.
+
+CCHQ = Care and Comfort Hypertonicity Questionnaire; GMFCS = Gross motor functional classification scale; GMFM = Gross Motor Function Measure; MACS = Manual Ability Classification System; QUEST = Quest-Quality of upper extremity skills test; Cont = control; M = male, F = female, V = verbal, nonV = non-Verbal, |Quad = quadriplegia, Di = Diplegia, Hemi = hemiplegia.
+
+The children were paired according to age, gender and CP classification parameters: gross-motor-functional-classification-scale (GMFCS), manual-ability-classification-system (MACS), anatomical distribution (quadriplegia, diplegia, hemiplegia), communication abilities (verbal/ non-verbal) and cognitive abilities (assessed by the teacher from severe cognitive impairment to no cognitive impairment). Random assignment was used to allocate children to either the treatment or control group. The names of two children, comprising a matched pair, were each written on a piece of paper and put in a box. AA randomly picked out a paper from the box. This child was allocated to the treatment group while the second child was allocated to the control group.
+
+We requested that the children would listen to the audio stimulation for at least 10 minutes each session preferably 30 minutes four times a week for 4 weeks. We provided each child with a CD according to her/his group allocation control or treatment. Each child was given a disc with 4–5 audio stimulation tracks, each track including music or nature sounds in the background.
+
+Sound frequencies in the gamma range modulated in frequency and/or amplitude according to a fixed protocol. These sounds were embedded in background music or nature sounds according to the child's preferences. The background music was different for each child and was chosen by the child or by the parents (for the younger children). This was done in order to assure that the child would actively listen to the tracks. The gamma tones gradually fade in to the background music/ sounds over the first two minutes.
+
+Music and nature sound according to the child’s preference.
+
+We supplied each child with headphones, CD player, diary, and guidance as to how to improve headphone wearing compliance. We instructed participants to listen to the CD through the headphones at least three times a week with no limits on the number of sessions. We asked the caretakers to keep a session log (dates and duration) and to comment (free text) in patient diaries. The children in both groups received the same routine therapy throughout the study.
+
+The study took place at home or school according to parents' preference. All the group allocation assessors, caretakers and participants were blinded to group allocation. A repeated measure design to minimize variability was used with repeated assessments—twice over a two-week period at the same time during the day. Baseline assessment was performed during the two weeks prior to the study onset. Post -intervention assessments took place at 20 weeks in order to determine if there are significant benefits to the audio stimulation in the long term.
+
+CCHQ was developed to document the efficacy of interventions in non-functional children with CP (GMFCS levels IV, and V).[9] Items are rated on a 7-point scale from 1 (very easy) to 7 (impossible), depending on the caregiver’s or patients ease or difficulty in performing the task. Score ranges from 1 to 7 with lower scores representing easier care, increased patient comfort, improved communication, self-feeding and play or reduced drooling.[10]
+
+GAS a sensitive individualized, criterion-referenced method measuring specific outcomes on individual goals after a period of treatment and widely used to supplement standardized measures of outcome.[11] For each goal outcome rated by the physical therapist in numerical values from -2 (being the least favorable outcome, much less than expected) to +2 (being the most favorable outcome, more than expected) with a 0 indicating the expected outcome.[12] A scale was calculated based on the percentage of possible improvement attained (e.g. if there were 2 goal outcomes (with a baseline score of -2) that attained scores (on a -2 scale to +2) of +1 and +2 after five months, then the potential improvement attained = 87.5% (i.e. (+3+4)/(maximum possible +8)).
+
+In addition, a GAS T-Score, measuring the achieved change (based on both the physical and occupational therapists readings), was calculated for each child, representing the composite GAS score transformed to a standardized measure using parametric techniques.[13] This transformation provides a numerical T-score which is normally distributed about a mean of 50 (if the goals are achieved precisely) with a standard deviation of around this mean of 10 (if the goals are overachieved or underachieved).[14]
+
+GMFM a clinical observational tool for evaluating change in gross motor function over time in children with CP.[15] 88-items grouped into 5 functional dimensions: lying & rolling, sitting, crawling & kneeling, standing, and walking, running & jumping. Standardized score is average and ranges from (1 = poor to100 = best performance).[16]
+
+QUEST evaluation of the quality of upper function in four domains: associated movements, grasp, protective extension, and weight bearing. Scores in each domain are calculated in percentages. Standardized score ranging from 1 to 100 with higher scores represent better quality of movement.[17]
+
+We asked the parents to report about their children’s bowel and bladder control (5-point scale), sleep, drooling and head control (4-point scale) and constipation (3-point scale; S1 Questionnaire) at baseline and after 5 months.
+
+Statistical analyses were performed using SPSS 22.0 (Armonk, NY: IBM Corp). We calculated the intervention efficacy using the improvement of the outcome measures of the study group compared to their matched pair using the Wilcoxon-signed ranked test. Study and Control groups were compared depending on data type with the non-parametric Wilcoxon Signed Ranks test or Fisher’s exact test when relevant. Correlation between variables was assessed with the non-parametric Spearman’s rank order and Pearson’s correlation coefficients.
+
+A p-value of 0.05 or lower was considered statistically significant. Power analysis revealed that such sample size could identify a difference of 0.85 standard deviations, with significance level of 0.05 and power of 0.8. We calculated the sample size at 10 matched pairs in advance. The study was intensive and it took three years to complete the eleven pairs. One pair dropped out and the second was removed when Botox was given unexpectedly to one of the children.
+
+Results
+Eighteen children completed the study (age 7y5mo, SD 4y1mo, 13:5, M:F, Table 1 and S1 Table). One pair dropped out since the parents of one of them reported seizures aggravation at the 2nd week. Another pair dropped out since the study participant was treated with botulinum toxin injections within the study period (3 months).
+
+The children had variable motor abilities GMFCS level range 2 to 5 (median 4), MACS level ranging from 1–5 (median 4). Most children had quadriplegia (n = 11) followed by diplegia (n = 5) and hemiplegia (n = 2). Six children had spasticity, one with dystonia and 11 had a mixed movement disorder. Most (n = 10/18) children were verbal and some (8/18) were non-verbal). Cognitive abilities classified by the teacher based on formal psychological evaluations and speech assessments, ranging from 1(low) to 3 (normal range), were lower than typically developed children (median 2.5). There were no differences between the study and control groups in age (Wilcoxon Signed Ranks test, p = 0.153),gender (2- sided Fisher's exact test, p = 0.294), school allocation (2- sided Fisher's exact test, p = 1.000), verbal abilities (2- sided Fisher's exact test; p = 0.637), cognitive level (Wilcoxon Signed Ranks test, p = 0.317), anatomic distribution (Fisher exact test, p = 1.000), spasticity (2- sided Fisher's exact test, p = 1.000), dystonia (2- sided Fisher's exact test; p = 0.620), GMFCS (Wilcoxon Signed Ranks test, p = 0.317), MACS (Wilcoxon Signed Ranks test, p = 0.317), baseline GFMF (Wilcoxon Signed Ranks test, p = 0.859), baseline QUEST (Wilcoxon Signed Ranks test, p = 0.214) or baseline CCHQ (Wilcoxon Signed Ranks, p = 0.374).
+
+There was a vast improvement in function in individual children especially in walking, standing, Care and Comfort (CCHQ), Goal Attainment Scale (GAS) and Quality-of-Upper-Extremity-Skills-Test (QUEST; Table 2).
+
+Scores at baseline and 5 months for study and control groups.
+
+TreatmentControlsBeforeAfterBeforeAfterp valueQUEST29.434.24.832.931.8-1.00.006sigDisassociated movement49.853.84.050.750.6-0.10.39Grasp12.717.24.520.220.60.40.014sigWeight bearing34.737.32.738.737.6-1.10.014sigProtective extension10.819.18.320.117.0-3.10.001sigCARE AND COMFORT3.62.1-1.53.263.23-0.00.002sigGAS PT0.00.810.80.00.230.20.002sigGAS T-score0.059.059.00.042.742.70.005sigGMFM34.637.22.634.736.21.50.41Lay & roll76.576.50.072.178.46.3>0.50Sit46.550.23.747.448.51.10.13Crawl & kneel24.926.71.924.324.90.50.13Standing17.923.15.117.917.4-0.60.017sigWalk, running, jump7.49.72.311.611.90.30.006sigADVERSE EFFECTSSleep2.22.1-0.12.42.50.1>0.50Bowel & bladder3.22.7-0.53.42.8-0.6>0.50Constipation1.80.9-0.91.71.4-0.2>0.50Drooling2.31.8-0.61.81.6-0.2>0.50Head control2.01.6-0.41.81.3-0.4>0.50
+
+Analysis conducted according to Wilcoxon Signed Rank TestNote that a lower Care and Comfort and Adverse Effects score denotes improvementQUEST = Quest-Quality of Upper Extremity Skills Test; GMFM = Gross Motor Function Measure; GAS PT = Goal Attainment Scale Physical Therapy
+
+Analysis conducted according to Wilcoxon Signed Rank Test
+
+Note that a lower Care and Comfort and Adverse Effects score denotes improvement
+
+QUEST = Quest-Quality of Upper Extremity Skills Test; GMFM = Gross Motor Function Measure; GAS PT = Goal Attainment Scale Physical Therapy
+
+Parents of children in the study group reported improvement in the children's care and comfort (median change = -1.45) compared to a slight improvement in controls (median change = -0.14; Wilcoxon-signed ranked test, p = 0.002). Four caregivers reported deterioration in CCHQ in the control group; no deterioration was reported in the study group. Communication was the main domain that improved (p = 0.008) followed by personal care (p = 0.002).
+
+Sitting, walking and fine motor manipulation skills were the main areas that were defined as goals and were individually rated. On the GAS-PT scale the study group improved significantly more than the control group (0.8 vs 0.2; p = 0.002). Similarly, the children who listened to gamma frequencies attained more goals (mean change = 59.0) than children who listened to music alone (mean change = 42.7; Wilcoxon-signed ranked test, p<0.005; Video A in S1 Video).
+
+In all the matched pairs, study group children’s improvement exceeded that of the control group. Two thirds of the children in the study group exceed expectations (>50%), while all of the children in the control group either deteriorated (four out of nine) or remained the same (five out of nine).
+
+Children receiving gamma frequencies improved upper limb skills following the intervention (median change = 4.78) more than matched controls (mean change = -1.04; Wilcoxon-signed ranked test, p = 0.006; Fig 2). In the sub-dimensions of QUEST, there were significant improvements in protective extension (p = 0.001), weight bearing (p = 0.014), and grasps (p = 0.014).
+
+QUEST and GMFM subscales results after 5 months of auditory stimulus and sham stimulus.Children who received auditory stimuli (black bars) have improved on most motor functions both in upper limbs (associated movements, grasp, protective extension, and weight bearing) and lower limbs (sitting, crawling & kneeling, standing, and walking, running & jumping compared to controls that have not changed or deteriorated (gray bars). Lying and rolling improved in controls more than in the study group thus the total GMFM score was not significantly improved in the study group.
+
+Children who received auditory stimuli (black bars) have improved on most motor functions both in upper limbs (associated movements, grasp, protective extension, and weight bearing) and lower limbs (sitting, crawling & kneeling, standing, and walking, running & jumping compared to controls that have not changed or deteriorated (gray bars). Lying and rolling improved in controls more than in the study group thus the total GMFM score was not significantly improved in the study group.
+
+The change of the global GMFM was similar in both groups (Wilcoxon-signed ranked test; p = 0.41). In the treatment group the GMFM walking (p = 0.006) and standing (p = 0.017) scores showed significant improvement (Fig 2). In the control group there were no significant improvements in any of the sub sections.
+
+Age was uncorrelated with improvements in the major outcome variable scores such as QUEST, Care and Comfort, GASPT, GMFM scores. (Pearson, r = 0.05). Similarly, there were no significant associations between age differences of the pairs and the outcome (Spearman’s Rank order correlation p<0.05).
+
+Compliance was similar between the two groups. There were no significant differences between the treatment and control group in cumulative treatment times (386 vs 403 minutes, p>0.50; Wilcoxon signed rank test) or numbers of treatment sessions (14.1 vs 18.3, p = 0.5 Wilcoxon signed rank test). In addition, the Spearman's rank order correlation coefficient found no significant associations between cumulative treatment times or numbers of treatment sessions and outcome variables such as QUEST, Care and Comfort, GAS-PT, GMFM scores (p>0.05). However marginal significance was found with the GAST scores (p = 0.05).
+
+Four children in each group did audio stimulation during the morning hours while the remaining children did audio stimulation at home in the late afternoon or early evening hours. Many parents reported that their child did not like wearing headphones but that compliance was best when music familiar to their child, and not nature sounds, was in the background.
+
+Time logs were kept for all of the children. Six from the treatment group and five from the control group wrote narratives about their experience. In the study group, four parents reported improvements in their children's function, three said that their child’s body’s was more relaxed, four reported increased cognitive, attention skills, cooperation or communication skills. In the control group, two reported increased relaxation, two reported increased cooperation while three reported no change.
+
+One parent reported that his child had more seizures following the study intervention; subsequently, this pair thus did not complete the study. Five of the 18 participating in the study were on concurrent epilepsy treatment and none reported a change in seizure frequency. There were no reports about other adverse events or difficulties to comply with the protocol assigned. Two children from the control group and two from the study group required treatments pre study for constipation (suppositories or enemas). Following intervention, the two in the control group still had constipation, though only one required treatment, while the two children in the treatment group no longer had constipation. There were no significant (p>0.5) adverse effects in sleep, drooling, head control, constipation, bowel and bladder.
+
+Discussion
+This preliminary study demonstrated the potential of one month of auditory stimulation through headphones to improve functional motor skills, enhance social communications and ease caretaker burden in children with CP and hypertonia. This effect was maintained in our cohort for at least 5 months.
+
+We suggest that the auditory stimuli had modulated neuronal circuits via the resonance phenomenon. Auditory stimulation might be used for treatment by actively enhancing neuronal oscillations using the resonance phenomenon. This phenomenon occurs when the frequency of the auditory stimulation matches a specific neuronal oscillating frequency (a preferential frequency). A preferential frequency enhances the voltage created by the membrane of the specific neurons creating the resonance phenomenon.[18] In this study, we focused on gamma frequencies (32–250 Hz) that are involved in visual, auditory, tactile, and motor processing. Pastor et al showed increased cortical synaptic activity and cerebral blood flow following a 40 Hz auditory stimulation. Edwards et al reported high gamma oscillations (60–250 Hz, centered at 100 Hz) from left temporal areas in response to auditory tone stimuli. Various low frequency sensory stimulations, including sound up to 30 Hz, could have physiological effects, on specific neurological disorders.[8] Motor cortical stimulation amplifies and synchronizes oscillatory neural activity associated with motor function.[19] In our study, we found improvement in motor skills suggesting that therapeutic effects could be linked to the various mechanisms described in this discussion.
+
+Brain oscillatory activity is also closely linked to GABA-mediated motor neuron inhibition and GABA agonists are effective in treating spasticity.[20,21] Increased gamma oscillations may amplify the GABAergic inhibitory neurotransmission, reducing hypertonicity similar to other neuromodulation techniques such as rTMS.[22] Increased GABA inhibition following auditory stimulation may explain the significant relaxation, and easier caretaking activities such as dressing, bathing, transferring and feeding their children.
+
+Auditory stimulation improved communication as shown in the CCHQ. In addition, a number of parents of children in the study group who claimed that pretreatment their children cried constantly and were uncooperative, reported that post treatment, their children were calmer and more cooperative. Interestingly, the CCHQ question that was most sensitive to intervention was “How easy is it for your child to be completely understood by those who know your child well?”Gamma oscillations are also closely related to sensory integration, communication and speech.[23] We postulate that auditory stimulation improves synchronicity, producing the accompanying benefits in communication, behavior, cooperation and mood.
+
+Frequency modulated and amplitude modulated tones have been hypothesized to generate considerably greater activity in brain regions beyond the auditory areas as compared to un-modulated tones, this could explain the benefits achieved by the children in the treatment group.[24] Interestingly, benefits resulting from the auditory stimulation were sustained long after the cessation of the one month treatment period, that could be attributed to synaptic neuro-plasticity and network connectivity modification.[25] We postulate that this neuroplasticity creates the long term benefits lasting at least 5 months. Functional improvements in children with CP are the main parameter for intervention efficacy in CP.[26] Many interventions that are commonly used in children with CP have not demonstrated to have a functional impact.[3] Thus, auditory stimulation is one of the few noninvasive safe interventions that has a functional impact on daily life of the child with CP and their families. There were no reported adverse effects except that one child was reported to have more seizures. We consider this incidental and do not attribute this to treatment since many children in the treatment group had epilepsy and none reported an increase in seizures.
+
+Limitations of the study: small study size. We did not assess emotional impact and quality of life. Demographic variables were not covaried because of the small sample and the use of non-parametric tests.
+
+Conclusion
+Children with CP and hypertonia might have functional improvement following auditory stimuli. This safe, non-invasive novel alternative intervention may provide an opportunity for children with CP to improve their motor skills and increase their communication skills in their home, school and community while at the same time reducing the burden of the caretakers.
+
+Supporting information
+Adverse effects.Bowel and bladder control (5-point scale), sleep, drooling and head control (4-point scale) and constipation (3-point scale) at baseline and after 5 months.(DOCX)
+
+Bowel and bladder control (5-point scale), sleep, drooling and head control (4-point scale) and constipation (3-point scale) at baseline and after 5 months.
+
+(DOCX)
+
+Click here for additional data file.
+
+Click here for additional data file.
+
+Raw data.Data of all participants before and after intervention.(PDF)
+
+Data of all participants before and after intervention.
+
+(PDF)
+
+Click here for additional data file.
+
+Click here for additional data file.
+
+Gross motor skills before and after treatment.Three children in the treatment group who gained motor skills during the study. The motor skills shown are Sit to Stand, Standing and Walking. The videos were filmed before treatment and after 5 months.(MP4)
+
+Three children in the treatment group who gained motor skills during the study. The motor skills shown are Sit to Stand, Standing and Walking. The videos were filmed before treatment and after 5 months.
+
+(MP4)
+
+Click here for additional data file.
+
+Click here for additional data file.

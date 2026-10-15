@@ -1,0 +1,267 @@
+Synbiotic supplementation may globally improve non-motor symptoms in patients with stable Parkinson’s disease: results from an open label single-arm study
+
+Gut microbiota changes and brain-gut-axis (BGA) dysregulation are common in people with Parkinson’s Disease (PD). Probiotics and prebiotics are emerging as a potential therapeutic approach for PD patients. The aim of this paper was to assess the neurological and gastroenterological effects in PD patients with constipation after the administration of a synbiotic product, with a focus on behavioral and cognitive symptoms. We enrolled patients with stable PD who met diagnostic criteria for functional constipation and/or irritable bowel syndrome with constipation according to Rome IV Criteria. Patients received a synbiotic treatment (Enterolactis Duo, containing the probiotic strain Lacticaseibacillus paracasei DG and the prebiotic fiber inulin) for 12 weeks. A neurological and a gastroenterological evaluation were collected before and after the treatment. In addition, 16S rRNA gene profiling and short chain fatty acid quantification were performed to characterize the microbial ecosystem of fecal samples collected before (n = 22) and after (n = 9) the synbiotic administration. 30 patients were consecutively enrolled. After treatment, patients performed better in MDS-UPDRS part 1 (p = 0.000), SCOPA-AUT (p = 0.001), TAS-20 (p = 0.014), HAM-D (p = 0.026), DIFt (p = 0.003), PAS-A (p = 0.048). Gastroenterological evaluations showed improvements in PAC-SYM score (p < 0.001), number of complete bowel movement (p < 0.001) and BSFS (p < 0.001). After the synbiotic administration, we observed a significant increase in the abundance of the order Oscillospirales, as well as the Oscillospiraceae family and the species Faecalibacterium prausnitzii within this order in fecal samples. Synbiotic treatment demonstrates potential efficacy in ameliorating non-motor features in PD patients.
+
+Introduction
+Parkinson’s disease (PD) is a complex neurodegenerative disorder characterized by a range of motor and non-motor symptoms.
+
+Gastrointestinal dysfunction, and specifically constipation, is one of the most frequent non-motor symptoms of PD. Between 50 and 80% of patients with PD experience constipation1. Constipation is also one of the earliest features of autonomic dysfunction, often preceding the onset of motor symptoms by up to 15 years, and is associated with disease duration and severity2.
+
+Individuals with PD exhibit alterations in the composition and diversity of their gut microbiota compared to healthy individuals. These alterations may include changes in the abundance of specific microbial species or a shift in the overall microbial profile and are related with constipation and clinical phenotypes3–5. Moreover, the role of the gut microbiota in shaping brain function is increasingly acknowledged.
+
+The gut-brain axis consists of a bidirectional communication between the central nervous system (CNS) and the enteric nervous system (ENS)6. Recent research highlighted the significance of the intestinal microbiota in influencing these interactions via neural, endocrine, immune, and humoral pathways7, contributing to the pathogenesis and/or progression of several neurological disorders, including PD8.
+
+Probiotics and prebiotics, aimed to balance the gut microbiota, are emerging as a potential therapeutic approach for PD patients. Probiotics are live microorganisms conferring health benefits when administered in adequate amounts9, whereas a prebiotic is defined as “a substrate that is selectively utilized by host microorganisms conferring a health benefit”10. The combined administration of probiotics and prebiotics can yield additional benefits compared to the administration of individual components, through what is now recognized as ‘complementary synbiotic products’11. Minimum criteria for the existing probiotic and prebiotic must be met for both components of a complementary synbiotic11.
+
+In recent years, the evidence regarding the effectiveness of probiotics in balancing the gut microbiota and treating constipation in PD patients is growing12. On the other hand, several studies have explored the potential of both prebiotics and probiotics to improve stress related disorders, anxiety and depressive symptoms in healthy population13,14. Also, while research in this area is still evolving, some studies have shown promising results regarding the potential cognitive benefits of prebiotics and probiotics. For example, certain probiotic strains of bifidobacteria and lactobacilli have been associated with improvements in cognitive functions in healthy elderly15,16, but also in individuals with mild cognitive impairment (MCI), memory complaints17,18and in patients with Alzheimer Disease (AD)19–21.
+
+In this study we aimed to explore the beneficial effects of the administration of a synbiotic dietary supplement (Enterolactis Duo) in PD patients with constipation, with a focus on behavioral and cognitive symptoms in addition to motor symptoms. In addition, the potential modification of bacterial taxa and microbial metabolites in feces were also assessed in a subgroup of patients. Enterolactis Duo contains the probiotic strain Lacticaseibacillus paracasei DG and the prebiotic fiber inulin. Indeed, L. paracaseiis known for alleviating gastrointestinal symptoms in patients suffering from chronic constipation22, while inulin is a prebiotic that can improve gut microbiota composition23.
+
+Methods
+This is a single-arm, open label study. Thirty participants aged from 18 to 80 years with idiopathic PD, in stable motor conditions and fulfilling Rome IV criteria for functional constipation (FC) or irritable bowel syndrome with constipation (IBS-C)24 were consecutively recruited at the Parkinson’s Disease Center and Movement Disorder Clinic at the University of Salerno from 2019 to 2022. All the patients gave their written informed consent to the study. The protocol was approved by the Ethics Committee of ASLNAPOLI3SUD on 25/09/2018 and registered in ClinicalTrials.gov (ref. no.: NCT04293159).
+
+Baseline demographic and clinical features of enrolled PD patients are reported in Table 1.Table 1Baseline characteristics of enrolled PD patients.Males, n (%)20 (66.7%)Age, median (IQR)y 64.7 ± 7.1Disease duration, median (IQR)y 8.9 ± 4.6BMI ± SD27.5 kg/m2 ± 3.7FC, n (%)28 (93.3%)IBS-C, n (%)2 (6.7%)n, number; SD, standard deviation.
+
+Baseline characteristics of enrolled PD patients.
+
+Baseline characteristics of enrolled PD patients.
+
+Males, n (%)20 (66.7%)Age, median (IQR)y 64.7 ± 7.1Disease duration, median (IQR)y 8.9 ± 4.6BMI ± SD27.5 kg/m2 ± 3.7FC, n (%)28 (93.3%)IBS-C, n (%)2 (6.7%)
+
+n, number; SD, standard deviation.
+
+n, number; SD, standard deviation.
+
+Changes in antiparkinsonian drugs were not allowed during the study. Participants with organic gastrointestinal disorders, history of major abdominal surgery, or concomitant systemic conditions that could cause bowel disturbances were excluded. Patients on advanced PD therapies and patients who regularly took laxatives or other therapies for constipation that could not be discontinued were not recruited.
+
+Before the baseline visit, every PD patient completed a questionnaire to confirm their fulfilment of the Rome IV criteria for FC or IBS-C. All the examinations (e.g., blood biochemistry, endoscopic and radiological investigations to exclude secondary causes of constipation) were performed when indicated.
+
+Neurological and gastroenterological evaluations were performed at baseline (T0) before starting the synbiotic treatment.Neurological evaluation consisted of:Movement Disorder Society-Sponsored Revision of Unified Parkinson’s Disease Rating Scale (MDS-UPDRS)25. SCales for Outcomes in Parkinson’s disease - Autonomic Dysfunction (SCOPA-AUT)26, a specific assessment tool designed to evaluate autonomic dysfunction in patients with Parkinson’s disease.Cognitive and behavioral evaluation consisted of:Montreal Cognitive Assessment (MoCA), a screening test that assesses global cognitive function and consists of 10 subtests; it measures the visuospatial abilities, executive functions, attention, concentration, working memory, memory, language and orientation27Toronto Alexithymia Scale (TAS-20)28, a self-report questionnaire designed to measure alexithymia, a personality trait characterized by difficulty in identifying and expressing emotions, whose prevalence is about double in PD patients compared to normal population29. The TAS-20 assesses three main components of alexithymia:Difficulty Identifying Feelings (DIF)Difficulty Describing Feelings (DDF)Externally Oriented Thinking (EOT)Reading the Mind in the Eyes Test (RMET), a task that assesses the theory of mind component of social cognition and shows respondents the eye region of 36 Caucasian faces and asks them to select one of four accompanying labels that best describes the mental state of the individual pictured30.Parkinson Anxiety Scale (PAS), a questionnaire that consists of 12-item observer or patient-rated scale and includes three subscales assessing persistent, episodic anxiety and avoidance behavior (PAS-A, PAS-B, PAS-C, respectively)31.State-Trait Anxiety Inventory (STAI-Y), a self-report questionnaire to assess general anxiety; it allows a clear separation between state and trait anxiety, it is particularly suitable for detecting transitory rises of anxiety and it is less oriented towards somatic components of anxiety (e.g., pain, difficulty in breathing, sleep disorders) than other widely used scales, with lower risk of overlap between medical and psychological determinants of anxiety32Beck Depression Inventory-II (BDI II), a self-report questionnaire to assess the affective somatic and the cognitive elements of depression, for example sadness, pessimism, self-criticalness, agitation, suicide thoughts, irritability, loss of energy33Hamilton depression rating scale (HAM-D), a multiple-item questionnaire used to rate the severity of depression by probing mood, feelings of guilt, suicide ideation, insomnia, agitation or retardation, anxiety, weight loss, and somatic symptoms34.Gastroenterological evaluation consisted of:Patients Assessment of Constipation Symptoms (PAC-SYM) Questionnaires. The PAC-SYM consists of 12 items that cover three domains related to constipation symptoms: stool symptoms, rectal symptoms, abdominal symptoms. For each item, patients rate the severity and frequency of their symptoms over a specified timeframe. The severity rating ranges from 0 (none) to 4 (very severe), and the frequency rating ranges from 0 (never) to 4 (always). The scores for each item are summed to obtain domain scores and a total PAC-SYM score, providing an overall measure of constipation symptom severity35.Stool consistency was recorded as numerical values using the Bristol Stool Form Chart Adjectival scale for stool consistency (BSFS), using the validated Bristol stool form scale (a 7-point scale from 1 = separate hard, lumps like nuts to 7 = watery)36.Daily measurement of the number of bowel movements was summarized weekly37.
+
+Neurological evaluation consisted of:Movement Disorder Society-Sponsored Revision of Unified Parkinson’s Disease Rating Scale (MDS-UPDRS)25. SCales for Outcomes in Parkinson’s disease - Autonomic Dysfunction (SCOPA-AUT)26, a specific assessment tool designed to evaluate autonomic dysfunction in patients with Parkinson’s disease.
+
+Movement Disorder Society-Sponsored Revision of Unified Parkinson’s Disease Rating Scale (MDS-UPDRS)25. SCales for Outcomes in Parkinson’s disease - Autonomic Dysfunction (SCOPA-AUT)26, a specific assessment tool designed to evaluate autonomic dysfunction in patients with Parkinson’s disease.
+
+Cognitive and behavioral evaluation consisted of:Montreal Cognitive Assessment (MoCA), a screening test that assesses global cognitive function and consists of 10 subtests; it measures the visuospatial abilities, executive functions, attention, concentration, working memory, memory, language and orientation27Toronto Alexithymia Scale (TAS-20)28, a self-report questionnaire designed to measure alexithymia, a personality trait characterized by difficulty in identifying and expressing emotions, whose prevalence is about double in PD patients compared to normal population29. The TAS-20 assesses three main components of alexithymia:Difficulty Identifying Feelings (DIF)Difficulty Describing Feelings (DDF)Externally Oriented Thinking (EOT)Reading the Mind in the Eyes Test (RMET), a task that assesses the theory of mind component of social cognition and shows respondents the eye region of 36 Caucasian faces and asks them to select one of four accompanying labels that best describes the mental state of the individual pictured30.Parkinson Anxiety Scale (PAS), a questionnaire that consists of 12-item observer or patient-rated scale and includes three subscales assessing persistent, episodic anxiety and avoidance behavior (PAS-A, PAS-B, PAS-C, respectively)31.State-Trait Anxiety Inventory (STAI-Y), a self-report questionnaire to assess general anxiety; it allows a clear separation between state and trait anxiety, it is particularly suitable for detecting transitory rises of anxiety and it is less oriented towards somatic components of anxiety (e.g., pain, difficulty in breathing, sleep disorders) than other widely used scales, with lower risk of overlap between medical and psychological determinants of anxiety32Beck Depression Inventory-II (BDI II), a self-report questionnaire to assess the affective somatic and the cognitive elements of depression, for example sadness, pessimism, self-criticalness, agitation, suicide thoughts, irritability, loss of energy33Hamilton depression rating scale (HAM-D), a multiple-item questionnaire used to rate the severity of depression by probing mood, feelings of guilt, suicide ideation, insomnia, agitation or retardation, anxiety, weight loss, and somatic symptoms34.
+
+Montreal Cognitive Assessment (MoCA), a screening test that assesses global cognitive function and consists of 10 subtests; it measures the visuospatial abilities, executive functions, attention, concentration, working memory, memory, language and orientation27
+
+Toronto Alexithymia Scale (TAS-20)28, a self-report questionnaire designed to measure alexithymia, a personality trait characterized by difficulty in identifying and expressing emotions, whose prevalence is about double in PD patients compared to normal population29. The TAS-20 assesses three main components of alexithymia:Difficulty Identifying Feelings (DIF)Difficulty Describing Feelings (DDF)Externally Oriented Thinking (EOT)
+
+Difficulty Identifying Feelings (DIF)
+
+Difficulty Describing Feelings (DDF)
+
+Externally Oriented Thinking (EOT)
+
+Reading the Mind in the Eyes Test (RMET), a task that assesses the theory of mind component of social cognition and shows respondents the eye region of 36 Caucasian faces and asks them to select one of four accompanying labels that best describes the mental state of the individual pictured30.
+
+Parkinson Anxiety Scale (PAS), a questionnaire that consists of 12-item observer or patient-rated scale and includes three subscales assessing persistent, episodic anxiety and avoidance behavior (PAS-A, PAS-B, PAS-C, respectively)31.
+
+State-Trait Anxiety Inventory (STAI-Y), a self-report questionnaire to assess general anxiety; it allows a clear separation between state and trait anxiety, it is particularly suitable for detecting transitory rises of anxiety and it is less oriented towards somatic components of anxiety (e.g., pain, difficulty in breathing, sleep disorders) than other widely used scales, with lower risk of overlap between medical and psychological determinants of anxiety32
+
+Beck Depression Inventory-II (BDI II), a self-report questionnaire to assess the affective somatic and the cognitive elements of depression, for example sadness, pessimism, self-criticalness, agitation, suicide thoughts, irritability, loss of energy33
+
+Hamilton depression rating scale (HAM-D), a multiple-item questionnaire used to rate the severity of depression by probing mood, feelings of guilt, suicide ideation, insomnia, agitation or retardation, anxiety, weight loss, and somatic symptoms34.
+
+Gastroenterological evaluation consisted of:Patients Assessment of Constipation Symptoms (PAC-SYM) Questionnaires. The PAC-SYM consists of 12 items that cover three domains related to constipation symptoms: stool symptoms, rectal symptoms, abdominal symptoms. For each item, patients rate the severity and frequency of their symptoms over a specified timeframe. The severity rating ranges from 0 (none) to 4 (very severe), and the frequency rating ranges from 0 (never) to 4 (always). The scores for each item are summed to obtain domain scores and a total PAC-SYM score, providing an overall measure of constipation symptom severity35.Stool consistency was recorded as numerical values using the Bristol Stool Form Chart Adjectival scale for stool consistency (BSFS), using the validated Bristol stool form scale (a 7-point scale from 1 = separate hard, lumps like nuts to 7 = watery)36.Daily measurement of the number of bowel movements was summarized weekly37.
+
+Patients Assessment of Constipation Symptoms (PAC-SYM) Questionnaires. The PAC-SYM consists of 12 items that cover three domains related to constipation symptoms: stool symptoms, rectal symptoms, abdominal symptoms. For each item, patients rate the severity and frequency of their symptoms over a specified timeframe. The severity rating ranges from 0 (none) to 4 (very severe), and the frequency rating ranges from 0 (never) to 4 (always). The scores for each item are summed to obtain domain scores and a total PAC-SYM score, providing an overall measure of constipation symptom severity35.
+
+Stool consistency was recorded as numerical values using the Bristol Stool Form Chart Adjectival scale for stool consistency (BSFS), using the validated Bristol stool form scale (a 7-point scale from 1 = separate hard, lumps like nuts to 7 = watery)36.
+
+Daily measurement of the number of bowel movements was summarized weekly37.
+
+Patients received one sachet containing synbiotic Enterolactis Duo, four times a day, away for meals, for 12 weeks. At the end of 12 weeks (T1) we re-evaluated:motor and non-motor symptoms of PD using MDS-UPDRS, SCOPA-AUT, MOCA, TAS-20, RMET, PAS scales STAY-Y STATE, STAY-Y TRAIT BDI II, and HAM-D;the diagnosis of functional constipation or irritable bowel syndrome with constipation according to the Rome IV Criteria.the “constipation severity and frequency” according to PAC-SYM as well as stool consistency and daily measurement of the number of bowel movements summarized weekly.
+
+motor and non-motor symptoms of PD using MDS-UPDRS, SCOPA-AUT, MOCA, TAS-20, RMET, PAS scales STAY-Y STATE, STAY-Y TRAIT BDI II, and HAM-D;
+
+the diagnosis of functional constipation or irritable bowel syndrome with constipation according to the Rome IV Criteria.
+
+the “constipation severity and frequency” according to PAC-SYM as well as stool consistency and daily measurement of the number of bowel movements summarized weekly.
+
+During the study period, the patients were allowed to take bisacodyl (max 2 tablets a day, 5 mg each) and rectal enemas (one weekly) or otilonium bromide (max 2 tablets a day, 40 mg each) as rescue therapies for constipation or abdominal pain, respectively.
+
+Enterolactis Duo contains the probiotic strain Lacticaseibacillus paracasei DSM 34,154 (L. casei DG®; L. paracasei DG) and the prebiotic inulin. Each 5.0 g sachet contains: soluble inulin, fructose, human-derived L. paracasei DG (microorganism deposited at the Pasteur Institute in Paris under the code 1-1572), vitamin B6 hydrochloride, vitamin B2, thiamine mononitrate (vitamin B1). Each sachet contained not less than 8 billion colony formant units (CFUs). Product compositions per 100 g and per dose (1 sachet, 5.0 g) are listed in the following Table 2.Table 2Treatment composition.ComponentPer 100 gPer sachet (5.0 g)ProteinsAbsentAbsentTotal carbohydrate18.648 g0.932 gFatsAbsentAbsentL. casei DG® (Lacticaseibacillus paracasei I1572, DSM 34,154) ≥ 16 × 109 CFUs ≥ 8 × 109 CFUsInulin80 g4.0 g
+
+Treatment composition.
+
+Treatment composition.
+
+ComponentPer 100 gPer sachet (5.0 g)ProteinsAbsentAbsentTotal carbohydrate18.648 g0.932 gFatsAbsentAbsentL. casei DG® (Lacticaseibacillus paracasei I1572, DSM 34,154) ≥ 16 × 109 CFUs ≥ 8 × 109 CFUsInulin80 g4.0 g
+
+Fecal sample metataxonomics was performed through 16S rRNA gene profiling as described earlier38. In brief, after collection, fecal samples were stored in a home refrigerator and delivered to the laboratory within 24 h, where they were stored at − 80 °C until they were processed together. DNA was extracted from 150 mg of feces using the QIAsymphony PowerFecal Pro DNA Kit (Qiagen, Milan, Italy) following the manufacturer’s instructions. Subsequently, a fragment of the 16S rRNA gene encompassing the V3-V4 variable regions was amplified with primers 341F (5′-CCT ACG GGN GGC WGC AG-3′) and 805 R (5′-GAC TAC HVG GGT ATC TAA TCC-3′). Then, amplicons were sequenced using the NovaSeq 6000, 2 × 250 bp (NovaSeq 6000 SP Reagent Kit, 500 cycles) by LC Sciences (Ho TX). Sequencing reads were analyzed using the bioinformatic pipeline Quantitative Insights Into Microbial Ecology (QIIME) 2 version 2022.2, with the Greengenes database v. 13_8 for taxonomic assignment to amplicon sequence variants (ASVs) using the Divisive Amplicon Denoising Algorithm (DADA2; Callahan et al. 2016). Taxonomic diversity was analyzed through QIIME 2 using the algorithms Observed Features and Shannon index for the α-diversity, and Weighted and Unweighted UniFrac for the β-diversity.
+
+Fecal samples were also used for the quantification of the following organic acids: acetate, butyrate, propionate, valerate, isovalerate, and succinate. The protocol adopted was based on Ultra-Performance Liquid Chromatography-High-Resolution Mass Spectrometry (UPLC-HR-MS) as previously described in detail39. In specific, we used an Acquity UPLC separation module (Waters, Milford, MA) coupled with an Exactive Orbitrap MS using a HESI-II probe for electro-spray ionization (Thermo Scientific, San Jose, CA).
+
+Demographic and clinical characteristics of the sample were analyzed with descriptive statistics. We checked for normality distribution with the Kolmogorov–Smirnov test.
+
+T test was used to evaluate changes in motor and non-motor parametric variables from baseline to follow up. Wilcoxon signed rank test was used to assess differences in the distribution of non-parametric data (including organic acids levels in feces) from baseline to follow-up. Statistical significance for correlations was set at p < 0.05. Commercial software “Statistical Package for the Social Sciences” (SPSS 29.0) was used for data analyses.
+
+Statistical calculations of microbiome data were carried out using R programming language (version 3.4.2). Sequencing dead abundances underwent centered log-ratio transformation (CLR). Differently abundant taxa in feces between the groups were identified using Wilcoxon–Mann–Whitney test on CLR-transformed abundances.
+
+Results
+After treatment with symbiotic, patients performed better in MDS-UPDRS part 1 (15.13 ± 7.98 vs 10.37 ± 6.05, p = 0.000), SCOPA-AUT (17.0 (7.3) vs 13.5 (9.8), p = 0.001), TAS-20 (54.00 ± 13.41 vs 49.87 ± 12.03, p = 0.014), HAM-D (12.5 (10.3) vs 9.0 (12.0), p = 0.026), DIFt (19.23 ± 7.78 vs 16.63 ± 7.41p = 0.003), PAS-A (7.30 ± 4.97 vs 6.03 ± 5.24, p = 0.048). No significant changes were observed in the average scores of MoCA test and the total motor score evaluated with the MDS-UPDRS III (p > 0.05) (Table 3).Table 3Neurological and behavioral features of PD patients at T0 and T1.T0N° 30T1N° 30pMDS-UPDRS I mean ± SD15.13 ± 7.9810.37 ± 6.05 < 0.001MDS-UPDRS IImean ± SD11.57 ± 6.6910.60 ± 7.080.427MDS-UPDRS IIImean ± SD23.83 ± 9.6623.57 ± 8.970.874MDS-UPDRS IV Median (IQR)2.0 (3.0)2.0 (3.0)0.720SCOPA-AUT*Median (IQR)17.0 (7.3)13.5 (9.8)0.001MoCAMedian (IQR)25.0 (7.0)24.0 (5.3)0.651TAS-20mean ± SD54.00 ± 13.4149.87 ± 12.030.014DIFtmean ± SD19.23 ± 7.7816.63 ± 7.410.034DDFmean ± SD14.10 ± 4.9612.87 ± 4.230.103EOTmean ± SD19.83 ± 4.9619.33 ± 5.010.538RMETmean ± SD20.53 ± 5.0920.87 ± 5.140.662PAS-Amean ± SD7.30 ± 4.976.03 ± 5.240.048PAS-BMedian (IQR)2.0 (4.0)2.0 (4.0)0.200PAS-CMedian (IQR)2.0 (4.0)2.0 (3.3)0.363STAI-Y TRAITmean ± SD37.27 ± 11.2836.50 ± 11.900.123STAI-Y STATEMedian (IQR)37.0 (11.5)33.5 (10.3)0.664BDI-IIMedian (IQR)12.0 (10.3)9.5 (8.3)0.289HAM-Dmean ± SD12.5 (10.3)9.0 (12.0)0.026We reported mean and SD for normally distributed variables. We reported median (IQR) for not normally distributed variables.IQR, interquartile range; n, number; SD, standard deviation; MDS-UPDRS; SCOPA-AUT, scales for outcomes in PArkinson’s disease-autonomic dysfunction; MoCA, Montreal Cognitive Assessment; TAS-20, Toronto Alexithymia Scale; DIFt, difficulty identifying feelings; DDF, difficulty describing feelings; EOT, externally oriented thinking; RMET, reading the mind in the eyes test; PAS, Parkinson Anxiety Scale; STAI-Y, state-trait anxiety inventory; BDI-II, beck depression inventory-II; HAM-D, Hamilton depression rating scale.Statistically significant differences (p < 0.05) are reported in bold.
+
+Neurological and behavioral features of PD patients at T0 and T1.
+
+Neurological and behavioral features of PD patients at T0 and T1.
+
+T0N° 30T1N° 30pMDS-UPDRS I mean ± SD15.13 ± 7.9810.37 ± 6.05 < 0.001MDS-UPDRS IImean ± SD11.57 ± 6.6910.60 ± 7.080.427MDS-UPDRS IIImean ± SD23.83 ± 9.6623.57 ± 8.970.874MDS-UPDRS IV Median (IQR)2.0 (3.0)2.0 (3.0)0.720SCOPA-AUT*Median (IQR)17.0 (7.3)13.5 (9.8)0.001MoCAMedian (IQR)25.0 (7.0)24.0 (5.3)0.651TAS-20mean ± SD54.00 ± 13.4149.87 ± 12.030.014DIFtmean ± SD19.23 ± 7.7816.63 ± 7.410.034DDFmean ± SD14.10 ± 4.9612.87 ± 4.230.103EOTmean ± SD19.83 ± 4.9619.33 ± 5.010.538RMETmean ± SD20.53 ± 5.0920.87 ± 5.140.662PAS-Amean ± SD7.30 ± 4.976.03 ± 5.240.048PAS-BMedian (IQR)2.0 (4.0)2.0 (4.0)0.200PAS-CMedian (IQR)2.0 (4.0)2.0 (3.3)0.363STAI-Y TRAITmean ± SD37.27 ± 11.2836.50 ± 11.900.123STAI-Y STATEMedian (IQR)37.0 (11.5)33.5 (10.3)0.664BDI-IIMedian (IQR)12.0 (10.3)9.5 (8.3)0.289HAM-Dmean ± SD12.5 (10.3)9.0 (12.0)0.026
+
+MDS-UPDRS II
+
+mean ± SD
+
+MDS-UPDRS III
+
+mean ± SD
+
+SCOPA-AUT*
+
+Median (IQR)
+
+MoCA
+
+Median (IQR)
+
+TAS-20
+
+mean ± SD
+
+DIFt
+
+mean ± SD
+
+DDF
+
+mean ± SD
+
+EOT
+
+mean ± SD
+
+RMET
+
+mean ± SD
+
+PAS-A
+
+mean ± SD
+
+PAS-B
+
+Median (IQR)
+
+PAS-C
+
+Median (IQR)
+
+STAI-Y TRAIT
+
+mean ± SD
+
+STAI-Y STATE
+
+Median (IQR)
+
+BDI-II
+
+Median (IQR)
+
+HAM-D
+
+mean ± SD
+
+We reported mean and SD for normally distributed variables. We reported median (IQR) for not normally distributed variables.IQR, interquartile range; n, number; SD, standard deviation; MDS-UPDRS; SCOPA-AUT, scales for outcomes in PArkinson’s disease-autonomic dysfunction; MoCA, Montreal Cognitive Assessment; TAS-20, Toronto Alexithymia Scale; DIFt, difficulty identifying feelings; DDF, difficulty describing feelings; EOT, externally oriented thinking; RMET, reading the mind in the eyes test; PAS, Parkinson Anxiety Scale; STAI-Y, state-trait anxiety inventory; BDI-II, beck depression inventory-II; HAM-D, Hamilton depression rating scale.Statistically significant differences (p < 0.05) are reported in bold.
+
+We reported mean and SD for normally distributed variables. We reported median (IQR) for not normally distributed variables.
+
+IQR, interquartile range; n, number; SD, standard deviation; MDS-UPDRS; SCOPA-AUT, scales for outcomes in PArkinson’s disease-autonomic dysfunction; MoCA, Montreal Cognitive Assessment; TAS-20, Toronto Alexithymia Scale; DIFt, difficulty identifying feelings; DDF, difficulty describing feelings; EOT, externally oriented thinking; RMET, reading the mind in the eyes test; PAS, Parkinson Anxiety Scale; STAI-Y, state-trait anxiety inventory; BDI-II, beck depression inventory-II; HAM-D, Hamilton depression rating scale.
+
+Statistically significant differences (p < 0.05) are reported in bold.
+
+By analyzing changes in items of the MDS-UPDRS part I, significant changes after synbiotic treatment were found in MDS-UPDRS I-1 (cognitive impairment) (1.07 ± 1.19 vs 0,57 ± 0.90, p = 0.003), MDS-UPDRS I-6 (features of dopamine dysregulation syndrome) (0.50 ± 1.11 vs 0,0.03 vs 0.19, p = 0.037), MDS-UPDRS I-11 (constipation problems) (2.15 ± 1.22 vs 1.11 ± 1.10, p = 0.001). We also analyzed changes in SCOPA-AUT sub-scores, finding significant changes at T1 in gastrointestinal sub-score (questions 1–7) (7.00 ± 2.46 vs 4.20 ± 2.32, p = 0.001).
+
+Among the 30 patients who successfully completed treatment, 11 patients (36.7%) did not fulfil the Rome IV Criteria for FC/IBS-C after treatment.
+
+As shown in Table 4 treatment with synbiotic significantly reduced the PAC-SYM score at T1 (p < 0.001), particularly for sub-scales ABDOMINAL SYMPTOMS (p = 0.002), RECTAL SYMPTOMS (p = 0.014) and STOOL SYMPTOMS (p < 0.001).Table 4PACSYM score at T0 and T1.PAC_SYMT0, Median(IQR)T1, Median(IQR)p valueTotal PAC_SYM1.4(0.9)0.9(0.8) < 0.001ABDOMINAL0.5(1.0)0.0(0.7)0.002Discomfort0.0(2.0)0.0(1.3)0.237Pain0.0(1.0)0.0(0.0)0.187Bloating1.0(3.0)0.0(1.3)0.003Stomach cramps0.0(0.0)0.0(0.0)0.102RECTAL0.6(1.3)0.0(0.7)0.014Painful bowel movement0.0(2.0)0.0(0.3)0.272Rectal burning during or after a bowel movement0.0(2.0)0.0(0.3)0.069Rectal bleeding or tearing during or after a bowel movement0.0(1.0)0.0(0.0)0.024STOOL2.4(1.0)1.2(1.4) < 0.001Incomplete bowel movement2.0(2.0)1.0(2.0)0.002Bowel movement were too hard3.0(1.0)1.0(2.0)0.036Bowel movement were too small2.0(3.0)0.0(2.0)0.012Straining or squeezing to try and pass bowel movements3.0(1.0)2.0(2.0)0.001Feeling like you had to pass a bowel movement but you could not (‘false alarm’)2.2(2.0)0.0(1.0) < 0.001A footnote to explain the [bold] values has been added to table [4]. Please could you confirm the footnote? Or, confirm that we should remove the [bold] and the footnote from the table?.
+
+PACSYM score at T0 and T1.
+
+PACSYM score at T0 and T1.
+
+PAC_SYMT0, Median(IQR)T1, Median(IQR)p valueTotal PAC_SYM1.4(0.9)0.9(0.8) < 0.001ABDOMINAL0.5(1.0)0.0(0.7)0.002Discomfort0.0(2.0)0.0(1.3)0.237Pain0.0(1.0)0.0(0.0)0.187Bloating1.0(3.0)0.0(1.3)0.003Stomach cramps0.0(0.0)0.0(0.0)0.102RECTAL0.6(1.3)0.0(0.7)0.014Painful bowel movement0.0(2.0)0.0(0.3)0.272Rectal burning during or after a bowel movement0.0(2.0)0.0(0.3)0.069Rectal bleeding or tearing during or after a bowel movement0.0(1.0)0.0(0.0)0.024STOOL2.4(1.0)1.2(1.4) < 0.001Incomplete bowel movement2.0(2.0)1.0(2.0)0.002Bowel movement were too hard3.0(1.0)1.0(2.0)0.036Bowel movement were too small2.0(3.0)0.0(2.0)0.012Straining or squeezing to try and pass bowel movements3.0(1.0)2.0(2.0)0.001Feeling like you had to pass a bowel movement but you could not (‘false alarm’)2.2(2.0)0.0(1.0) < 0.001
+
+A footnote to explain the [bold] values has been added to table [4]. Please could you confirm the footnote? Or, confirm that we should remove the [bold] and the footnote from the table?.
+
+A footnote to explain the [bold] values has been added to table [4]. Please could you confirm the footnote? Or, confirm that we should remove the [bold] and the footnote from the table?.
+
+Furthermore, we observed a significant increase in the number of bowel movements (p < 0.001) and a decrease in the numerical values of the Bristol Stool Form Chart Adjectival scale for stool consistency (BSFS) (p = 0.001) (Table 5).Table 5Bowel function at T0 and T1.T0, Median(IQR)T1, Median(IQR)p valueNumber of bowel movements3.0(3.5)5.5(4.1)0.000Bristol stool types2.0(2.0)3.0(2.0)0.001Statistically significant differences (p < 0.05) are reported in bold.
+
+Bowel function at T0 and T1.
+
+Bowel function at T0 and T1.
+
+T0, Median(IQR)T1, Median(IQR)p valueNumber of bowel movements3.0(3.5)5.5(4.1)0.000Bristol stool types2.0(2.0)3.0(2.0)0.001
+
+Statistically significant differences (p < 0.05) are reported in bold.
+
+Statistically significant differences (p < 0.05) are reported in bold.
+
+Among patients who completed the treatment, 4 patients (13.3%) required additional treatment with rescue therapy (Bisacodyl), with an average intake of 1.5 (± 0.6) tablets weekly, for 3.8 (± 2.1) weeks on average. None of patients took rectal enemas or otilonium bromide.
+
+A single fecal sample was collected from 7 patients at T0 and T1.
+
+The analysis of the bacterial community structure in fecal samples before and after synbiotic intake revealed significant changes in the abundance of 8 taxa (Fig. 1). Specifically, the orders Oscillospirales and Peptostreptococcales exhibited significant increases. Within the Oscillospirales order, we observed a significant rise in the family Oscillospiraceae, the genus Faecalibacterium, and the species Faecalibacterium prausnitzii. Additionally, two ASVs ascribed to the species Romboutsia timonensis and one ASV ascribed to the species Gemmiger qucibialis showed significant decreases.Figure 1Fecal bacterial taxa that exhibited significant changes after the synbiotic intake period. ASV refers to Amplicon Sequence Variant. Taxonomic lineage is provided: p, phylum; c, class; o, order; f, family; g, genus; s, species. Taxonomic names highlighted in blue were identified through manual BLASTN searches in GenBank using the corresponding read sequence. Names in square brackets indicate non-validated taxonomy. Corrections to the taxonomic names compared to those in the Greengenes database are highlighted in purple. p values were obtained from Mann–Whitney tests on CLR-transformed bacterial abundances. The numbers in the white-red heatmap indicate the median CLR-transformed abundance of the respective bacterial taxon at T0 and T1. The intensity of the red color in the heatmap corresponds to the increase in abundance.
+
+Fecal bacterial taxa that exhibited significant changes after the synbiotic intake period. ASV refers to Amplicon Sequence Variant. Taxonomic lineage is provided: p, phylum; c, class; o, order; f, family; g, genus; s, species. Taxonomic names highlighted in blue were identified through manual BLASTN searches in GenBank using the corresponding read sequence. Names in square brackets indicate non-validated taxonomy. Corrections to the taxonomic names compared to those in the Greengenes database are highlighted in purple. p values were obtained from Mann–Whitney tests on CLR-transformed bacterial abundances. The numbers in the white-red heatmap indicate the median CLR-transformed abundance of the respective bacterial taxon at T0 and T1. The intensity of the red color in the heatmap corresponds to the increase in abundance.
+
+Fecal bacterial taxa that exhibited significant changes after the synbiotic intake period. ASV refers to Amplicon Sequence Variant. Taxonomic lineage is provided: p, phylum; c, class; o, order; f, family; g, genus; s, species. Taxonomic names highlighted in blue were identified through manual BLASTN searches in GenBank using the corresponding read sequence. Names in square brackets indicate non-validated taxonomy. Corrections to the taxonomic names compared to those in the Greengenes database are highlighted in purple. p values were obtained from Mann–Whitney tests on CLR-transformed bacterial abundances. The numbers in the white-red heatmap indicate the median CLR-transformed abundance of the respective bacterial taxon at T0 and T1. The intensity of the red color in the heatmap corresponds to the increase in abundance.
+
+The analysis of organic acids in the fecal samples showed a reduction in acetate levels and an increase in butyrate, valerate, and isovalerate levels in most PD patients (Fig. 2). However, statistical significance was not achieved for any of these organic acids. A statistically significant change was however observed in the butyrate/acetate ratio, which was found to be increased after the synbiotic intake.Figure 2Organic acids in fecal samples of PD patients. Paired data (i.e., T0 and T1 for the same patient) were available for n = 7 patients except for propionate (n = 6). p values are according to the Wilcoxon test; *, p < 0.05.
+
+Organic acids in fecal samples of PD patients. Paired data (i.e., T0 and T1 for the same patient) were available for n = 7 patients except for propionate (n = 6). p values are according to the Wilcoxon test; *, p < 0.05.
+
+Organic acids in fecal samples of PD patients. Paired data (i.e., T0 and T1 for the same patient) were available for n = 7 patients except for propionate (n = 6). p values are according to the Wilcoxon test; *, p < 0.05.
+
+Discussion
+Probiotics can regulate the composition of the gut microbiota, enhance gut barrier function, and exert anti-inflammatory and immunomodulatory effects through various mechanisms40.
+
+Several clinical trials have indicated that probiotics positively affect gastrointestinal symptoms in PD patients, particularly those related to constipation, abdominal pain, and abdominal distension, and this is a growing area of research41–46. Also, several studies on animal models of PD indicate that different probiotics can have positive effects on dopaminergic transmission, as dopaminergic neuron preservation and prevention of neuronal damage in the substantia nigra40. Several strains of Lacticaseibacillus caseiare commonly used as probiotics in various food products and dietary supplements, and clinical trials have shown their potential health benefits, including enhancement of the immune system’s function47, anti-oxidative and anti-inflammatory effects48, maintenance of a balanced gut microbiota49and alleviation of constipation symptoms22. We found only one previous 6-week open label study investigating the effects of the administration of L. paracaseiShirota (LcS) in PD patients, demonstrating a significant improvement of constipation symptoms. However, neurological effects were not investigated44.
+
+Inulin is a non-digestible oligosaccharide that has been linked to the growth of beneficial intestinal and probiotic bacteria, improvement of bowel regularity, enhancement of nutrient absorption, modulation of the immune response50. We did not find previous studies investigating the effects of inulin supplementation or this type of synbiotic in PD population.
+
+Our study took a comprehensive approach, investigating both the non-motor and motor features but also the gastroenterological symptoms in PD patients.
+
+The main finding of our study is that the consumption of a probiotic and prebiotic combination (Enterolactis Duo®) over 12 weeks significantly improved constipation but also other non-motor symptoms, such as anxiety, alexythimia, dysautonomia (with a global improvement in various body functions, including gastrointestinal, urinary, cardiovascular, thermoregulatory, pupillomotor, and sexual dysfunction) in PD patients.
+
+There is a relationship between the gut microbiome and mental health51. Findings from clinical studies demonstrated that probiotics, in healthy subjects, significantly reduce panic anxiety and negative affect13; reduce self-reported cognitive reactivity to sad mood (indexed by the LEIDS-r)14; alleviate psychological distress (measured by the Hopkins Symptom Checklist-HSCL-90 scale, the Hospital Anxiety and Depression Scale-HADS and by the Coping Checklist—CCL)52. Several RCTs also demonstrated beneficial effects of probiotic supplementation on patients with depressive disorders: probiotic supplements are significantly associated with decrease of Beck Depression Inventory total scores53, of Zung Self-Rating Depression Scale (Z-SDS) scores54, Hamilton Depression Rating Scale-17 and Depression and Somatic Symptoms Scale55. Moreover, a treatment with the probiotic strain LcS was found to be associated to a significant decrease in anxiety symptoms as measured by Beck Anxiety Inventories among people with chronic fatigue syndrome (CFS)56.
+
+According with previous results using different probiotics, our study shows that taking probiotics in PD has a favorable impact on depression as measured by Hamilton Depression Scale, and on anxiety, assessed by PAS scale in our study and mainly by Hamilton Anxiety Scale in previous studies57,58. Interestingly, one of these studies investigated LcS supplementation on clinical responses over 12 weeks58.
+
+Some previous studies investigated probiotics supplementation effects on UPDRS I58,59, UPDRS III57–59 and global UPDRS60in PD patients. In one previous study, using the LcS strain, an improvement on UPDRS I score was reported58. Indeed, our study showed for the first time that synbiotic supplementation can improve non-motor symptoms assessed by the MDS-UPDRS part I and, by analyzing effects on single items of the scale, particularly cognitive impairment, dopamine dysregulation syndrome and constipation were significantly improved. On the other hand, we did not find an improvement on the MoCA score. Indeed, the cognitive item in UPDRS part I and MOCA are two different measures. It is possible that the cognitive abilities measured by MOCA are not significantly affected by synbiotic supplementation, while a subjective improvement in cognitive efficiency visible in daily life activities is perceived by the patient and/or caregiver and this may be revealed by the cognitive item in UPDRS I. Specifically, the MOCA is a neuropsychological screening test and as such is made up of tasks that have a numerical equivalent and has specific psychometric properties, designed to guarantee a reliable measurement of the global cognitive state of an individual. In order to obtain a total score of MOCA, the patients perform 10 tasks and the final score does not include the functional aspects of cognitive deficits. The UPDRS part I is a rating scale composed by questions relating to all the non-motor symptoms of PD, measured in the last week; the clinician extrapolates from the caregiver/patient’s answers a label that corresponds to an arbitrary numeric scale. In the UPDRS part I, the cognitive item includes heterogeneous and cumulative information (such as cognitive slowing, reasoning impairment, memory loss, attention deficit and orientation) and to assign the score it is necessary to understand the impact that cognitive deficits have on daily life. Moreover, cognitive slowing and reasoning impairment are not specific targets of the MOCA test.
+
+Moreover, our study is the first to investigate synbiotic supplementation effects on alexythimia (assessed by TAS-20) and dysautonomia (assessed by SCOPA-AUT), demonstrating improvements in both non-motor symptoms.
+
+An interesting and innovative data relating to the domain of affective disorders is the improvement of alexithymia after use of probiotics. There are no studies in the literature that have analyzed the relationship between alexithymia and the use of probiotics. The data regarding PD patients show high rates of clinically significant alexithymia29, but the neurophysiological mechanism is not clear. It is likely that alexithymia in PD represents a secondary consequence of the loss of dopaminergic input to fronto-opercular structures61. On the other hand, a previous study did not find a significant association between dopamine medication and alexithymia in PD patients62. Regardless of heterogeneous results, it would also be useful to consider the role of physiological reactivity in shaping feelings63. In fact, neural circuits involved in ‘interoception’–i.e., perception of the current state of the viscera (e.g. heart rate, perspiration, etc.)– have been suggested to play a role in emotional awareness64. Therefore, the probiotics could act on “the microbiome–gut–brain axis”, bringing advantages to the emotional brain network or amplifying the attention paid to emotional stimuli65.
+
+The data obtained from the analysis of the fecal microbial ecosystem corroborate the clinical findings of this study. Specifically, we observed a significant increase in members of the Oscillospiraceae family, particularly F. prausnitzii, which are among the major butyrate-producing bacteria in the human colon. Numerous studies have reported a reduction in the abundance of F. prausnitziiin PD patients66. Furthermore, an increase in putative acetate-producer bacterial taxa has been suggested in PD67. Notably, acetate serves as a precursor for butyrate production in F. prausnitzii68. Accordingly, alongside the increase in this bacterium, we observed a significant rise in the ratio between butyrate and acetate levels in fecal samples following synbiotic intake. Importantly, decreased levels of bacterially produced butyrate have been associated with epigenetic changes in leukocytes and neurons from PD patients, as well as the severity of their depressive symptoms69. Therefore, we can speculate that modifications in the fecal microbiome following synbiotic intake may contribute to the improvements in behavioral and cognitive symptoms observed in the PD patients of this study.
+
+Our data are preliminary but important because the limited differentiation of feeling states in alexithymia appears to cause patients great difficulty in regulating and resolving negative affect.
+
+To the best of our knowledge, the current study was the first report that investigated the effect of probiotic adjuvant treatment on autonomic functions in PD patients. Autonomic dysfunction in PD includes orthostatic hypotension (OH), gastrointestinal tract dysfunction, urinary dysfunction, erectile dysfunction (ED), and diaphoresis. Gastrointestinal tract dysfunctions in PD include not only constipation but also dysphagia, drooling, nausea, gastroparesis, and incomplete bowel emptying70. The underlying causes for gastrointestinal dysfunction in PD are multifaceted: enteric synucleinopathy, dysbiosis, enteric nervous system dysfunction due to impaired dopamine signaling and central mechanisms may all contribute to their onset and clinical manifestations71.
+
+Our study showed that the administration of a synbiotic significantly improved patients’ SCOPA-AUT scores demonstrating a global improvement of dysautonomia, and of all upper and lower gastrointestinal dysautonomia symptoms (GIDS). Our results could offer new options for helping alleviate these symptoms, ultimately improving the overall well-being of PD patients.
+
+Our study did not demonstrate significant changes in the motor symptoms investigated with MDS-UPDRS, while some previous reports showed motor improvements after probiotics supplementations57,60. We suggest that this discrepancy may be explained by the different enrollment criteria, since in our study only patients with stable disease and without motor fluctuations were recruited.
+
+Probiotics, by introducing beneficial bacteria to the gut, may help restore the dysbiosis of PD patients and improve communication along the gut-brain axis, possibly affecting alpha-synuclein–related neurodegeneration in the Enteric Nervous System (ENS).
+
+Gut bacteria have been shown to produce and modulate various neurotransmitters, including glutamate, serotonin, dopamine, norepinephrine, histamine and acetylcholine and gamma-aminobutyric acid (GABA). Lactobacillus has been found to produce various neurotransmitters in vitro, with the specific neurotransmitters produced depending on the Lactobacillus species72. By influencing the production and metabolism of these neurotransmitters, probiotics may have indirect effects on non-motor symptoms in PD.
+
+Also, chronic inflammation and immune dysregulation are thought to contribute to PD pathogenesis and progression73and specifically in non-motor symptoms such as depression, fatigue and cognitive impairment. Recent studies have shown elevated levels of serum inflammatory markers in PD patients, associated with severity of non-motor symptoms74. Probiotics can modulate the immune response and reduce inflammation by influencing the production of anti-inflammatory cytokines and promoting the integrity of the gut barrier75. Moreover, there are growing evidence of neuroprotective effects of short-chain fatty acids (SCFAs) producing bacteria such as Lactobacillus76. SCFAs can exert both systemic anti-inflammatory effects and microglia inflammation regulation, can preserve blood–brain barrier (BBB) integrity, and promote neurogenesis76. Preclinical studies in animal models have also demonstrated the potential antidepressant effects of SCFAs77. By increasing SCFA production, probiotics and prebiotics may have a positive impact on non-motor symptoms in Parkinson’s patients.
+
+Additionally, gut microbiota is involved in drug metabolism and therefore in levodopa pharmacokinetics. Intestinal microorganisms such as Enterococcus faecalis, Helicobacter pylori, and Clostridium sporogenescan affect the metabolism and absorption of levodopa78, and dysbiosis could have implications on the absorption of levodopa from the jejunum79. Through restoration of balance in gut microbiota, synbiotic treatment could also offer a strategy to optimize levodopa metabolism and its therapeutic effects on motor and non-motor symptoms.
+
+The main limitations of our study were the lack of a control group and the limited number of fecal samples examined. However, this open label study showed promising results on the effects of a synbiotic product on non-motor symptoms in PD., The research on probiotics in PD is still in its early stages, and further well-designed clinical trials are needed to establish the effectiveness, optimal strains, dosages, and duration of probiotic supplementation for improving non-motor symptoms in PD patients.

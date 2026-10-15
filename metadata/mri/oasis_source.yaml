@@ -1,0 +1,15 @@
+dataset_name: OASIS-3
+source: Open Access Series of Imaging Studies
+subject_type: aging_and_alzheimers
+selected_target_subjects: 60
+primary_modality: T1
+additional_modalities_expected:
+  - T2
+  - FLAIR
+  - DTI
+  - PET
+clinical_metadata: yes
+longitudinal: yes
+usage_in_neuravision: disease-oriented MRI and clinical reference dataset
+stage: 2
+access_status: submitted_waiting_approval

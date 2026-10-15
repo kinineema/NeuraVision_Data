@@ -1,0 +1,54 @@
+database: pubmed
+date_range:
+  start_year: 2018
+  end_year: 2026
+target_per_disease: 120
+candidate_multiplier: 10
+batch_size: 100
+request_timeout_seconds: 30
+tool_name: NeuraVision_Data_Literature_Ingestion
+api:
+  base_url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils
+diseases:
+  alzheimers:
+    label: Alzheimer's disease
+    query: '("Alzheimer Disease"[MeSH Terms] OR "Alzheimer disease"[Title/Abstract] OR "Alzheimer''s disease"[Title/Abstract])'
+  parkinsons:
+    label: Parkinson's disease
+    query: '("Parkinson Disease"[MeSH Terms] OR "Parkinson disease"[Title/Abstract] OR "Parkinson''s disease"[Title/Abstract])'
+  epilepsy:
+    label: Epilepsy
+    query: '("Epilepsy"[MeSH Terms] OR epilepsy[Title/Abstract])'
+  multiple_sclerosis:
+    label: Multiple sclerosis
+    query: '("Multiple Sclerosis"[MeSH Terms] OR "multiple sclerosis"[Title/Abstract])'
+  stroke:
+    label: Stroke
+    query: '("Stroke"[MeSH Terms] OR stroke[Title/Abstract] OR "cerebrovascular accident"[Title/Abstract])'
+categories:
+  review:
+    label: Reviews/systematic reviews
+    target_share: 0.333333
+    query: '(Review[pt] OR Meta-Analysis[pt] OR Systematic Review[pt])'
+  clinical:
+    label: Clinical/RCT studies
+    target_share: 0.25
+    query: '(Clinical Trial[pt] OR Randomized Controlled Trial[pt] OR "clinical study"[Title/Abstract])'
+  imaging:
+    label: Imaging/diagnostic
+    target_share: 0.166667
+    query: '(MRI[Title/Abstract] OR "magnetic resonance"[Title/Abstract] OR PET[Title/Abstract] OR CT[Title/Abstract] OR neuroimaging[Title/Abstract] OR imaging[Title/Abstract])'
+  treatment:
+    label: Treatment/therapy
+    target_share: 0.125
+    query: '(treatment[Title/Abstract] OR therapy[Title/Abstract] OR therapeutic[Title/Abstract] OR intervention[Title/Abstract])'
+  biomarker_progression:
+    label: Biomarker/progression
+    target_share: 0.125
+    query: '(biomarker[Title/Abstract] OR progression[Title/Abstract] OR longitudinal[Title/Abstract] OR prognosis[Title/Abstract])'
+output:
+  raw_dir: raw/literature
+  articles_jsonl: processed/literature/articles.jsonl
+  articles_csv: processed/literature/articles.csv
+  article_text_dir: processed/literature/article_text
+  metadata_dir: metadata

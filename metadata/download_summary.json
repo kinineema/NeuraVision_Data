@@ -1,0 +1,190 @@
+{
+  "total_unique_articles": 385,
+  "disease_counts": {
+    "alzheimers": 119,
+    "parkinsons": 136,
+    "epilepsy": 118,
+    "multiple_sclerosis": 117,
+    "stroke": 119
+  },
+  "category_counts": {
+    "review": 271,
+    "clinical": 96,
+    "imaging": 61,
+    "treatment": 64,
+    "biomarker_progression": 63
+  },
+  "category_counts_by_disease": {
+    "alzheimers": {
+      "review": 97,
+      "clinical": 15,
+      "imaging": 20,
+      "treatment": 33,
+      "biomarker_progression": 27
+    },
+    "parkinsons": {
+      "review": 115,
+      "clinical": 12,
+      "imaging": 21,
+      "treatment": 34,
+      "biomarker_progression": 29
+    },
+    "epilepsy": {
+      "review": 80,
+      "clinical": 30,
+      "imaging": 20,
+      "treatment": 17,
+      "biomarker_progression": 16
+    },
+    "multiple_sclerosis": {
+      "review": 80,
+      "clinical": 31,
+      "imaging": 21,
+      "treatment": 22,
+      "biomarker_progression": 27
+    },
+    "stroke": {
+      "review": 83,
+      "clinical": 30,
+      "imaging": 20,
+      "treatment": 26,
+      "biomarker_progression": 16
+    }
+  },
+  "category_targets_by_disease": {
+    "alzheimers": {
+      "review": 38,
+      "clinical": 29,
+      "imaging": 19,
+      "treatment": 14,
+      "biomarker_progression": 14
+    },
+    "parkinsons": {
+      "review": 38,
+      "clinical": 29,
+      "imaging": 19,
+      "treatment": 14,
+      "biomarker_progression": 14
+    },
+    "epilepsy": {
+      "review": 38,
+      "clinical": 29,
+      "imaging": 19,
+      "treatment": 14,
+      "biomarker_progression": 14
+    },
+    "multiple_sclerosis": {
+      "review": 38,
+      "clinical": 29,
+      "imaging": 19,
+      "treatment": 14,
+      "biomarker_progression": 14
+    },
+    "stroke": {
+      "review": 38,
+      "clinical": 29,
+      "imaging": 19,
+      "treatment": 14,
+      "biomarker_progression": 14
+    }
+  },
+  "year_distribution": {
+    "2018": 93,
+    "2019": 103,
+    "2020": 34,
+    "2021": 24,
+    "2022": 24,
+    "2023": 20,
+    "2024": 29,
+    "2025": 24,
+    "2026": 34
+  },
+  "year_distribution_by_disease": {
+    "alzheimers": {
+      "2018": 7,
+      "2019": 14,
+      "2020": 9,
+      "2021": 18,
+      "2022": 16,
+      "2023": 12,
+      "2024": 10,
+      "2025": 9,
+      "2026": 24
+    },
+    "parkinsons": {
+      "2018": 6,
+      "2019": 16,
+      "2020": 6,
+      "2021": 20,
+      "2022": 20,
+      "2023": 14,
+      "2024": 16,
+      "2025": 13,
+      "2026": 25
+    },
+    "epilepsy": {
+      "2018": 25,
+      "2019": 39,
+      "2020": 17,
+      "2021": 5,
+      "2022": 6,
+      "2023": 4,
+      "2024": 10,
+      "2025": 9,
+      "2026": 3
+    },
+    "multiple_sclerosis": {
+      "2018": 35,
+      "2019": 23,
+      "2020": 6,
+      "2021": 7,
+      "2022": 9,
+      "2023": 9,
+      "2024": 5,
+      "2025": 12,
+      "2026": 11
+    },
+    "stroke": {
+      "2018": 30,
+      "2019": 34,
+      "2020": 11,
+      "2021": 4,
+      "2022": 2,
+      "2023": 6,
+      "2024": 13,
+      "2025": 9,
+      "2026": 10
+    }
+  },
+  "year_distribution_warnings": [],
+  "with_pmc_full_text": 190,
+  "abstract_only": 195,
+  "duplicates_removed": 7,
+  "duplicate_checks": {
+    "duplicate_pmids": 0,
+    "duplicate_dois": 0,
+    "duplicate_normalized_titles": 0
+  },
+  "missing_title": 0,
+  "missing_abstract": 0,
+  "non_english_records": 0,
+  "invalid_publication_years": 0,
+  "malformed_records": 0,
+  "failed_records": 198,
+  "target_per_disease": 115,
+  "disease_coverage_met": true,
+  "category_balance_met": false,
+  "validation_passed": true,
+  "artifact_checks": {
+    "jsonl_parseable": true,
+    "malformed_jsonl_lines": 0,
+    "articles_csv_consistent": true,
+    "articles_csv_rows": 385,
+    "catalog_consistent": true,
+    "catalog_rows": 385,
+    "missing_full_text_files": [],
+    "missing_provenance": 0,
+    "missing_retrieved_at": 0
+  },
+  "validation_failures": []
+}

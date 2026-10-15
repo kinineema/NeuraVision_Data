@@ -1,0 +1,8 @@
+NeuraVision Literature Corpus - Stage 1 Frozen
+Date: 2026-10-15
+Unique articles: 385
+PMC full text: 190
+Abstract only: 195
+Validation minimum per disease: 115
+Validation: PASS
+Known limitation: Clinical-study representation is lower than the configured target for Alzheimer's and Parkinson's disease.

@@ -1,0 +1,8 @@
+canonical_article_id,duplicate_identifier,duplicate_type,matched_on,disease_tags_merged,category_tags_merged
+PMID_33361021,PMID_30697466,duplicate,doi,alzheimers|epilepsy|multiple_sclerosis|stroke,clinical|review
+PMID_33361021,PMID_32112544,duplicate,doi,alzheimers|epilepsy|multiple_sclerosis|stroke,clinical|review
+PMID_33361021,PMID_41877687,duplicate,doi,alzheimers|epilepsy|multiple_sclerosis|parkinsons|stroke,biomarker_progression|clinical|review
+PMID_33361021,PMID_30487494,duplicate,doi,alzheimers|epilepsy|multiple_sclerosis|parkinsons|stroke,biomarker_progression|clinical|review
+PMID_33361021,PMID_32117552,duplicate,doi,alzheimers|epilepsy|multiple_sclerosis|parkinsons|stroke,biomarker_progression|clinical|review
+PMID_33361021,PMID_31210903,duplicate,doi,alzheimers|epilepsy|multiple_sclerosis|parkinsons|stroke,biomarker_progression|clinical|review
+PMID_33361021,PMID_30886680,duplicate,doi,alzheimers|epilepsy|multiple_sclerosis|parkinsons|stroke,biomarker_progression|clinical|review|treatment
